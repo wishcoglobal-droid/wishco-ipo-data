@@ -1,64 +1,362 @@
 {
- "at": "13 Nov 2026, 20:53 IST",
- "r": [
-  {
-   "url": "https://www.ipopremium.in/",
-   "ok": true,
-   "len": 100542,
-   "head": "<!DOCTYPE html>\n\n<html lang=\"en\"\n      >\n\n<head>\n\n    \n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n            <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <meta name=\"csrf-token\" content=\"CXu2BXNMlNYenpU7NCVwXjgQvWAQIzoUHhojJ9xl\">\n\n    \n    \n    \n    <link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n    <link rel=\"preconnect\" href=\"https://cdn.datatables.net\">\n    <link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\">\n    \n            \n                        <meta name=\"robots\" content=\"max-snippet:-1,max-image-preview:large,max-video-preview:-1\">\n\n<link rel=\"sitemap\" title=\"Sitemap\" href=\"/sitemap.xml\" type=\"application/xml\">\n<meta name=\"description\" content=\"Get real-time updates on live and upcoming IPOs, GMP, subscription status &amp; more. Track, compare &amp; apply for IPOs easily with IPO Premium.\">\n<meta name=\"author\" content=\"IPO Premium\">\n<title>IPO Premium – Upcoming IPOs, GMP, Apply IPO Online</title>\n<meta name=\"image\" content=\"https://www.ipopremium.in/img/og-image.png\">\n<link href=\"https://www.ipopremium.in/favicon.ico\" rel=\"shortcut icon\">\n<meta property=\"og:title\" content=\"IPO Premium – Upcoming IPOs, GMP, Apply IPO Online\">\n<meta property=\"og:description\" content=\"Get real-time updates on live and upcoming IPOs, GMP, subscription status &amp; more. Track, compare &amp; apply for IPOs easily with IPO Premium.\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:imag"
-  },
-  {
-   "url": "https://ipopremium.in/ipo",
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
-  },
-  {
-   "url": "https://www.investorgain.com/report/live-ipo-gmp/331/",
-   "ok": true,
-   "len": 277231,
-   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_a869fe2d-module__Nl2jCG__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/a602256c9379a2b2.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/fe81322e39413244.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/635245f93e41a18e.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/7809810984227277.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/543fd26d4cb14aef.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/cff338d16274a304.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/f9fd6f7d17579ee3.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/855fef9167750707.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/082369ed74945df4.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/cff3640489c64d2b.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/9f34511ce58eaf4c.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/f0f14767f4529770.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/309e960e071452b6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/264ad7406802d6aa.css\" dat"
-  },
-  {
-   "url": "https://webnodejs.investorgain.com/cloud/report/data-read/331/1/11/2026/2026-27/0/all",
-   "ok": true,
-   "len": 99,
-   "head": "{\"msg\":\"API not found\",\"error\":\"/cloud/report/data-read/331/1/11/2026/2026-27/0/all API NOT FOUND\"}"
-  },
-  {
-   "url": "https://www.chittorgarh.com/report/ipo-subscription-status-live-bidding-data-bse-nse/21/",
-   "ok": true,
-   "len": 116961,
-   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_4a4f7444-module__UHjWDq__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"https://www.chittorgarh.net/images/ipo/report_ipo-subscription-status-live-bidding-data-bse-nse_21.png\" as=\"image\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/c918a321f355d737.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/00e74d34ac93a974.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/e574aa2129ad778d.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/febab3fae21381e6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/ded2596e0d5cee92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/af9fdfe07b20867a.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/c8d734aa75da4a2c.js\"/><script src=\"/_next/static/chunks/112f346e31f991df.js\" async=\"\"></script><script src=\"/_next/static/chunks/c6ec21352f58104c.js\" async=\"\"></script><script src=\"/_next/static/chunks/79dbd29bdfef60ca.js\" async=\"\"></script><script src=\"/_next/static/chunks/c462f7822a1dbf4e.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3b79e9aff9e7a02f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a557318cc4aaf1f8.js\" async=\"\"></script><script src=\"/_next/static/chunks/8a4dd8649c6938e3.js\" a"
-  },
-  {
-   "url": "https://webnodejs.chittorgarh.com/cloud/report/data-read/21/1/11/2026/2026-27/0/0",
-   "ok": true,
-   "len": 42,
-   "head": "{\"msg\":-1,\"error\":\"No params data found.\"}"
-  },
-  {
-   "url": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/0",
-   "ok": true,
-   "len": 42,
-   "head": "{\"msg\":-1,\"error\":\"No params data found.\"}"
-  },
-  {
-   "url": "https://www.chittorgarh.com/report/mainboard-ipo-list-in-india-bse-nse/83/",
-   "ok": true,
-   "len": 132104,
-   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_4a4f7444-module__UHjWDq__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"https://www.chittorgarh.net/images/ipo/report_ipo-in-india-list-main-board-sme_82_mainboard.png\" as=\"image\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/c918a321f355d737.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/00e74d34ac93a974.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/e574aa2129ad778d.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/febab3fae21381e6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/ded2596e0d5cee92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/af9fdfe07b20867a.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/0a558fbdbe565a25.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/c8d734aa75da4a2c.js\"/><script src=\"/_next/static/chunks/112f346e31f991df.js\" async=\"\"></script><script src=\"/_next/static/chunks/c6ec21352f58104c.js\" async=\"\"></script><script src=\"/_next/static/chunks/79dbd29bdfef60ca.js\" async=\"\"></script><script src=\"/_next/static/chunks/c462f7822a1dbf4e.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3b79e9aff9e7a02f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a55731"
-  },
-  {
-   "url": "https://www.nseindia.com/api/ipo-current-issue",
-   "ok": true,
-   "len": 2,
-   "head": "[]"
-  },
-  {
-   "url": "https://www.bseindia.com/markets/PublicIssues/IPOIssues_new.aspx?id=1&Type=p",
-   "ok": true,
-   "len": 16912,
-   "head": "<!DOCTYPE html><html lang=\"en\" data-critters-container=\"\"><head>\n    <meta charset=\"utf-8\">\n    <title>\n      LIVE Stock/Share Market | Indian Stock/Share Market LIVE | BSE SENSEX | BSE (formerly Bombay Stock\n      Exchange)\n    </title>\n    <meta name=\"description\" content=\"BSE SENSEX - India's Index the World Tracks. Get live BSE SENSEX quotes. BSE Sensex Heat Map a great tool to track BSE SENSEX stocks. Gainers, losers, volume toppers in BSE SENSEX Stocks. Corporate announcements of BSE SENSEX stocks, Share Market Today | Share Market Live updates. Share Market Live Charts, News, Analysis, IPO News and more. Click here to stay updated and invest wisely!Get all the latest share market and India stock market news and updates on bseindia.com\">\n    <meta name=\"keywords\" content=\"BSE SENSEX, BSE SENSEX Value, BSE SENSEX Heat Map, BSE SENSEX movers, BSE SENSEX volume toppers, BSE SENSEX derivatives, BSE SENSEX F&amp;,O, BSE SENSEX ETFs, BSE SENSEX announcements, BSE SENSEX chart, BSE SENSEX graph, BSE SENSEX performance, BSE SENSEX ups &amp;, downs, BSE SENSEX Market Capitalization, bombay stock exchange, live market watch, Indian stock market, bse, sensex, stock exchange, stock market.\">\n    <base href=\"/\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"csp-nonce\" content=\"\">\n    <!-- Don't need this here as we manage the CSP from IIS's web.config. Having a csp both here and there can cause clashes and unwanted behaviour -->\n    <!-- <m"
-  }
- ]
+ "at": "13 Nov 2026, 20:54 IST",
+ "len": 100507,
+ "rows": [
+  [
+   "IPO Premium – Upcoming IPOs, GMP, Apply IPO Online Toggle navigation Login Register IPOs Dashboard IPO Calendar Apply & Track IPO Orders / Bids IPO Form Print Allotment Checker Help Supported UPI Apps FAQ Help / Support All Your IPO Information in One Place Live GMP, subscription numbers, allotment status and expert insights &mdash; everything you need to apply for IPOs with confidence. Search IPOs, GMP, news and more Watch Live Subscription IPO Calendar OFS Upcoming, Live and Past IPOs, GMP, Pre-Apply and Apply All Open Upcoming Closed All Mainboard SME Company",
+   "GMP Rumors *",
+   "Open – Close",
+   "Close",
+   "Price",
+   "Lot",
+   "Issue Size",
+   "Lead Managers",
+   "Allotment",
+   "Listing",
+   "Action"
+  ],
+  [
+   "Company Name",
+   "Type",
+   "GMP (₹)",
+   "Open",
+   "Close",
+   "Price Band (₹)",
+   "Listing Date"
+  ],
+  [
+   "Watrana Rentals Ltd (NSE SME)",
+   "SME",
+   "0",
+   "Nov 19, 2026",
+   "Nov 23, 2026",
+   "232&ndash;245",
+   "Nov 27, 2026"
+  ],
+  [
+   "Crystal Crop Protection Ltd (MAINBOARD)",
+   "EQ",
+   "45",
+   "Nov 18, 2026",
+   "Nov 20, 2026",
+   "259&ndash;272",
+   "Nov 26, 2026"
+  ],
+  [
+   "Vedant Poly Fabs Ltd. (NSE SME)",
+   "SME",
+   "1",
+   "Nov 2, 2026",
+   "Nov 4, 2026",
+   "88&ndash;94",
+   "Nov 9, 2026"
+  ],
+  [
+   "HGS (India) Ltd. (NSE SME)",
+   "SME",
+   "27",
+   "Oct 30, 2026",
+   "Nov 3, 2026",
+   "114&ndash;120",
+   "Nov 6, 2026"
+  ],
+  [
+   "Maxwell Engineering Ltd. (NSE SME)",
+   "SME",
+   "105",
+   "Oct 30, 2026",
+   "Nov 3, 2026",
+   "150&ndash;158",
+   "Nov 6, 2026"
+  ],
+  [
+   "Vectras Enprocon (BSE SME)",
+   "SME",
+   "0",
+   "Oct 30, 2026",
+   "Nov 3, 2026",
+   "99&ndash;105",
+   "Nov 6, 2026"
+  ],
+  [
+   "Johnsoncab Electricals Ltd.(BSE SME)",
+   "SME",
+   "8",
+   "Oct 30, 2026",
+   "Nov 3, 2026",
+   "190&ndash;200",
+   "Nov 6, 2026"
+  ],
+  [
+   "Antala Industries Ltd (BSE SME)",
+   "SME",
+   "0",
+   "Oct 29, 2026",
+   "Nov 5, 2026",
+   "62&ndash;66",
+   "Nov 11, 2026"
+  ],
+  [
+   "Bombay Coated & Special Steels Ltd (MAINBOARD)",
+   "EQ",
+   "8",
+   "Oct 29, 2026",
+   "Nov 2, 2026",
+   "78&ndash;82",
+   "Nov 5, 2026"
+  ],
+  [
+   "Carver Roboweld Ltd (BSE SME)",
+   "SME",
+   "4",
+   "Oct 28, 2026",
+   "Oct 30, 2026",
+   "76&ndash;80",
+   "Nov 4, 2026"
+  ],
+  [
+   "Ajwa Projects Ltd (BSE SME)",
+   "SME",
+   "1",
+   "Oct 28, 2026",
+   "Oct 30, 2026",
+   "203&ndash;203",
+   "Nov 4, 2026"
+  ],
+  [
+   "M.K.Sons Fine Jewels Ltd (MAINBOARD)",
+   "EQ",
+   "11",
+   "Oct 28, 2026",
+   "Oct 30, 2026",
+   "153&ndash;162",
+   "Nov 4, 2026"
+  ],
+  [
+   "BLS Polymers Ltd (MAINBOARD)",
+   "EQ",
+   "69",
+   "Oct 27, 2026",
+   "Oct 29, 2026",
+   "142&ndash;150",
+   "Nov 3, 2026"
+  ],
+  [
+   "SFC Environmental Technologies Ltd (MAINBOARD)",
+   "EQ",
+   "15.5",
+   "Oct 27, 2026",
+   "Oct 29, 2026",
+   "313&ndash;330",
+   "Nov 3, 2026"
+  ],
+  [
+   "Wiscon Industries Ltd (BSE SME)",
+   "SME",
+   "0",
+   "Oct 27, 2026",
+   "Oct 29, 2026",
+   "194&ndash;204",
+   "Nov 3, 2026"
+  ],
+  [
+   "EAAA India Alternatives Ltd (MAINBOARD)",
+   "EQ",
+   "54",
+   "Oct 26, 2026",
+   "Oct 28, 2026",
+   "1585&ndash;1665",
+   "Nov 2, 2026"
+  ],
+  [
+   "Core4 Engineers Ltd (BSE SME)",
+   "SME",
+   "0",
+   "Oct 23, 2026",
+   "Oct 27, 2026",
+   "88&ndash;93",
+   "Oct 30, 2026"
+  ],
+  [
+   "Paras Healthcare Limited (MAINBOARD)",
+   "EQ",
+   "13",
+   "Oct 21, 2026",
+   "Oct 23, 2026",
+   "660&ndash;693",
+   "Oct 28, 2026"
+  ],
+  [
+   "Jio Platforms Ltd. (Mainboard)",
+   "EQ",
+   "250",
+   "Oct 21, 2026",
+   "Oct 23, 2026",
+   "1065&ndash;1119",
+   "Oct 28, 2026"
+  ],
+  [
+   "Sahajanand Medical Technologies Ltd (MAINBOARD)",
+   "EQ",
+   "17",
+   "Oct 15, 2026",
+   "Oct 19, 2026",
+   "327&ndash;344",
+   "Oct 23, 2026"
+  ],
+  [
+   "Shellz India Ltd (BSE SME)",
+   "SME",
+   "7",
+   "Oct 15, 2026",
+   "Oct 19, 2026",
+   "170&ndash;179",
+   "Oct 23, 2026"
+  ],
+  [
+   "Tonbo Imaging India Ltd (MAINBOARD)",
+   "EQ",
+   "452",
+   "Oct 15, 2026",
+   "Oct 19, 2026",
+   "665&ndash;700",
+   "Oct 23, 2026"
+  ],
+  [
+   "Bonfiglioli Transmissions Ltd (MAINBOARD)",
+   "EQ",
+   "66",
+   "Oct 15, 2026",
+   "Oct 19, 2026",
+   "558&ndash;586",
+   "Oct 23, 2026"
+  ],
+  [
+   "Zetwerk Manufacturing Ltd. (Mainboard)",
+   "EQ",
+   "1.2",
+   "Oct 15, 2026",
+   "Oct 19, 2026",
+   "143&ndash;151",
+   "Oct 23, 2026"
+  ],
+  [
+   "Fusion CX Ltd (MAINBOARD)",
+   "EQ",
+   "13.5",
+   "Oct 14, 2026",
+   "Oct 16, 2026",
+   "275&ndash;289",
+   "Oct 22, 2026"
+  ],
+  [
+   "Ravita Engineering Services Ltd (NSE SME)",
+   "SME",
+   "1",
+   "Oct 14, 2026",
+   "Oct 16, 2026",
+   "105&ndash;112",
+   "Oct 22, 2026"
+  ],
+  [
+   "Vaibhav Vyapaar Ltd (NSE SME)",
+   "SME",
+   "3",
+   "Oct 13, 2026",
+   "Oct 15, 2026",
+   "51&ndash;54",
+   "Oct 21, 2026"
+  ],
+  [
+   "HD Fire Protect Ltd (MAINBOARD)",
+   "EQ",
+   "70",
+   "Oct 13, 2026",
+   "Oct 15, 2026",
+   "258&ndash;271",
+   "Oct 21, 2026"
+  ],
+  [
+   "R.K.Fashion Accessories Ltd. (NSE SME)",
+   "SME",
+   "1.5",
+   "Oct 5, 2026",
+   "Oct 7, 2026",
+   "77&ndash;82",
+   "Oct 12, 2026"
+  ],
+  [
+   "TNA Solutions Ltd. (BSE SME)",
+   "SME",
+   "0",
+   "Sep 30, 2026",
+   "Oct 6, 2026",
+   "66&ndash;70",
+   "Oct 9, 2026"
+  ]
+ ],
+ "links": [
+  "https://www.ipopremium.in/",
+  "https://www.ipopremium.in/allotment",
+  "https://www.ipopremium.in/bids",
+  "https://www.ipopremium.in/calendar",
+  "https://www.ipopremium.in/disclaimer",
+  "https://www.ipopremium.in/faq",
+  "https://www.ipopremium.in/favicon.ico",
+  "https://www.ipopremium.in/form",
+  "https://www.ipopremium.in/login",
+  "https://www.ipopremium.in/ofs",
+  "https://www.ipopremium.in/privacy",
+  "https://www.ipopremium.in/support",
+  "https://www.ipopremium.in/terms",
+  "https://www.ipopremium.in/upi-apps",
+  "https://www.ipopremium.in/view/ipo/1215/core4-engineers-ltd",
+  "https://www.ipopremium.in/view/ipo/1247/jio-platforms-ltd",
+  "https://www.ipopremium.in/view/ipo/1399/tna-solutions-ltd",
+  "https://www.ipopremium.in/view/ipo/1406/rkfashion-accessories-ltd",
+  "https://www.ipopremium.in/view/ipo/1407/eaaa-india-alternatives-ltd",
+  "https://www.ipopremium.in/view/ipo/1409/sahajanand-medical-technologies-ltd",
+  "https://www.ipopremium.in/view/ipo/1410/fusion-cx-ltd",
+  "https://www.ipopremium.in/view/ipo/1411/tonbo-imaging-india-ltd",
+  "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd",
+  "https://www.ipopremium.in/view/ipo/1413/bonfiglioli-transmissions-ltd",
+  "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd",
+  "https://www.ipopremium.in/view/ipo/1416/hd-fire-protect-ltd",
+  "https://www.ipopremium.in/view/ipo/1417/zetwerk-manufacturing-ltd",
+  "https://www.ipopremium.in/view/ipo/1419/vaibhav-vyapaar-ltd",
+  "https://www.ipopremium.in/view/ipo/1420/ravita-engineering-services-ltd",
+  "https://www.ipopremium.in/view/ipo/1421/shellz-india-ltd",
+  "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd",
+  "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd",
+  "https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd",
+  "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd",
+  "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd",
+  "https://www.ipopremium.in/view/ipo/1427/antala-industries-ltd",
+  "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd",
+  "https://www.ipopremium.in/view/ipo/1429/hgs",
+  "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd",
+  "https://www.ipopremium.in/view/ipo/1431/vectras-enprocon",
+  "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd",
+  "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd",
+  "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
+  "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited",
+  "https://www.ipopremium.in/view/subscription"
+ ],
+ "heads": [
+  "<thead>\n                    <tr>\n                        <th class=\"ip-text\">Company</th>\n                        <th>GMP Rumors <a href=\"#hm-gmp-note\" class=\"hm-gmp-star\" aria-label=\"About GMP\">*</a></th>\n                        <th class=\"ip-text\">Open – Close</th>\n                        <th>Close</th>\n                        <th>Price</th>\n                        <th>Lot</th>\n                        <th>Issue Size</th>\n                        <th class=\"ip-text\">Lead Managers</th>\n                        <th>Allotment</th>\n                        <th>Listing</th>\n                        <th><span class=\"sr-only\">Action</span></th>\n                    </tr>\n                    </thead>",
+  "<thead>\n                            <tr>\n                                <th>Company Name</th>\n                                <th>Type</th>\n                                <th>GMP (₹)</th>\n                                <th>Open</th>\n                                <th>Close</th>\n                                <th>Price Band (₹)</th>\n                                <th>Listing Date</th>\n                            </tr>\n                            </thead>"
+ ],
+ "tbody": "<tbody>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd\">Watrana Rentals Ltd (NSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>0</td>\n                                    <td>Nov 19, 2026</td>\n                                    <td>Nov 23, 2026</td>\n                                    <td>232&ndash;245</td>\n                                    <td>Nov 27, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd\">Crystal Crop Protection Ltd (MAINBOARD)</a></td>\n                                    <td>EQ</td>\n                                    <td>45</td>\n                                    <td>Nov 18, 2026</td>\n                                    <td>Nov 20, 2026</td>\n                                    <td>259&ndash;272</td>\n                                    <td>Nov 26, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd\">Vedant Poly Fabs Ltd. (NSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>1</td>\n                                    <td>Nov 2, 2026</td>\n                                    <td>Nov 4, 2026</td>\n                                    <td>88&ndash;94</td>\n                                    <td>Nov 9, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1429/hgs\">HGS (India) Ltd. (NSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>27</td>\n                                    <td>Oct 30, 2026</td>\n                                    <td>Nov 3, 2026</td>\n                                    <td>114&ndash;120</td>\n                                    <td>Nov 6, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd\">Maxwell Engineering Ltd. (NSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>105</td>\n                                    <td>Oct 30, 2026</td>\n                                    <td>Nov 3, 2026</td>\n                                    <td>150&ndash;158</td>\n                                    <td>Nov 6, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1431/vectras-enprocon\">Vectras Enprocon (BSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>0</td>\n                                    <td>Oct 30, 2026</td>\n                                    <td>Nov 3, 2026</td>\n                                    <td>99&ndash;105</td>\n                                    <td>Nov 6, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd\">Johnsoncab Electricals Ltd.(BSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>8</td>\n                                    <td>Oct 30, 2026</td>\n                                    <td>Nov 3, 2026</td>\n                                    <td>190&ndash;200</td>\n                                    <td>Nov 6, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1427/antala-industries-ltd\">Antala Industries Ltd (BSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>0</td>\n                                    <td>Oct 29, 2026</td>\n                                    <td>Nov 5, 2026</td>\n                                    <td>62&ndash;66</td>\n                                    <td>Nov 11, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd\">Bombay Coated &amp; Special Steels Ltd (MAINBOARD)</a></td>\n                                    <td>EQ</td>\n                                    <td>8</td>\n                                    <td>Oct 29, 2026</td>\n                                    <td>Nov 2, 2026</td>\n                                    <td>78&ndash;82</td>\n                                    <td>Nov 5, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd\">Carver Roboweld Ltd (BSE SME)</a></td>\n                                    <td>SME</td>\n                                    <td>4</td>\n                                    <td>Oct 28, 2026</td>\n                                    <td>Oct 30, 2026</td>\n                                    <td>76&ndash;80</td>\n                                    <td>Nov 4, 2026</td>\n                                </tr>\n                                                            <tr>\n                                    <td><a href=\"https://www.ipopremium.in/view/ip",
+ "ajax": [
+  "https:\\/\\/www.ipopremium.in\\/ipo?expires=1794585271\\u0026signature=7cd9f4f25d2629646fd9f12ef66698b5c5e4b22fd923f24f7cec75730420d5f8"
+ ],
+ "https://www.ipopremium.in/ipo": {
+  "err": "HTTP Error 403: Forbidden"
+ },
+ "https://www.ipopremium.in/view/ipo": {
+  "err": "HTTP Error 404: Not Found"
+ },
+ "https://www.ipopremium.in/ipo-list": {
+  "err": "HTTP Error 404: Not Found"
+ }
 }
