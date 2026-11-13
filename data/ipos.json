@@ -1,6 +1,6 @@
 {
- "updated": "13 Nov 2026, 23:51 IST",
- "checked": "13 Nov 2026, 23:51 IST",
+ "updated": "14 Nov 2026, 00:59 IST",
+ "checked": "14 Nov 2026, 00:59 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -8,7 +8,7 @@
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 15.0,
+   "gmp": 16.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -19,10 +19,24 @@
    "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd"
   },
   {
+   "name": "Mahanadi Coalfields",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 20.0,
+   "open": "2026-11-19",
+   "close": "2026-11-23",
+   "listing": "2026-11-27",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1434",
+   "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields"
+  },
+  {
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 45.0,
+   "gmp": 40.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",
@@ -31,20 +45,6 @@
    "status": "upcoming",
    "id": "1438",
    "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd"
-  },
-  {
-   "name": "Mahanadi Coalfields (Mainboard)",
-   "board": "Mainboard",
-   "exch": "TENTATIVE DATE",
-   "gmp": 20.0,
-   "open": "2026-11-18",
-   "close": "2026-11-20",
-   "listing": "2026-11-26",
-   "low": 0.0,
-   "high": 0.0,
-   "status": "upcoming",
-   "id": "1434",
-   "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields"
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
