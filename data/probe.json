@@ -1,0 +1,64 @@
+{
+ "at": "13 Nov 2026, 20:53 IST",
+ "r": [
+  {
+   "url": "https://www.ipopremium.in/",
+   "ok": true,
+   "len": 100542,
+   "head": "<!DOCTYPE html>\n\n<html lang=\"en\"\n      >\n\n<head>\n\n    \n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n            <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <meta name=\"csrf-token\" content=\"CXu2BXNMlNYenpU7NCVwXjgQvWAQIzoUHhojJ9xl\">\n\n    \n    \n    \n    <link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\">\n    <link rel=\"preconnect\" href=\"https://cdn.datatables.net\">\n    <link rel=\"preconnect\" href=\"https://cdnjs.cloudflare.com\">\n    \n            \n                        <meta name=\"robots\" content=\"max-snippet:-1,max-image-preview:large,max-video-preview:-1\">\n\n<link rel=\"sitemap\" title=\"Sitemap\" href=\"/sitemap.xml\" type=\"application/xml\">\n<meta name=\"description\" content=\"Get real-time updates on live and upcoming IPOs, GMP, subscription status &amp; more. Track, compare &amp; apply for IPOs easily with IPO Premium.\">\n<meta name=\"author\" content=\"IPO Premium\">\n<title>IPO Premium – Upcoming IPOs, GMP, Apply IPO Online</title>\n<meta name=\"image\" content=\"https://www.ipopremium.in/img/og-image.png\">\n<link href=\"https://www.ipopremium.in/favicon.ico\" rel=\"shortcut icon\">\n<meta property=\"og:title\" content=\"IPO Premium – Upcoming IPOs, GMP, Apply IPO Online\">\n<meta property=\"og:description\" content=\"Get real-time updates on live and upcoming IPOs, GMP, subscription status &amp; more. Track, compare &amp; apply for IPOs easily with IPO Premium.\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:imag"
+  },
+  {
+   "url": "https://ipopremium.in/ipo",
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  {
+   "url": "https://www.investorgain.com/report/live-ipo-gmp/331/",
+   "ok": true,
+   "len": 277231,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_a869fe2d-module__Nl2jCG__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/a602256c9379a2b2.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/fe81322e39413244.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/635245f93e41a18e.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/7809810984227277.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/543fd26d4cb14aef.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/cff338d16274a304.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/f9fd6f7d17579ee3.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/855fef9167750707.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/082369ed74945df4.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/cff3640489c64d2b.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/9f34511ce58eaf4c.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/f0f14767f4529770.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/309e960e071452b6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/264ad7406802d6aa.css\" dat"
+  },
+  {
+   "url": "https://webnodejs.investorgain.com/cloud/report/data-read/331/1/11/2026/2026-27/0/all",
+   "ok": true,
+   "len": 99,
+   "head": "{\"msg\":\"API not found\",\"error\":\"/cloud/report/data-read/331/1/11/2026/2026-27/0/all API NOT FOUND\"}"
+  },
+  {
+   "url": "https://www.chittorgarh.com/report/ipo-subscription-status-live-bidding-data-bse-nse/21/",
+   "ok": true,
+   "len": 116961,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_4a4f7444-module__UHjWDq__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"https://www.chittorgarh.net/images/ipo/report_ipo-subscription-status-live-bidding-data-bse-nse_21.png\" as=\"image\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/c918a321f355d737.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/00e74d34ac93a974.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/e574aa2129ad778d.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/febab3fae21381e6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/ded2596e0d5cee92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/af9fdfe07b20867a.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/c8d734aa75da4a2c.js\"/><script src=\"/_next/static/chunks/112f346e31f991df.js\" async=\"\"></script><script src=\"/_next/static/chunks/c6ec21352f58104c.js\" async=\"\"></script><script src=\"/_next/static/chunks/79dbd29bdfef60ca.js\" async=\"\"></script><script src=\"/_next/static/chunks/c462f7822a1dbf4e.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3b79e9aff9e7a02f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a557318cc4aaf1f8.js\" async=\"\"></script><script src=\"/_next/static/chunks/8a4dd8649c6938e3.js\" a"
+  },
+  {
+   "url": "https://webnodejs.chittorgarh.com/cloud/report/data-read/21/1/11/2026/2026-27/0/0",
+   "ok": true,
+   "len": 42,
+   "head": "{\"msg\":-1,\"error\":\"No params data found.\"}"
+  },
+  {
+   "url": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/0",
+   "ok": true,
+   "len": 42,
+   "head": "{\"msg\":-1,\"error\":\"No params data found.\"}"
+  },
+  {
+   "url": "https://www.chittorgarh.com/report/mainboard-ipo-list-in-india-bse-nse/83/",
+   "ok": true,
+   "len": 132104,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_4a4f7444-module__UHjWDq__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"https://www.chittorgarh.net/images/ipo/report_ipo-in-india-list-main-board-sme_82_mainboard.png\" as=\"image\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/c918a321f355d737.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/00e74d34ac93a974.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/e574aa2129ad778d.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/febab3fae21381e6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/ded2596e0d5cee92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/af9fdfe07b20867a.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/0a558fbdbe565a25.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/c8d734aa75da4a2c.js\"/><script src=\"/_next/static/chunks/112f346e31f991df.js\" async=\"\"></script><script src=\"/_next/static/chunks/c6ec21352f58104c.js\" async=\"\"></script><script src=\"/_next/static/chunks/79dbd29bdfef60ca.js\" async=\"\"></script><script src=\"/_next/static/chunks/c462f7822a1dbf4e.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3b79e9aff9e7a02f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a55731"
+  },
+  {
+   "url": "https://www.nseindia.com/api/ipo-current-issue",
+   "ok": true,
+   "len": 2,
+   "head": "[]"
+  },
+  {
+   "url": "https://www.bseindia.com/markets/PublicIssues/IPOIssues_new.aspx?id=1&Type=p",
+   "ok": true,
+   "len": 16912,
+   "head": "<!DOCTYPE html><html lang=\"en\" data-critters-container=\"\"><head>\n    <meta charset=\"utf-8\">\n    <title>\n      LIVE Stock/Share Market | Indian Stock/Share Market LIVE | BSE SENSEX | BSE (formerly Bombay Stock\n      Exchange)\n    </title>\n    <meta name=\"description\" content=\"BSE SENSEX - India's Index the World Tracks. Get live BSE SENSEX quotes. BSE Sensex Heat Map a great tool to track BSE SENSEX stocks. Gainers, losers, volume toppers in BSE SENSEX Stocks. Corporate announcements of BSE SENSEX stocks, Share Market Today | Share Market Live updates. Share Market Live Charts, News, Analysis, IPO News and more. Click here to stay updated and invest wisely!Get all the latest share market and India stock market news and updates on bseindia.com\">\n    <meta name=\"keywords\" content=\"BSE SENSEX, BSE SENSEX Value, BSE SENSEX Heat Map, BSE SENSEX movers, BSE SENSEX volume toppers, BSE SENSEX derivatives, BSE SENSEX F&amp;,O, BSE SENSEX ETFs, BSE SENSEX announcements, BSE SENSEX chart, BSE SENSEX graph, BSE SENSEX performance, BSE SENSEX ups &amp;, downs, BSE SENSEX Market Capitalization, bombay stock exchange, live market watch, Indian stock market, bse, sensex, stock exchange, stock market.\">\n    <base href=\"/\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"csp-nonce\" content=\"\">\n    <!-- Don't need this here as we manage the CSP from IIS's web.config. Having a csp both here and there can cause clashes and unwanted behaviour -->\n    <!-- <m"
+  }
+ ]
+}
