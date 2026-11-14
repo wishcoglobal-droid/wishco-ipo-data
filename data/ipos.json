@@ -1,6 +1,6 @@
 {
- "updated": "14 Nov 2026, 08:10 IST",
- "checked": "14 Nov 2026, 08:10 IST",
+ "updated": "14 Nov 2026, 08:26 IST",
+ "checked": "14 Nov 2026, 08:26 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -16,7 +16,34 @@
    "high": 245.0,
    "status": "upcoming",
    "id": "1439",
-   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd"
+   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
+   "det": {
+    "lot": 600,
+    "issue_cr": 120.09,
+    "allot": "2026-11-25",
+    "listing": "2026-11-27",
+    "mins": {
+     "r": {
+      "lots": 2,
+      "shares": 1200,
+      "amount": 294000.0,
+      "label": "Individual"
+     },
+     "s": {
+      "lots": 3,
+      "shares": 1800,
+      "amount": 441000.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 7,
+      "shares": 4200,
+      "amount": 1029000.0,
+      "label": "bHNI"
+     }
+    }
+   },
+   "det_t": 1794625014
   },
   {
    "name": "Mahanadi Coalfields",
@@ -30,7 +57,12 @@
    "high": 0.0,
    "status": "upcoming",
    "id": "1434",
-   "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields"
+   "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields",
+   "det": {
+    "allot": "2026-11-25",
+    "listing": "2026-11-27"
+   },
+   "det_t": 1794625014
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -44,7 +76,34 @@
    "high": 272.0,
    "status": "upcoming",
    "id": "1438",
-   "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd"
+   "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd",
+   "det": {
+    "lot": 55,
+    "issue_cr": 455.72,
+    "allot": "2026-11-23",
+    "listing": "2026-11-26",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 55,
+      "amount": 14960.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 770,
+      "amount": 209440.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 67,
+      "shares": 3685,
+      "amount": 1002320.0,
+      "label": "bHNI"
+     }
+    }
+   },
+   "det_t": 1794625014
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
