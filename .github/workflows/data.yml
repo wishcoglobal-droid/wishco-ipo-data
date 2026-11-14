@@ -26,8 +26,6 @@ jobs:
         run: python engine/market.py || true
       - name: IPO list
         run: python engine/ipos.py || true
-      - name: Probe
-        run: python engine/probe.py || true
       - name: Save
         run: |
           git config user.name "ipo-desk-bot"
