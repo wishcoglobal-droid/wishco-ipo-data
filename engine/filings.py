@@ -32,6 +32,10 @@ def when(s):
 
 
 def kind(t):
+    m = re.search(r'has filled\s+(\S+)\s+for its IPO', t)
+    if m:
+        c = m.group(1).upper()
+        return 'DRHP' if 'DRHP' in c else 'RHP' if 'RHP' in c else 'Prospectus' if c.startswith('PROSP') else 'Advertisement' if c.startswith('ADV') else c[:14]
     if re.search(r'(?i)draft\s+red\s+herring|\bDRHP\b', t):
         return 'DRHP'
     if re.search(r'(?i)red\s+herring|\bRHP\b', t):
@@ -45,7 +49,9 @@ def kind(t):
 
 def main():
     old = load(OUT, {})
-    items = {x['url'] + '|' + x['text'][:60]: x for x in (old.get('items') or [])}
+    items = {x['url'] + '|' + x['text'][:60]: x for x in (old.get('items') or []) if x.get('company')}
+    for x in items.values():
+        x['kind'] = kind(x['company'] + ' ' + x['text'])
     parents = [p.lower() for p in load(os.path.join(HERE, 'watch.json'), {}).get('parents', [])]
     log, seen = [], {}
     for src, url in FEEDS:
@@ -60,7 +66,7 @@ def main():
             co, link, desc, pub = tag(x, 'title'), tag(x, 'link'), tag(x, 'description'), tag(x, 'pubDate')
             text = re.sub(r'\s*\|\s*SUBJECT:.*$', '', desc).strip() or co
             both = co + ' ' + desc
-            if not KEY.search(both) or SKIP.search(both):
+            if not co or not KEY.search(both) or SKIP.search(both):
                 continue
             d = when(pub)
             it = {'at': d.strftime('%Y-%m-%d %H:%M') if d else '', 'company': co, 'text': text[:300], 'url': link,
