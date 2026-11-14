@@ -1,12 +1,30 @@
 {
- "updated": "14 Nov 2026, 13:08 IST",
+ "updated": "14 Nov 2026, 14:00 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 396,
+  "NSE announcements": 454,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-14 13:38",
+   "company": "Value 360 Communications Limited",
+   "text": "Value 360 Communications Limited has informed the Exchange regarding 'StatutoryAuditor Certificate of funds utilzation - IPO'.",
+   "url": "https://nsearchives.nseindia.com/corporate/VALUE_14112026133805_StatutoryAuditor_Certificateoffundsutilzation_IPO_Value360.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-14 13:10",
+   "company": "Aastha Spintex Limited",
+   "text": "Pursuant to Regulation 32(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Regulation 41(4) of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, we are enclosing the Monitoring Agency Report for the quarter ended September 30th, 20",
+   "url": "https://nsearchives.nseindia.com/corporate/9081535400_14112026131047_ASL_Monitoring_Agency_Report.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-14 07:26",
    "company": "Coal India Limited",
