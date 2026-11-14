@@ -1,8 +1,8 @@
 name: IPO Desk data
 on:
   schedule:
-    - cron: '7,37 2-18 * * 1-5'   # Mon-Fri, about 07:37 to 23:37 IST, twice an hour
-    - cron: '7 4,10 * * 0,6'      # Sat-Sun, twice a day
+    - cron: '2,17,32,47 1-18 * * *'   # every day, about 06:30 to 23:50 IST, four times an hour
+    - cron: '7 19-23,0 * * *'         # night, once an hour
   workflow_dispatch:
   push:
     paths: ['engine/**', '.github/workflows/**']
@@ -20,12 +20,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Exchange filings first
+        run: python engine/filings.py || true
       - name: Market
         run: python engine/market.py || true
       - name: IPO list
         run: python engine/ipos.py || true
-      - name: Probe
-        run: python engine/probe.py || true
       - name: Save
         run: |
           git config user.name "ipo-desk-bot"
