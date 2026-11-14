@@ -1,12 +1,30 @@
 {
- "updated": "14 Nov 2026, 18:15 IST",
+ "updated": "14 Nov 2026, 19:08 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 977,
+  "NSE announcements": 1120,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-14 18:29",
+   "company": "AvenuesAI Limited",
+   "text": "AvenuesAI Limited has informed the Exchange about Filing of Updated Draft Red Herring Prospectus-I ( UDRHP-I ) by Rediff.com India Limited, a Subsidiary of our Company.",
+   "url": "https://nsearchives.nseindia.com/corporate/INFIBEAM_14112026182909_AALIntimationRediffUDRHP14112026.pdf",
+   "kind": "DRHP",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-14 18:16",
+   "company": "Technocraft Ventures Limited",
+   "text": "Monitoring Agency Report issued by CARE Ratings Limited, ( Monitoring Agency ), in respect to the utilization of proceeds raised through issuance of equity shares by way of the Initial Public Offer ( IPO ) of the Company, for the quarter ended September 30, 2026.",
+   "url": "https://nsearchives.nseindia.com/corporate/TECHNOCRAFT_14112026181649_MA_Report_submission.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-14 17:07",
    "company": "SS Retail Limited",
