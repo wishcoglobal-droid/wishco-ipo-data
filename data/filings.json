@@ -1,12 +1,21 @@
 {
- "updated": "14 Nov 2026, 15:46 IST",
+ "updated": "14 Nov 2026, 16:32 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 646,
+  "NSE announcements": 746,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-14 15:57",
+   "company": "Bio Medica Laboratories Limited",
+   "text": "Monitoring Agency Report for the half year ended 30th September, 2026, issued by CARE Ratings Limited ( Monitoring Agency ), in respect of the utilization of proceeds raised through Initial Public Offer by the Company",
+   "url": "https://nsearchives.nseindia.com/corporate/BIOMEDICA_14112026155717_Monitoring_Agency_Report-Final.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-14 13:38",
    "company": "Value 360 Communications Limited",
