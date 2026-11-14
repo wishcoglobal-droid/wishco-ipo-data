@@ -1,0 +1,34 @@
+{
+ "note": "Hand-entered facts for IPOs that the sheet does not have yet. Every figure carries its source. Not written by the engine.",
+ "updated": "14 Nov 2026, 09:40 IST",
+ "ipos": {
+  "mahanadico": {
+   "name": "Mahanadi Coalfields",
+   "fin": {
+    "yrs": ["FY24", "FY25", "FY26"],
+    "rev": [33590.34, 33028.65, 33899.28],
+    "pat": [11841.55, 10825.12, 10698.12],
+    "nw": [16119.91, 18343.49, 21371.23],
+    "debt": [3.95, 3.35, 3.16],
+    "latest": "Apr-Jun 2026: income ₹8,437.92 cr, profit ₹2,398.78 cr",
+    "ronw": 53.87, "ebm": 47.45, "roce": 73.26,
+    "pe": null, "mcap": null, "promPre": 100, "prom": 90, "fresh": 0
+   },
+   "more": {
+    "ebitda": [16636.91, 15331.11, 16084.93],
+    "assets": [50687.79, 53590.53, 55358.27],
+    "pat_margin": 31.56,
+    "eps_pre": 16.16, "eps_post": 14.50, "nav": 32.29,
+    "issue": "100% offer for sale by Coal India: up to 66,18,36,300 shares, face value ₹2",
+    "quota": "Net offer: QIB up to 50%, NII at least 15%, Retail at least 35%. Shareholder and Employee categories: bids up to ₹2 lakh; share quota not shown yet",
+    "lm": "SBI Capital Markets, Axis Capital, BOB Capital Markets, IDBI Capital Markets, IIFL Capital Services",
+    "reg": "KFin Technologies",
+    "rhp": "RHP dated 13 Nov 2026 filed with RoC, SEBI, BSE and NSE (Coal India to NSE, 14 Nov 2026 07:26)",
+    "rhp_url": "https://nsearchives.nseindia.com/corporate/COALINDIA_14112026072625_rhp.pdf",
+    "open_items": "Price band, lot size, record date for Coal India shareholders and P/E are not announced in the sources read"
+   },
+   "src": "Chittorgarh IPO page (restated figures from the offer document), read 14 Nov 2026",
+   "src_url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/"
+  }
+ }
+}
