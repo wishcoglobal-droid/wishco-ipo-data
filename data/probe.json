@@ -1,0 +1,160 @@
+{
+ "at": "14 Nov 2026, 07:51 IST",
+ "r": {
+  "nse_upcoming": {
+   "len": 2,
+   "head": "[]"
+  },
+  "nse_current": {
+   "len": 2,
+   "head": "[]"
+  },
+  "nse_sme_upcoming": {
+   "len": 2,
+   "head": "{}"
+  },
+  "bse_page": {
+   "len": 16912,
+   "head": "<!DOCTYPE html><html lang=\"en\" data-critters-container=\"\"><head>\n    <meta charset=\"utf-8\">\n    <title>\n      LIVE Stock/Share Market | Indian Stock/Share Market LIVE | BSE SENSEX | BSE (formerly Bombay Stock\n      Exchange)\n    </title>\n    <meta name=\"description\" content=\"BSE SENSEX - India's Index the World Tracks. Get live BSE SENSEX quotes. BSE Sensex Heat Map a great tool to track BSE SENSEX stocks. Gainers, losers, volume toppers in BSE SENSEX Stocks. Corporate announcements of BSE SENSEX stocks, Share Market Today | Share Market Live updates. Share Market Live Charts, News, Analysis, IPO News and more. Click here to stay updated and invest wisely!Get all the latest share market and India stock market news and updates on bseindia.com\">\n    <meta name=\"keywords\" content=\"BSE SENSEX, BSE SENSEX Value, BSE SENSEX Heat Map, BSE SENSEX movers, BSE SENSEX volume toppers, BSE SENSEX derivatives, BSE SENSEX F&amp;,O, BSE SENSEX ETFs, BSE SENSEX announcements, BSE SENSEX chart, BSE SENSEX graph, BSE SENSEX performance, BSE SENSEX ups &amp;, downs, BSE SENSEX Market Capitalization, bombay stock exchange, live market watch, Indian stock market, bse, sensex, stock exchange, stock market.\">\n    <base href=\"/\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"csp-nonce\" content=\"\">\n    <!-- Don't need this here as we manage the CSP from IIS's web.config. Having a csp both here and there can cause clashes and unwanted behaviour -->\n    <!-- <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src  https://*.googlesyndication.com  'self';  img-src *.gstatic.com *.google.com 'self' data: chrome-extension-resource storage.googleapis.com pagead2.googlesyndication.com;script-src 'strict-dynamic' 'self' 'nonce-appcomponents123456789'; connect-src * data; style-src 'nonce-appcomponents123456789'  'self' data: chrome-extension-resource:  pagead2.googlesyndication.com     storage.googleapis.com googleads.g.doubleclick.net ajax.googleapis.com; frame-src 'self' data: chrome-extension-resource:;font-src *.gstatic.com *.google.com 'self'      data: chrome-extension-resource: *.gstatic.com *.google.com fonts.googleapis.com; frame-ancestors 'self';      object-src 'none';              media-src * data; base-uri 'self'; \"\n    /> -->\n    <!-- <link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/includenew/images/bselogo.png\" /> -->\n\n    <!-- Primary SEO Meta Tags -->\n    <meta name=\"description\" content=\"Get live BSE SENSEX",
+   "rows": [],
+   "mcl": [],
+   "apis": []
+  },
+  "bse_forth": {
+   "len": 16912,
+   "head": "<!DOCTYPE html><html lang=\"en\" data-critters-container=\"\"><head>\n    <meta charset=\"utf-8\">\n    <title>\n      LIVE Stock/Share Market | Indian Stock/Share Market LIVE | BSE SENSEX | BSE (formerly Bombay Stock\n      Exchange)\n    </title>\n    <meta name=\"description\" content=\"BSE SENSEX - India's Index the World Tracks. Get live BSE SENSEX quotes. BSE Sensex Heat Map a great tool to track BSE SENSEX stocks. Gainers, losers, volume toppers in BSE SENSEX Stocks. Corporate announcements of BSE SENSEX stocks, Share Market Today | Share Market Live updates. Share Market Live Charts, News, Analysis, IPO News and more. Click here to stay updated and invest wisely!Get all the latest share market and India stock market news and updates on bseindia.com\">\n    <meta name=\"keywords\" content=\"BSE SENSEX, BSE SENSEX Value, BSE SENSEX Heat Map, BSE SENSEX movers, BSE SENSEX volume toppers, BSE SENSEX derivatives, BSE SENSEX F&amp;,O, BSE SENSEX ETFs, BSE SENSEX announcements, BSE SENSEX chart, BSE SENSEX graph, BSE SENSEX performance, BSE SENSEX ups &amp;, downs, BSE SENSEX Market Capitalization, bombay stock exchange, live market watch, Indian stock market, bse, sensex, stock exchange, stock market.\">\n    <base href=\"/\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"csp-nonce\" content=\"\">\n    <!-- Don't need this here as we manage the CSP from IIS's web.config. Having a csp both here and there can cause clashes and unwanted behaviour -->\n    <!-- <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src  https://*.googlesyndication.com  'self';  img-src *.gstatic.com *.google.com 'self' data: chrome-extension-resource storage.googleapis.com pagead2.googlesyndication.com;script-src 'strict-dynamic' 'self' 'nonce-appcomponents123456789'; connect-src * data; style-src 'nonce-appcomponents123456789'  'self' data: chrome-extension-resource:  pagead2.googlesyndication.com     storage.googleapis.com googleads.g.doubleclick.net ajax.googleapis.com; frame-src 'self' data: chrome-extension-resource:;font-src *.gstatic.com *.google.com 'self'      data: chrome-extension-resource: *.gstatic.com *.google.com fonts.googleapis.com; frame-ancestors 'self';      object-src 'none';              media-src * data; base-uri 'self'; \"\n    /> -->\n    <!-- <link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/includenew/images/bselogo.png\" /> -->\n\n    <!-- Primary SEO Meta Tags -->\n    <meta name=\"description\" content=\"Get live BSE SENSEX",
+   "rows": [],
+   "mcl": [],
+   "apis": []
+  },
+  "sebi_rhp": {
+   "err": "HTTP Error 530: BLOCKED"
+  },
+  "sebi_drhp": {
+   "err": "HTTP Error 530: BLOCKED"
+  },
+  "sebi_final": {
+   "err": "HTTP Error 530: BLOCKED"
+  },
+  "chittorgarh_mcl": {
+   "len": 232702,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_4a4f7444-module__UHjWDq__variable\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/c918a321f355d737.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/00e74d34ac93a974.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/e574aa2129ad778d.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/febab3fae21381e6.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/ded2596e0d5cee92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/af9fdfe07b20867a.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/c8d734aa75da4a2c.js\"/><script src=\"/_next/static/chunks/112f346e31f991df.js\" async=\"\"></script><script src=\"/_next/static/chunks/c6ec21352f58104c.js\" async=\"\"></script><script src=\"/_next/static/chunks/79dbd29bdfef60ca.js\" async=\"\"></script><script src=\"/_next/static/chunks/c462f7822a1dbf4e.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3b79e9aff9e7a02f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a557318cc4aaf1f8.js\" async=\"\"></script><script src=\"/_next/static/chunks/8a4dd8649c6938e3.js\" async=\"\"></script><script src=\"/_next/static/chunks/208d109d56c94dec.js\" async=\"\"></script><script src=\"/_next/static/chunks/18763f99e0ed0e75.js\" async=\"\"></script><script src=\"/_next/static/chunks/cc55fab76247f810.js\" async=\"\"></script><script src=\"/_next/static/chunks/1fe9c662406a1ff6.js\" async=\"\"></script><script src=\"/_next/static/chunks/4e215576e6373180.js\" async=\"\"></script><script src=\"/_next/static/chunks/1ecd764fca5840b7.js\" async=\"\"></script><script src=\"/_next/static/chunks/ec12bf0420e035e0.js\" async=\"\"></script><script src=\"/_next/static/chunks/c198d12757122d31.js\" async=\"\"></script><script src=\"/_next/static/chunks/48dcdae84ff9655f.js\" async=\"\"></script><script src=\"/_next/static/chunks/eb6b137c1b02fad6.js\" async=\"\"></script><script src=\"/_next/static/chunks/61243ee5a1be9e9f.js\" async=\"\"></script><script src=\"/_next/static/chunks/9b24fb3844121517.js\" async=\"\"></script><script src=\"/_next/static/chunks/a6e6395e058d8d6c.js\" async=\"\"></script><script src=\"/_next/static/chunks/8a908235687a86f5.js\" async=\"\"></script><script src=\"/_next/static/chunks/bd54ce88e58aa63c.js\" async=\"\"></script><link rel=\"preload\" href=\"http",
+   "rows": [
+    [
+     "A-AA+Unlimited Trades ₹899 Monthlywww.ProStocks.comOpen AccountIPO Mainboard IPO InfoIPO DashboardCurrent IPOsUpcoming IPOsIPO TimetableIPO CalendarIPO Performance Tracker Live IPO InfoIPO SubscriptionGrey Market PremiumIPO ReviewsIPO Listing DatesIPO Allotment StatusBasis of Allotment Learn About IPOsIPO Reports (Historic)eBook - IPO Guide IPO ArticlesIPO Message BoardIPO Performance ReportsIPO Anchor Investors IPO Merchant BankerSME IPO SME IPO InfoIPO DashboardCurrent IPOsUpcoming IPOsIPO TimetableIPO CalendarIPO Performance Tracker Live IPO InfoIPO SubscriptionGrey Market PremiumIPO ReviewsIPO Listing DateIPO Allotment StatusBasis of Allotment Learn About SME IPOIPO Reports (Historic)eBook - SME IPO GuideIPO ArticlesIPO Message BoardNSE Share PricesBSE Share PricesSME IPO Performance ReportsIPO Anchor Investors IPO Merchant BankerNCD / RI / BB / OFS NCD IssueCurrent NCD IssuesNCD ReviewsNCD Subscription (Live)NCD CalendareBook - NCD Guide NCD GlossaryNCD ArticlesNCD Message Board Rights Issue (RI)Current RIsRI ReviewsRI CalendarRI Subscription (Live)eBook - RI Guide RI GlossaryRI Message Board BuybackCurrent BuybackBuyback (Calendar)eBook - Buyback Guide BB Message Board Offer for Sale (OFS)Current OFSOFS Message BoardIPO AdvisoryNewsReports Anchor Investors ParticipationIssue-wise Allotment Anchor Investor-wise investmentsInvestment by Mutual FundYear-wise AllotmentAnchor Lock-in End DatesTop 20 Anchor Investors (Amt Invested)Top 20 Anchor Investors (No.of Issues) Top 10 IPOsIssue Size (Year-wise)% Gain on Listing% Gain (Issue price v/s Market price)Subscription (Year-wise)Retail SubscriptionAmount Collected on Retail ApplicationsNo.of Retail Applications Lead ManagersNo. and Performance of IPOs ManagedNo. of Issues ManagedList of Issues managedMarket Maker v/s IPO Listing GainRegistrar- List of Issues ManagedRegistrar- No.of IPOs Managed Broker ReportsTop Stock Brokers in IndiaTop 10 Discount BrokersTop 10 Full-Service BrokersLifetime Free Demat AcctBest Broker for BeginnersBest API Broker Prospectus CenterMainboard RHP & DRHPSME RHP & DRHPNEWAdvertise With UsReach over 10M+ active visitors monthly on Chittorgarh.com. Boost your brand visibility today!🚀 View PlansIPO Report ListStock Broker Report ListStock MarketOther Report ListBroker Best ofTop Stock Brokers in IndiaTop 10 Discount BrokersTop 10 Full-Service BrokersLifetime Free Demat AcctBest Broker for BeginnersBest API BrokerMore Reports...Discount Broker ReviewZerodha (₹20/trade)ProStocks (₹899 Unlimited)Upstox (₹20/trade)Groww (₹20/trade)5paisa (₹20/trade)Fyers (₹20/trade)TradeSmart (₹15/trade)Aliceblue (₹20/trade)More Discount Brokers... Full Service ReviewAngel One (₹20/trade)Motilal Oswal (₹20/lot)Kotak Neo (₹10/trade)Bajaj Finance (₹20/trade)Indiabulls Securities (₹11/trade)Axis Securities (Options: ₹20/trade)More Brokers...Compare BrokersSide-by-Side ComparisonCompare Share BrokersBroker Articles / TutorialsBroker Complaints MonitorBroker GlossaryIPO NotificationsSee moreGuest UserWelcome! Please login.Login / Sign UpContact Us►Zerodha (₹20/Trade)Open Account►Angel One (₹20/Trade)Open Account►Motilal Oswal (Free Intraday)Open Account►Zerodha (₹20/Trade)Open Account►AngelOne (₹20/Trade)Open AccountContact usCloseDashboardIPO List IPO ListMahanadi Coalfields IPO DetailsBookbuilding IPO | ₹[.] Cr | Listing at BSE, NSE | IPO DetailsMessagesDocs ReviewsNews IPO ListSEBI has approved the Initial Public Offer (IPO) of Mahanadi Coalfields Ltd. on October 15, 2026. The company will proceed with next steps to launch the Initial Public Offer (IPO) subject to market conditions and other approvals. The SEBI approval is valid for 12 months.Mahanadi Coalfields Ltd. IPO is a Book Build Issue consisting entirely of an offer for sale of upto 66.18 crore shares.The equity shares are proposed to be listed on NSE and BSE. SBI Capital Markets Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue. Key details like IPO dates, IPO price bands and lot size are yet to be announced. Refer to Mahanadi Coalfields IPO DRHP for more details.IPO DetailsIPO Date",
+     "[.]"
+    ],
+    [
+     "Listing Date",
+     "[.]"
+    ],
+    [
+     "Face Value",
+     "₹2 per share"
+    ],
+    [
+     "Sale Type",
+     "OFS only"
+    ],
+    [
+     "Issue Type",
+     "Bookbuilding IPO"
+    ],
+    [
+     "Listing At",
+     "BSE, NSE"
+    ],
+    [
+     "Total Issue Size",
+     "66,18,36,300 shares (agg. up to ₹[.] Cr)"
+    ],
+    [
+     "Offer for Sale",
+     "66,18,36,300 shares of ₹2 (agg. up to ₹[.] Cr)"
+    ],
+    [
+     "Share Holding Pre Issue",
+     "6,61,83,63,000 shares"
+    ],
+    [
+     "Share Holding Post Issue",
+     "6,61,83,63,000 shares"
+    ],
+    [
+     "IPO DRHP StatusDescription",
+     "Date"
+    ],
+    [
+     "Filed with SEBI/Exchange",
+     "Thu, Sep 3, 2026"
+    ],
+    [
+     "SEBI/Exchange approval received",
+     "Thu, Oct 15, 2026"
+    ],
+    [
+     "Issue Reservation Investor Category",
+     "Shares"
+    ],
+    [
+     "QIB",
+     "Not more than 50% of the Net Offer"
+    ],
+    [
+     "Retail",
+     "Not less than 35% of the Net Offer"
+    ],
+    [
+     "NII",
+     "Not less than 15% of the Net Offer"
+    ],
+    [
+     "Investor Category ReservationsCategory",
+     "Limit",
+     "Cut-off"
+    ],
+    [
+     "RII",
+     "Up to ₹2 Lakhs",
+     "Yes"
+    ],
+    [
+     "sNII",
+     "₹2 Lakhs – ₹10 Lakhs",
+     "No"
+    ],
+    [
+     "bNII",
+     "Above ₹10 Lakhs",
+     "No"
+    ],
+    [
+     "Shareholder (SH)",
+     "Up to ₹2 Lakhs",
+     "Yes"
+    ],
+    [
+     "Employee (EMP)",
+     "Up to ₹5 Lakhs",
+     "Yes"
+    ],
+    [
+     "Employee + Shareholder",
+     "Up to ₹2 Lakhs (SH) + Up to ₹5 Lakhs (EMP)",
+     "Yes"
+    ],
+    [
+     "Shareholder + RII/NII",
+     "Up to ₹2 Lakhs (SH) + RII/NII limits",
+     "Yes (SH/RII)"
+    ]
+   ],
+   "mcl": [
+    "tn-sm\">Close</button></div></div><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/\"},\"headline\":\"Mahanadi Coalfields IPO Date, Price, GMP, Review, Details\",\"datePublished\":\"Wednesday, September 2, 2026\",\"dateModified\":\"Monday, November 9, 2026\",\"description\":\"Get Mahanadi Coalfields IPO details. Find IPO Date, Price, Live Subscription, Allotment, Grey Market Premium GMP, Listing Date, Analysis and Review.\",\"image\":\"https://www.chittorgarh.net/images/ipo/mahanadi-coalfields-ltdlogo.png\",\"author\":{\"@type\":\"Organization\",\"name\":\"Admin@Chittorgarh.com",
+    "e=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/\"},\"headline\":\"Mahanadi Coalfields IPO Date, Price, GMP, Review, Details\",\"datePublished\":\"Wednesday, September 2, 2026\",\"dateModified\":\"Monday, November 9, 2026\",\"description\":\"Get Mahanadi Coalfields IPO details. Find IPO Date, Price, Live Subscription, Allotment, Grey Market Premium GMP, Listing Date, Analysis and Review.\",\"image\":\"https://www.chittorgarh.net/images/ipo/mahanadi-coalfields-ltdlogo.png\",\"author\":{\"@type\":\"Organization\",\"name\":\"Admin@Chittorgarh.com\"},\"publisher\":{\"@type\":\"Organization\",\"name",
+    "alfields-ipo/3247/\"},\"headline\":\"Mahanadi Coalfields IPO Date, Price, GMP, Review, Details\",\"datePublished\":\"Wednesday, September 2, 2026\",\"dateModified\":\"Monday, November 9, 2026\",\"description\":\"Get Mahanadi Coalfields IPO details. Find IPO Date, Price, Live Subscription, Allotment, Grey Market Premium GMP, Listing Date, Analysis and Review.\",\"image\":\"https://www.chittorgarh.net/images/ipo/mahanadi-coalfields-ltdlogo.png\",\"author\":{\"@type\":\"Organization\",\"name\":\"Admin@Chittorgarh.com\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Chittorgarh\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.chittorgarh.com/images/chittorgarh-logo.png\"}}}</script><div class=\"container py-2 ipo-detail-page\"><d"
+   ],
+   "apis": []
+  }
+ }
+}
