@@ -1,6 +1,6 @@
 {
  "note": "Hand-entered facts for IPOs that the sheet does not have yet. Every figure carries its source. Not written by the engine.",
- "updated": "14 Nov 2026, 09:40 IST",
+ "updated": "14 Nov 2026, 10:05 IST",
  "ipos": {
   "mahanadico": {
    "name": "Mahanadi Coalfields",
@@ -10,25 +10,43 @@
     "pat": [11841.55, 10825.12, 10698.12],
     "nw": [16119.91, 18343.49, 21371.23],
     "debt": [3.95, 3.35, 3.16],
-    "latest": "Apr-Jun 2026: income ₹8,437.92 cr, profit ₹2,398.78 cr",
-    "ronw": 53.87, "ebm": 47.45, "roce": 73.26,
+    "latest": "Apr-Sep 2026: total income ₹17,107.83 cr, profit ₹4,880.66 cr",
+    "ronw": 53.77, "ebm": 47.45, "roce": 73.26,
     "pe": null, "mcap": null, "promPre": 100, "prom": 90, "fresh": 0
    },
    "more": {
+    "ops": [31634.35, 31353.02, 30549.59],
     "ebitda": [16636.91, 15331.11, 16084.93],
-    "assets": [50687.79, 53590.53, 55358.27],
-    "pat_margin": 31.56,
-    "eps_pre": 16.16, "eps_post": 14.50, "nav": 32.29,
-    "issue": "100% offer for sale by Coal India: up to 66,18,36,300 shares, face value ₹2",
-    "quota": "Net offer: QIB up to 50%, NII at least 15%, Retail at least 35%. Shareholder and Employee categories: bids up to ₹2 lakh; share quota not shown yet",
+    "h1": {"lab": ["Apr-Sep 2025", "Apr-Sep 2026"], "ops": [14724.54, 16093.04], "income": [15771.12, 17107.83], "ebitda": [7034.28, 7463.98], "pat": [4573.71, 4880.66], "eps": [6.91, 7.37], "ronw": [23.87, 22.29]},
+    "margins": {"lab": ["FY24", "FY25", "FY26", "Apr-Sep 2026"], "ebitda": [49.53, 46.42, 47.45, 43.63], "pat": [35.25, 32.77, 31.56, 28.53], "ronw": [80.56, 62.81, 53.77, null], "roace": [107.04, 83.17, 73.26, null]},
+    "eps": [17.89, 16.35, 16.13], "eps_wavg": 16.50,
+    "nav": [24.36, 27.72, 32.29], "nav_latest": "₹33.84 on 30 Sep 2026",
+    "dividend": {"lab": ["FY24", "FY25", "FY26", "Apr-Sep 2026"], "paid_cr": [9000, 8600, 7650, 3850], "per_share_fy26": 11.56, "policy": "Government companies must pay at least 30% of profit or 4% of net worth as dividend, whichever is higher"},
+    "ops_data": {"lab": ["FY24", "FY25", "FY26"], "production_mt": [206.10, 225.17, 218.31], "offtake_mt": [199.02, 210.45, 211.35]},
+    "shares_cr": 661.8363,
+    "peers": {"asof": "prices of 11 Nov 2026", "avg": 11.57, "low": 8.05, "high": 18.34, "list": [["Coal India", 8.05], ["NMDC", 8.47], ["PT Bukit Asam (Indonesia)", 11.40], ["Yancoal Australia", 18.34], ["Bharat Coking Coal", null]]},
+    "issue": "100% offer for sale by Coal India: up to 66,18,36,300 shares of face value ₹2 (10% of the company). The company gets no money from the issue",
+    "quota_lines": [
+      "Shareholder quota: up to 6,61,83,630 shares, for individuals and HUFs who were public shareholders of Coal India on 13 Nov 2026 (the RHP date). Bid up to ₹2 lakh. No discount is stated for shareholders",
+      "Employee quota: up to 3,30,91,815 shares; a discount may be offered, not yet stated",
+      "Net offer (after the two quotas): 56,25,60,855 shares: QIB up to 50%, NII at least 15%, Retail at least 35%"
+    ],
+    "timeline": "Anchor 18 Nov · Opens 19 Nov · Closes 23 Nov · Allotment about 25 Nov · Refund and credit about 26 Nov · Listing about 27 Nov 2026 (NSE and BSE)",
+    "risks": [
+      "Almost all sales (97%) are one product, non-coking coal, and about 70% of it goes to thermal power plants",
+      "Revenue from operations fell 1.73% a year and profit 4.95% a year between FY24 and FY26",
+      "Contingent liabilities not provided for equal 55.86% of net worth (30 Sep 2026)",
+      "Top 10 customers give about 52% of revenue; government power companies about 42%",
+      "Fully controlled by Coal India and the Government; top 10 contractors do most of the outsourced work"
+    ],
     "lm": "SBI Capital Markets, Axis Capital, BOB Capital Markets, IDBI Capital Markets, IIFL Capital Services",
     "reg": "KFin Technologies",
-    "rhp": "RHP dated 13 Nov 2026 filed with RoC, SEBI, BSE and NSE (Coal India to NSE, 14 Nov 2026 07:26)",
+    "rhp": "Red Herring Prospectus dated 13 Nov 2026 (647 pages)",
     "rhp_url": "https://nsearchives.nseindia.com/corporate/COALINDIA_14112026072625_rhp.pdf",
-    "open_items": "Price band, lot size, record date for Coal India shareholders and P/E are not announced in the sources read"
+    "open_items": "Price band, lot size, employee discount and P/E. They will come in the price band advertisement before the issue opens"
    },
-   "src": "Chittorgarh IPO page (restated figures from the offer document), read 14 Nov 2026",
-   "src_url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/"
+   "src": "Red Herring Prospectus dated 13 Nov 2026, read in full by Claude on 14 Nov 2026 (restated consolidated figures, ₹ crore)",
+   "src_url": "https://nsearchives.nseindia.com/corporate/COALINDIA_14112026072625_rhp.pdf"
   }
  }
 }
