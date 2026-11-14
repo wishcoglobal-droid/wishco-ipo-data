@@ -1,0 +1,128 @@
+{
+ "updated": "14 Nov 2026, 07:54 IST",
+ "src": "nseindia.com RSS",
+ "feed_items": {
+  "NSE announcements": 181,
+  "NSE offer documents": 17
+ },
+ "log": [],
+ "items": [
+  {
+   "at": "2026-11-14 07:26",
+   "company": "Coal India Limited",
+   "text": "Filing of RHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL, with SEBI",
+   "url": "https://nsearchives.nseindia.com/corporate/COALINDIA_14112026072625_rhp.pdf",
+   "kind": "RHP",
+   "src": "NSE announcements",
+   "watch": true
+  },
+  {
+   "at": "2026-11-06 00:00",
+   "company": "Datasoft Computer Services Limited",
+   "text": "Datasoft Computer Services Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/Final_DRHP_Datasoft.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-06 00:00",
+   "company": "Il Jin Electronics (India) Limited",
+   "text": "Il Jin Electronics (India) Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-06 00:00",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "text": "Hindustan Coca Cola Holdings Ltd has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-05 00:00",
+   "company": "SNVA Traveltech Limited",
+   "text": "SNVA Traveltech Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/UDRHPSNVA.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-04 00:00",
+   "company": "Bombay Coated and Special Steels Limited",
+   "text": "Bombay Coated and Special Steels Limited has filled ADV for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/ADV_INE0XFY01011_04NOV2026.pdf",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-04 00:00",
+   "company": "Bombay Coated and Special Steels Limited",
+   "text": "Bombay Coated and Special Steels Limited has filled PROSP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/FP_INE0XFY01011_04NOV2026.pdf",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-03 00:00",
+   "company": "M. K. Sons Fine Jewels Limited",
+   "text": "M. K. Sons Fine Jewels Limited has filled ADV for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/ADV_INE2IXO01012_03NOV2026.pdf",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-03 00:00",
+   "company": "Sahanaratnabh Limited",
+   "text": "Sahanaratnabh Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7977_04112026053912.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-09-30 00:00",
+   "company": "Sabari Construction Technologies Limited",
+   "text": "Sabari Construction Technologies Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7833_30092026225803.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-09-30 00:00",
+   "company": "Blueocean Ecotech Limited",
+   "text": "Blueocean Ecotech Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/Blueocean_DRHP_DAP.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-09-30 00:00",
+   "company": "Kasliwal Projects Limited",
+   "text": "Kasliwal Projects Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7823_30092026221513.zip",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "",
+   "company": "",
+   "text": "has filled for its IPO",
+   "url": "",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
+  }
+ ]
+}
