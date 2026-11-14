@@ -1,12 +1,39 @@
 {
- "updated": "14 Nov 2026, 16:32 IST",
+ "updated": "14 Nov 2026, 17:24 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 746,
+  "NSE announcements": 861,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-14 17:07",
+   "company": "SS Retail Limited",
+   "text": "SS Retail Limited has submitted the Stock Exchange the Monitoring Agency Report for the IPO, for the quarter ended on September 30, 2026.",
+   "url": "https://nsearchives.nseindia.com/corporate/SSRETAIL_14112026170722_MAREPORT30092026.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-14 16:59",
+   "company": "Stallion India Fluorochemicals Limited",
+   "text": "Monitoring Agency Report issued by CARE Ratings Limited, Monitoring Agency, for the quarter ended on 30th September, 2026 with respect to the utilisation of proceeds of the Initial Public offer (IPO) of the company.",
+   "url": "https://nsearchives.nseindia.com/corporate/STALLION_14112026165906_MAReportofIPOforQ2FY27-Signed.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-14 16:48",
+   "company": "Coreintegra Consulting Services Limited",
+   "text": "Pursuant to Regulation 32(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and Regulation 262 of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 enclosing herewith monitoring agency report dated November 06, 2026, issued by M/s Infomerics V",
+   "url": "https://nsearchives.nseindia.com/corporate/COREINTEGRA_14112026164720_Monitoring_agency_report_signed.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-14 15:57",
    "company": "Bio Medica Laboratories Limited",
