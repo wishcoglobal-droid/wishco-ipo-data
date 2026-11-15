@@ -1,6 +1,6 @@
 {
- "updated": "15 Nov 2026, 15:31 IST",
- "checked": "15 Nov 2026, 15:31 IST",
+ "updated": "15 Nov 2026, 16:16 IST",
+ "checked": "15 Nov 2026, 16:16 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -49,7 +49,7 @@
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 8.25,
+   "gmp": 8.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -68,7 +68,7 @@
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 15.5,
+   "gmp": 15.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",
