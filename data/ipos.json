@@ -1,6 +1,6 @@
 {
- "updated": "16 Nov 2026, 12:17 IST",
- "checked": "16 Nov 2026, 12:17 IST",
+ "updated": "16 Nov 2026, 15:09 IST",
+ "checked": "16 Nov 2026, 15:09 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -43,13 +43,13 @@
      }
     }
    },
-   "det_t": 1794811654
+   "det_t": 1794821943
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 5.5,
+   "gmp": 5.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -84,13 +84,13 @@
      }
     }
    },
-   "det_t": 1794811654
+   "det_t": 1794821943
   },
   {
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 15.0,
+   "gmp": 13.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",
@@ -125,7 +125,7 @@
      }
     }
    },
-   "det_t": 1794811654
+   "det_t": 1794821943
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
