@@ -1,8 +1,8 @@
 {
- "updated": "16 Nov 2026, 16:33 IST",
+ "updated": "16 Nov 2026, 18:04 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 789,
+  "NSE announcements": 1058,
   "NSE offer documents": 17
  },
  "log": [],
@@ -87,6 +87,15 @@
    "kind": "RHP",
    "src": "NSE announcements",
    "watch": true
+  },
+  {
+   "at": "2026-11-07 00:00",
+   "company": "Il Jin Electronics (India) Limited",
+   "text": "Il Jin Electronics (India) Limited has filled for its IPO",
+   "url": "",
+   "kind": "IPO",
+   "src": "NSE offer documents",
+   "watch": false
   },
   {
    "at": "2026-11-06 00:00",
