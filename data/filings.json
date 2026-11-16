@@ -1,12 +1,21 @@
 {
- "updated": "16 Nov 2026, 18:04 IST",
+ "updated": "16 Nov 2026, 21:12 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 1058,
+  "NSE announcements": 1395,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-16 00:00",
+   "company": "Meganet Technologies Global Limited",
+   "text": "Meganet Technologies Global Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7996_16112026204154.zip",
+   "kind": "DRHP",
+   "src": "NSE offer documents",
+   "watch": false
+  },
   {
    "at": "2026-11-14 18:29",
    "company": "AvenuesAI Limited",
