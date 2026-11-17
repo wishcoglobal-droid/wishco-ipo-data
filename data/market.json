@@ -3,67 +3,67 @@
   {
    "exch": "MCX",
    "name": "Gold",
-   "price": 134706.0,
+   "price": 134296.0,
    "prev": 134539.0,
-   "pct": 0.12,
+   "pct": -0.18,
    "high": 135341.0,
    "low": 133469.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Silver",
-   "price": 170575.0,
+   "price": 169791.0,
    "prev": 167863.0,
-   "pct": 1.62,
+   "pct": 1.15,
    "high": 171025.0,
    "low": 167936.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Crude oil",
-   "price": 7983.0,
+   "price": 8008.0,
    "prev": 8009.0,
-   "pct": -0.32,
+   "pct": -0.01,
    "high": 8074.0,
    "low": 7850.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Natural gas",
-   "price": 291.0,
+   "price": 294.8,
    "prev": 294.4,
-   "pct": -1.15,
+   "pct": 0.14,
    "high": 297.3,
    "low": 286.3,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Copper",
-   "price": 1279.7,
+   "price": 1279.15,
    "prev": 1283.25,
-   "pct": -0.28,
+   "pct": -0.32,
    "high": 1286.15,
    "low": 1273.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Aluminium",
-   "price": 325.6,
+   "price": 324.6,
    "prev": 326.2,
-   "pct": -0.18,
+   "pct": -0.49,
    "high": 330.5,
-   "low": 325.1,
-   "at": "17 Nov 2026, 21:07 IST",
+   "low": 322.85,
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -74,18 +74,18 @@
    "pct": 0.39,
    "high": 194.4,
    "low": 193.35,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Zinc",
-   "price": 402.55,
+   "price": 404.2,
    "prev": 402.05,
-   "pct": 0.12,
-   "high": 404.5,
+   "pct": 0.53,
+   "high": 404.9,
    "low": 398.3,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -96,7 +96,7 @@
    "pct": -1.05,
    "high": 29660.0,
    "low": 29075.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -107,7 +107,7 @@
    "pct": 1.3,
    "high": 17300.0,
    "low": 17012.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -118,7 +118,7 @@
    "pct": -3.24,
    "high": 28300.0,
    "low": 27152.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -129,7 +129,7 @@
    "pct": -1.38,
    "high": 8734.0,
    "low": 8571.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -140,7 +140,7 @@
    "pct": -1.77,
    "high": 17340.0,
    "low": 16970.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -151,7 +151,7 @@
    "pct": -0.27,
    "high": 8479.0,
    "low": 8402.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   },
   {
@@ -162,24 +162,24 @@
    "pct": -0.56,
    "high": 3985.0,
    "low": 3941.0,
-   "at": "17 Nov 2026, 21:07 IST",
+   "at": "17 Nov 2026, 22:15 IST",
    "src": "liveindex.org"
   }
  ],
  "gift": {
-  "price": 25395.5,
+  "price": 25280.5,
   "prev": 25378.0,
-  "pct": 0.07,
-  "at": "17 Nov 2026, 21:07 IST",
+  "pct": -0.38,
+  "at": "17 Nov 2026, 22:15 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "16 Nov 2026",
   "fii": 4864.68,
   "dii": -3519.05,
-  "at": "17 Nov 2026, 21:07 IST",
+  "at": "17 Nov 2026, 22:15 IST",
   "src": "groww.in"
  },
- "updated": "17 Nov 2026, 21:07 IST",
+ "updated": "17 Nov 2026, 22:15 IST",
  "log": []
 }
