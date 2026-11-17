@@ -1,12 +1,39 @@
 {
- "updated": "17 Nov 2026, 10:45 IST",
+ "updated": "17 Nov 2026, 11:50 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 0,
+  "NSE announcements": 498,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-17 11:04",
+   "company": "Tata Chemicals Limited",
+   "text": "The Exchange has sought clarification from Tata Chemicals Limited with respect to recent news item captioned Tata Sons IPO soon? Tata Chemicals, Tata Investment Corp shares rally up to 9% after RBI nudge to comply with listing norms. The response from the Company is awaited.",
+   "url": "",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-17 11:04",
+   "company": "Tata Motors Limited",
+   "text": "The Exchange has sought clarification from Tata Motors Limited with respect to recent news item captioned Tata Sons IPO soon? Tata Chemicals, Tata Investment Corp shares rally up to 9% after RBI nudge to comply with listing norms. The response from the Company is awaited.",
+   "url": "",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
+  {
+   "at": "2026-11-17 11:04",
+   "company": "Tata Investment Corporation Limited",
+   "text": "The Exchange has sought clarification from Tata Investment Corporation Limited with respect to recent news item captioned Tata Sons IPO soon? Tata Chemicals, Tata Investment Corp shares rally up to 9% after RBI nudge to comply with listing norms. The response from the Company is awaited.",
+   "url": "",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-16 00:00",
    "company": "Meganet Technologies Global Limited",
