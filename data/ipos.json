@@ -1,6 +1,6 @@
 {
- "updated": "17 Nov 2026, 13:21 IST",
- "checked": "17 Nov 2026, 13:21 IST",
+ "updated": "17 Nov 2026, 14:27 IST",
+ "checked": "17 Nov 2026, 14:27 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -43,7 +43,7 @@
      }
     }
    },
-   "det_t": 1794901893
+   "det_t": 1794905875
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -84,13 +84,13 @@
      }
     }
    },
-   "det_t": 1794901893
+   "det_t": 1794905875
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 4.6,
+   "gmp": 4.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -125,7 +125,7 @@
      }
     }
    },
-   "det_t": 1794901893
+   "det_t": 1794905875
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -166,7 +166,7 @@
      }
     }
    },
-   "det_t": 1794901893
+   "det_t": 1794905875
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
