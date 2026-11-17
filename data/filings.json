@@ -1,12 +1,21 @@
 {
- "updated": "17 Nov 2026, 17:34 IST",
+ "updated": "17 Nov 2026, 19:00 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 993,
+  "NSE announcements": 1214,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-17 18:03",
+   "company": "Tata Motors Limited",
+   "text": "The Exchange has sought clarification from Tata Motors Limited with respect to recent news item captioned Tata Sons IPO soon? Tata Chemicals, Tata Investment Corp shares rally up to 9% after RBI nudge to comply with listing norms. The response from the Company is attached.",
+   "url": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_17112026180250_NSEletter.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-17 12:59",
    "company": "Tata Investment Corporation Limited",
