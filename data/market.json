@@ -3,89 +3,89 @@
   {
    "exch": "MCX",
    "name": "Gold",
-   "price": 134292.0,
-   "prev": 134539.0,
-   "pct": -0.18,
+   "price": 134250.0,
+   "prev": 134223.0,
+   "pct": 0.02,
    "high": 135341.0,
    "low": 133469.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Silver",
-   "price": 169600.0,
-   "prev": 167863.0,
-   "pct": 1.03,
+   "price": 169597.0,
+   "prev": 169702.0,
+   "pct": -0.06,
    "high": 171025.0,
    "low": 167936.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Crude oil",
-   "price": 7980.0,
-   "prev": 8009.0,
-   "pct": -0.36,
+   "price": 7989.0,
+   "prev": 7988.0,
+   "pct": 0.01,
    "high": 8074.0,
    "low": 7850.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Natural gas",
-   "price": 297.0,
-   "prev": 294.4,
-   "pct": 0.88,
-   "high": 297.8,
+   "price": 298.2,
+   "prev": 296.9,
+   "pct": 0.44,
+   "high": 298.3,
    "low": 286.3,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Copper",
-   "price": 1279.05,
-   "prev": 1283.25,
-   "pct": -0.33,
+   "price": 1276.0,
+   "prev": 1277.4,
+   "pct": -0.11,
    "high": 1286.15,
    "low": 1273.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Aluminium",
-   "price": 324.5,
-   "prev": 326.2,
-   "pct": -0.52,
+   "price": 323.95,
+   "prev": 324.25,
+   "pct": -0.09,
    "high": 330.5,
    "low": 322.85,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Lead",
-   "price": 194.25,
-   "prev": 193.5,
-   "pct": 0.39,
-   "high": 194.4,
+   "price": 194.15,
+   "prev": 194.4,
+   "pct": -0.13,
+   "high": 194.65,
    "low": 193.35,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Zinc",
-   "price": 403.95,
-   "prev": 402.05,
-   "pct": 0.47,
+   "price": 403.9,
+   "prev": 404.0,
+   "pct": -0.02,
    "high": 404.9,
    "low": 398.3,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:26 IST",
    "src": "liveindex.org"
   },
   {
@@ -96,7 +96,7 @@
    "pct": -1.05,
    "high": 29660.0,
    "low": 29075.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -107,7 +107,7 @@
    "pct": 1.3,
    "high": 17300.0,
    "low": 17012.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -118,7 +118,7 @@
    "pct": -3.24,
    "high": 28300.0,
    "low": 27152.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -129,7 +129,7 @@
    "pct": -1.38,
    "high": 8734.0,
    "low": 8571.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -140,7 +140,7 @@
    "pct": -1.77,
    "high": 17340.0,
    "low": 16970.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -151,7 +151,7 @@
    "pct": -0.27,
    "high": 8479.0,
    "low": 8402.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   },
   {
@@ -162,7 +162,7 @@
    "pct": -0.56,
    "high": 3985.0,
    "low": 3941.0,
-   "at": "17 Nov 2026, 23:18 IST",
+   "at": "18 Nov 2026, 00:27 IST",
    "src": "liveindex.org"
   }
  ],
@@ -170,16 +170,16 @@
   "price": 25327.5,
   "prev": 25378.0,
   "pct": -0.2,
-  "at": "17 Nov 2026, 23:18 IST",
+  "at": "18 Nov 2026, 00:27 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
-  "date": "16 Nov 2026",
-  "fii": 4864.68,
-  "dii": -3519.05,
-  "at": "17 Nov 2026, 23:18 IST",
+  "date": "17 Nov 2026",
+  "fii": 4195.38,
+  "dii": 196.93,
+  "at": "18 Nov 2026, 00:27 IST",
   "src": "groww.in"
  },
- "updated": "17 Nov 2026, 23:18 IST",
+ "updated": "18 Nov 2026, 00:27 IST",
  "log": []
 }
