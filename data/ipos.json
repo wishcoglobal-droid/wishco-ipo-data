@@ -1,6 +1,6 @@
 {
- "updated": "18 Nov 2026, 23:36 IST",
- "checked": "18 Nov 2026, 23:36 IST",
+ "updated": "19 Nov 2026, 00:45 IST",
+ "checked": "19 Nov 2026, 00:45 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -8,7 +8,7 @@
    "name": "Foodlink F&B Holdings (India) Ltd (MAINBOARD)",
    "board": "Mainboard",
    "exch": "TENTATIVE DATE, PRICE & LOT",
-   "gmp": 15.0,
+   "gmp": 12.0,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "listing": "2026-12-02",
@@ -43,19 +43,19 @@
      }
     }
    },
-   "det_t": 1795025173
+   "det_t": 1795029334
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 60.0,
+   "gmp": 62.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
    "low": 232.0,
    "high": 245.0,
-   "status": "upcoming",
+   "status": "open",
    "id": "1439",
    "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd",
    "det": {
@@ -84,7 +84,7 @@
      }
     }
    },
-   "det_t": 1795025173
+   "det_t": 1795029334
   },
   {
    "name": "Mahanadi Coalfields",
@@ -96,7 +96,7 @@
    "listing": "2026-11-27",
    "low": 129.0,
    "high": 136.0,
-   "status": "upcoming",
+   "status": "open",
    "id": "1434",
    "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields",
    "det": {
@@ -125,7 +125,7 @@
      }
     }
    },
-   "det_t": 1795025173
+   "det_t": 1795029334
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -166,7 +166,7 @@
      }
     }
    },
-   "det_t": 1795025173
+   "det_t": 1795029334
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
