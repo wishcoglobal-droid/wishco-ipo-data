@@ -1,12 +1,21 @@
 {
- "updated": "18 Nov 2026, 17:57 IST",
+ "updated": "18 Nov 2026, 19:18 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 941,
+  "NSE announcements": 1166,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-18 18:29",
+   "company": "Fascinate Textiles Limited",
+   "text": "Fascinate Textiles Limited has informed the Exchange regarding 'Clarifications for RHP data'.",
+   "url": "https://nsearchives.nseindia.com/corporate/FASCINATESMEIPO_18112026182934_rhpcoorection.pdf",
+   "kind": "RHP",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-17 18:03",
    "company": "Tata Motors Limited",
