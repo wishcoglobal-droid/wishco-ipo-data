@@ -3,89 +3,89 @@
   {
    "exch": "MCX",
    "name": "Gold",
-   "price": 127728.0,
+   "price": 127550.0,
    "prev": 129814.0,
-   "pct": -1.61,
+   "pct": -1.74,
    "high": 129796.0,
-   "low": 127626.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "low": 127383.0,
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Silver",
-   "price": 158202.0,
+   "price": 157860.0,
    "prev": 160734.0,
-   "pct": -1.58,
+   "pct": -1.79,
    "high": 162175.0,
-   "low": 157988.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "low": 157786.0,
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Crude oil",
-   "price": 7767.0,
+   "price": 7805.0,
    "prev": 7647.0,
-   "pct": 1.57,
-   "high": 7858.0,
+   "pct": 2.07,
+   "high": 7859.0,
    "low": 7650.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Natural gas",
-   "price": 350.8,
+   "price": 348.6,
    "prev": 352.3,
-   "pct": -0.43,
+   "pct": -1.05,
    "high": 356.5,
    "low": 347.2,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Copper",
-   "price": 1197.9,
+   "price": 1195.0,
    "prev": 1209.4,
-   "pct": -0.95,
+   "pct": -1.19,
    "high": 1209.7,
    "low": 1190.55,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Aluminium",
-   "price": 319.7,
+   "price": 319.65,
    "prev": 312.9,
-   "pct": 2.17,
+   "pct": 2.16,
    "high": 322.75,
    "low": 308.9,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Lead",
-   "price": 194.0,
+   "price": 193.6,
    "prev": 193.7,
-   "pct": 0.15,
+   "pct": -0.05,
    "high": 194.05,
    "low": 193.55,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "MCX",
    "name": "Zinc",
-   "price": 396.3,
+   "price": 395.4,
    "prev": 392.5,
-   "pct": 0.97,
+   "pct": 0.74,
    "high": 400.9,
    "low": 388.05,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -96,7 +96,7 @@
    "pct": 0.09,
    "high": 28620.0,
    "low": 27940.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -107,7 +107,7 @@
    "pct": -1.35,
    "high": 16980.0,
    "low": 16278.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -118,7 +118,7 @@
    "pct": 1.44,
    "high": 27350.0,
    "low": 26200.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -129,7 +129,7 @@
    "pct": -0.3,
    "high": 8455.0,
    "low": 8222.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -140,7 +140,7 @@
    "pct": -1.08,
    "high": 16650.0,
    "low": 16210.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -151,7 +151,7 @@
    "pct": 1.15,
    "high": 8380.0,
    "low": 8235.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   },
   {
@@ -162,24 +162,24 @@
    "pct": 1.29,
    "high": 4011.0,
    "low": 3942.0,
-   "at": "19 Nov 2026, 21:27 IST",
+   "at": "19 Nov 2026, 22:33 IST",
    "src": "liveindex.org"
   }
  ],
  "gift": {
-  "price": 25430.0,
+  "price": 25421.0,
   "prev": 25550.0,
-  "pct": -0.47,
-  "at": "19 Nov 2026, 21:27 IST",
+  "pct": -0.5,
+  "at": "19 Nov 2026, 22:33 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "18 Nov 2026",
   "fii": 5866.78,
   "dii": -3159.9,
-  "at": "19 Nov 2026, 21:27 IST",
+  "at": "19 Nov 2026, 22:33 IST",
   "src": "groww.in"
  },
- "updated": "19 Nov 2026, 21:27 IST",
+ "updated": "19 Nov 2026, 22:33 IST",
  "log": []
 }
