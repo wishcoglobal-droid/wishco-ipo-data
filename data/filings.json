@@ -1,8 +1,8 @@
 {
- "updated": "19 Nov 2026, 12:14 IST",
+ "updated": "19 Nov 2026, 13:36 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 584,
+  "NSE announcements": 690,
   "NSE offer documents": 17
  },
  "log": [],
@@ -21,6 +21,15 @@
    "company": "Nlc India Renewables Limited",
    "text": "Nlc India Renewables Limited has filled DP_DRHP for its IPO",
    "url": "https://nsearchives.nseindia.com/corporate/Registration_19112026112144_DRHP.zip",
+   "kind": "DRHP",
+   "src": "NSE offer documents",
+   "watch": true
+  },
+  {
+   "at": "2026-11-18 00:00",
+   "company": "Nlc India Renewables Limited",
+   "text": "Nlc India Renewables Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_8002_19112026124914.zip",
    "kind": "DRHP",
    "src": "NSE offer documents",
    "watch": true
