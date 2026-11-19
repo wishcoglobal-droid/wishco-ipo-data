@@ -1,6 +1,6 @@
 {
- "updated": "19 Nov 2026, 09:47 IST",
- "checked": "19 Nov 2026, 09:47 IST",
+ "updated": "19 Nov 2026, 11:03 IST",
+ "checked": "19 Nov 2026, 11:03 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -43,7 +43,7 @@
      }
     }
    },
-   "det_t": 1795061848
+   "det_t": 1795066421
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -84,7 +84,7 @@
      }
     }
    },
-   "det_t": 1795061848
+   "det_t": 1795066421
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -105,11 +105,11 @@
     "allot": "2026-11-25",
     "listing": "2026-11-27",
     "mins": {
-     "r": {
-      "lots": 2,
-      "shares": 1200,
-      "amount": 294000.0,
-      "label": "Individual"
+     "b": {
+      "lots": 7,
+      "shares": 4200,
+      "amount": 1029000.0,
+      "label": "bHNI"
      },
      "s": {
       "lots": 3,
@@ -117,21 +117,21 @@
       "amount": 441000.0,
       "label": "sHNI"
      },
-     "b": {
-      "lots": 7,
-      "shares": 4200,
-      "amount": 1029000.0,
-      "label": "bHNI"
+     "r": {
+      "lots": 2,
+      "shares": 1200,
+      "amount": 294000.0,
+      "label": "Individual"
      }
     }
    },
-   "det_t": 1795061848
+   "det_t": 1795066421
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 3.1,
+   "gmp": 2.6,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -166,7 +166,7 @@
      }
     }
    },
-   "det_t": 1795061848
+   "det_t": 1795066421
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -207,7 +207,7 @@
      }
     }
    },
-   "det_t": 1795061848
+   "det_t": 1795066421
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
