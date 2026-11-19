@@ -1,6 +1,6 @@
 {
- "updated": "19 Nov 2026, 11:03 IST",
- "checked": "19 Nov 2026, 11:03 IST",
+ "updated": "19 Nov 2026, 12:14 IST",
+ "checked": "19 Nov 2026, 12:14 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -43,7 +43,7 @@
      }
     }
    },
-   "det_t": 1795066421
+   "det_t": 1795070697
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -84,13 +84,13 @@
      }
     }
    },
-   "det_t": 1795066421
+   "det_t": 1795070697
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 62.0,
+   "gmp": 67.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -125,13 +125,13 @@
      }
     }
    },
-   "det_t": 1795066421
+   "det_t": 1795070697
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 2.6,
+   "gmp": 1.4,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -166,13 +166,13 @@
      }
     }
    },
-   "det_t": 1795066421
+   "det_t": 1795070697
   },
   {
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 18.0,
+   "gmp": 17.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",
@@ -207,7 +207,7 @@
      }
     }
    },
-   "det_t": 1795066421
+   "det_t": 1795070697
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
