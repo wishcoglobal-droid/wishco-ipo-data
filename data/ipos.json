@@ -1,6 +1,6 @@
 {
- "updated": "20 Nov 2026, 20:23 IST",
- "checked": "20 Nov 2026, 20:23 IST",
+ "updated": "20 Nov 2026, 21:25 IST",
+ "checked": "20 Nov 2026, 21:25 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-04",
     "listing": "2026-12-08"
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd (MAINBOARD)",
@@ -62,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -103,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -144,13 +144,13 @@
      }
     }
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 0.7,
+   "gmp": 0.75,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -185,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -226,7 +226,7 @@
      }
     }
    },
-   "det_t": 1795186398
+   "det_t": 1795190153
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
