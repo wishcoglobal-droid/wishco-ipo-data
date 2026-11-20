@@ -1,6 +1,6 @@
 {
- "updated": "20 Nov 2026, 23:26 IST",
- "checked": "20 Nov 2026, 23:26 IST",
+ "updated": "21 Nov 2026, 00:26 IST",
+ "checked": "21 Nov 2026, 00:26 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-04",
     "listing": "2026-12-08"
    },
-   "det_t": 1795197358
+   "det_t": 1795201016
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd (MAINBOARD)",
@@ -62,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795197358
+   "det_t": 1795201016
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -103,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795197358
+   "det_t": 1795201016
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -144,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795197358
+   "det_t": 1795201016
   },
   {
    "name": "Mahanadi Coalfields",
@@ -185,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795197358
+   "det_t": 1795201016
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -197,36 +197,9 @@
    "listing": "2026-11-26",
    "low": 259.0,
    "high": 272.0,
-   "status": "open",
+   "status": "closed",
    "id": "1438",
-   "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd",
-   "det": {
-    "lot": 55,
-    "issue_cr": 455.72,
-    "allot": "2026-11-23",
-    "listing": "2026-11-26",
-    "mins": {
-     "r": {
-      "lots": 1,
-      "shares": 55,
-      "amount": 14960.0,
-      "label": "Retail"
-     },
-     "s": {
-      "lots": 14,
-      "shares": 770,
-      "amount": 209440.0,
-      "label": "sHNI"
-     },
-     "b": {
-      "lots": 67,
-      "shares": 3685,
-      "amount": 1002320.0,
-      "label": "bHNI"
-     }
-    }
-   },
-   "det_t": 1795197358
+   "url": "https://www.ipopremium.in/view/ipo/1438/crystal-crop-protection-ltd"
   },
   {
    "name": "Vedant Poly Fabs Ltd.",
