@@ -1,11 +1,11 @@
 {
- "updated": "20 Nov 2026, 10:50 IST",
+ "updated": "20 Nov 2026, 12:02 IST",
  "src": "nseindia.com RSS",
- "feed_items": {},
- "log": [
-  "NSE announcements: HTTP Error 403: Forbidden",
-  "NSE offer documents: HTTP Error 403: Forbidden"
- ],
+ "feed_items": {
+  "NSE announcements": 438,
+  "NSE offer documents": 17
+ },
+ "log": [],
  "items": [
   {
    "at": "2026-11-19 15:33",
@@ -15,6 +15,15 @@
    "kind": "DRHP",
    "src": "NSE announcements",
    "watch": true
+  },
+  {
+   "at": "2026-11-19 00:00",
+   "company": "Sagar Defence Engineering Limited",
+   "text": "Sagar Defence Engineering Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/Sagar_UDRHP.zip",
+   "kind": "DRHP",
+   "src": "NSE offer documents",
+   "watch": false
   },
   {
    "at": "2026-11-18 18:29",
@@ -39,6 +48,15 @@
    "company": "Nlc India Renewables Limited",
    "text": "Nlc India Renewables Limited has filled DP_DRHP for its IPO",
    "url": "https://nsearchives.nseindia.com/corporate/AD_IPO_8002_19112026124914.zip",
+   "kind": "DRHP",
+   "src": "NSE offer documents",
+   "watch": true
+  },
+  {
+   "at": "2026-11-18 00:00",
+   "company": "Nlc India Renewables Limited",
+   "text": "Nlc India Renewables Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/NIRL.zip",
    "kind": "DRHP",
    "src": "NSE offer documents",
    "watch": true
