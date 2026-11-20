@@ -1,11 +1,11 @@
 {
- "updated": "20 Nov 2026, 09:42 IST",
+ "updated": "20 Nov 2026, 10:50 IST",
  "src": "nseindia.com RSS",
- "feed_items": {
-  "NSE announcements": 251,
-  "NSE offer documents": 17
- },
- "log": [],
+ "feed_items": {},
+ "log": [
+  "NSE announcements: HTTP Error 403: Forbidden",
+  "NSE offer documents: HTTP Error 403: Forbidden"
+ ],
  "items": [
   {
    "at": "2026-11-19 15:33",
