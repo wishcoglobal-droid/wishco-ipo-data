@@ -1,9 +1,29 @@
 {
- "updated": "21 Nov 2026, 20:59 IST",
- "checked": "21 Nov 2026, 20:59 IST",
+ "updated": "21 Nov 2026, 21:50 IST",
+ "checked": "21 Nov 2026, 21:50 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
+  {
+   "name": "Monomark Engineering (India) Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 0.0,
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "listing": "2026-12-09",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1451",
+   "url": "https://www.ipopremium.in/view/ipo/1451/monomark-engineering",
+   "det": {
+    "issue_cr": 0.0,
+    "allot": "2026-12-07",
+    "listing": "2026-12-09"
+   },
+   "det_t": 1795278025
+  },
   {
    "name": "A J Packaging Ltd.",
    "board": "SME",
@@ -216,6 +236,20 @@
    "url": "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd"
   },
   {
+   "name": "Maxwell Engineering Ltd.",
+   "board": "SME",
+   "exch": "NSE SME",
+   "gmp": 105.0,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 150.0,
+   "high": 158.0,
+   "status": "listed",
+   "id": "1430",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
+  },
+  {
    "name": "HGS (India) Ltd.",
    "board": "SME",
    "exch": "NSE SME",
@@ -242,20 +276,6 @@
    "status": "listed",
    "id": "1428",
    "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
-  },
-  {
-   "name": "Maxwell Engineering Ltd.",
-   "board": "SME",
-   "exch": "NSE SME",
-   "gmp": 105.0,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 150.0,
-   "high": 158.0,
-   "status": "listed",
-   "id": "1430",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
   },
   {
    "name": "Vectras Enprocon",
@@ -356,20 +376,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd"
   },
   {
-   "name": "BLS Polymers Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": 69.0,
-   "open": "2026-10-27",
-   "close": "2026-10-29",
-   "listing": "2026-11-03",
-   "low": 142.0,
-   "high": 150.0,
-   "status": "listed",
-   "id": "1414",
-   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd"
-  },
-  {
    "name": "SFC Environmental Technologies Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -382,6 +388,20 @@
    "status": "listed",
    "id": "1412",
    "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd"
+  },
+  {
+   "name": "BLS Polymers Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 69.0,
+   "open": "2026-10-27",
+   "close": "2026-10-29",
+   "listing": "2026-11-03",
+   "low": 142.0,
+   "high": 150.0,
+   "status": "listed",
+   "id": "1414",
+   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd"
   },
   {
    "name": "EAAA India Alternatives Ltd",
@@ -522,20 +542,6 @@
    "status": "listed",
    "id": "1420",
    "url": "https://www.ipopremium.in/view/ipo/1420/ravita-engineering-services-ltd"
-  },
-  {
-   "name": "Fusion CX Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": 13.5,
-   "open": "2026-10-14",
-   "close": "2026-10-16",
-   "listing": "2026-10-22",
-   "low": 275.0,
-   "high": 289.0,
-   "status": "listed",
-   "id": "1410",
-   "url": "https://www.ipopremium.in/view/ipo/1410/fusion-cx-ltd"
   }
  ]
 }
