@@ -8,7 +8,7 @@
    "pct": -4.32,
    "high": 123975.0,
    "low": 121424.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -19,7 +19,7 @@
    "pct": 0.74,
    "high": 153100.0,
    "low": 146868.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -30,7 +30,7 @@
    "pct": -1.11,
    "high": 7787.0,
    "low": 7508.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -41,7 +41,7 @@
    "pct": -0.03,
    "high": 344.9,
    "low": 331.2,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -52,7 +52,7 @@
    "pct": 0.1,
    "high": 1180.0,
    "low": 1141.45,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -63,7 +63,7 @@
    "pct": 0.09,
    "high": 320.9,
    "low": 313.35,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -74,7 +74,7 @@
    "pct": -0.1,
    "high": 193.95,
    "low": 191.5,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
@@ -85,84 +85,84 @@
    "pct": -0.09,
    "high": 393.0,
    "low": 385.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Jeera",
    "price": 27470.0,
-   "prev": 28525.0,
-   "pct": -3.7,
+   "prev": 27470.0,
+   "pct": 0.0,
    "high": 28570.0,
    "low": 27470.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Coriander",
    "price": 16402.0,
-   "prev": 16750.0,
-   "pct": -2.08,
+   "prev": 16402.0,
+   "pct": 0.0,
    "high": 16792.0,
    "low": 16366.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Turmeric",
    "price": 25998.0,
-   "prev": 27226.0,
-   "pct": -4.51,
+   "prev": 25998.0,
+   "pct": 0.0,
    "high": 27226.0,
    "low": 25998.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Guar seed",
    "price": 8144.0,
-   "prev": 8397.0,
-   "pct": -3.01,
+   "prev": 8144.0,
+   "pct": 0.0,
    "high": 8435.0,
    "low": 8144.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Guar gum",
    "price": 15901.0,
-   "prev": 16470.0,
-   "pct": -3.45,
+   "prev": 15901.0,
+   "pct": 0.0,
    "high": 16570.0,
    "low": 15901.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Castor seed",
    "price": 8265.0,
-   "prev": 8380.0,
-   "pct": -1.37,
+   "prev": 8265.0,
+   "pct": 0.0,
    "high": 8399.0,
    "low": 8265.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   },
   {
    "exch": "NCDEX",
    "name": "Cotton seed oilcake",
    "price": 4036.0,
-   "prev": 3994.0,
-   "pct": 1.05,
+   "prev": 4036.0,
+   "pct": 0.0,
    "high": 4041.0,
    "low": 3990.0,
-   "at": "21 Nov 2026, 05:18 IST",
+   "at": "21 Nov 2026, 06:35 IST",
    "src": "liveindex.org"
   }
  ],
@@ -170,16 +170,16 @@
   "price": 25836.0,
   "prev": 25745.5,
   "pct": 0.35,
-  "at": "21 Nov 2026, 05:18 IST",
+  "at": "21 Nov 2026, 06:35 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "20 Nov 2026",
   "fii": 10308.42,
   "dii": -4859.8,
-  "at": "21 Nov 2026, 05:18 IST",
+  "at": "21 Nov 2026, 06:35 IST",
   "src": "groww.in"
  },
- "updated": "21 Nov 2026, 05:18 IST",
+ "updated": "21 Nov 2026, 06:35 IST",
  "log": []
 }
