@@ -168,18 +168,34 @@
  ],
  "gift": {
   "price": 25836.0,
-  "prev": 25745.5,
-  "pct": 0.35,
-  "at": "22 Nov 2026, 11:46 IST",
+  "prev": 25835.65,
+  "pct": 0.0,
+  "at": "22 Nov 2026, 13:07 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "20 Nov 2026",
   "fii": 10308.42,
   "dii": -4859.8,
-  "at": "22 Nov 2026, 11:46 IST",
+  "at": "22 Nov 2026, 13:07 IST",
   "src": "groww.in"
  },
- "updated": "22 Nov 2026, 11:46 IST",
- "log": []
+ "updated": "22 Nov 2026, 13:07 IST",
+ "log": [
+  "MCX Gold: skipped (not found)",
+  "MCX Silver: skipped (not found)",
+  "MCX Crude oil: skipped (not found)",
+  "MCX Natural gas: skipped (not found)",
+  "MCX Copper: skipped (not found)",
+  "MCX Aluminium: skipped (not found)",
+  "MCX Lead: skipped (not found)",
+  "MCX Zinc: skipped (not found)",
+  "NCDEX Jeera: skipped (not found)",
+  "NCDEX Coriander: skipped (not found)",
+  "NCDEX Turmeric: skipped (not found)",
+  "NCDEX Guar seed: skipped (not found)",
+  "NCDEX Guar gum: skipped (not found)",
+  "NCDEX Castor seed: skipped (not found)",
+  "NCDEX Cotton seed oilcake: skipped (not found)"
+ ]
 }
