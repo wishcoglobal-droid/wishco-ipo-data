@@ -170,17 +170,17 @@
   "price": 25836.0,
   "prev": 25835.65,
   "pct": 0.0,
-  "at": "22 Nov 2026, 13:07 IST",
+  "at": "22 Nov 2026, 14:05 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "20 Nov 2026",
   "fii": 10308.42,
   "dii": -4859.8,
-  "at": "22 Nov 2026, 13:07 IST",
+  "at": "22 Nov 2026, 14:05 IST",
   "src": "groww.in"
  },
- "updated": "22 Nov 2026, 13:07 IST",
+ "updated": "22 Nov 2026, 14:05 IST",
  "log": [
   "MCX Gold: skipped (not found)",
   "MCX Silver: skipped (not found)",
