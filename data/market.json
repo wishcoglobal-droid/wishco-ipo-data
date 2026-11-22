@@ -8,7 +8,7 @@
    "pct": -4.32,
    "high": 123975.0,
    "low": 121424.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -19,7 +19,7 @@
    "pct": 0.74,
    "high": 153100.0,
    "low": 146868.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -30,7 +30,7 @@
    "pct": -1.11,
    "high": 7787.0,
    "low": 7508.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -41,7 +41,7 @@
    "pct": -0.03,
    "high": 344.9,
    "low": 331.2,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -52,7 +52,7 @@
    "pct": 0.1,
    "high": 1180.0,
    "low": 1141.45,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -63,7 +63,7 @@
    "pct": 0.09,
    "high": 320.9,
    "low": 313.35,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -74,7 +74,7 @@
    "pct": -0.1,
    "high": 193.95,
    "low": 191.5,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -85,7 +85,7 @@
    "pct": -0.09,
    "high": 393.0,
    "low": 385.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -96,7 +96,7 @@
    "pct": 0.0,
    "high": 28500.0,
    "low": 27470.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -107,7 +107,7 @@
    "pct": 0.0,
    "high": 16742.0,
    "low": 16402.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -118,7 +118,7 @@
    "pct": 0.0,
    "high": 27080.0,
    "low": 25998.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -129,7 +129,7 @@
    "pct": 0.0,
    "high": 8370.0,
    "low": 8144.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -140,7 +140,7 @@
    "pct": 0.0,
    "high": 16400.0,
    "low": 15901.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -151,7 +151,7 @@
    "pct": 0.0,
    "high": 8394.0,
    "low": 8265.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   },
   {
@@ -162,7 +162,7 @@
    "pct": 0.0,
    "high": 4036.0,
    "low": 3994.0,
-   "at": "22 Nov 2026, 09:42 IST",
+   "at": "22 Nov 2026, 10:45 IST",
    "src": "liveindex.org"
   }
  ],
@@ -170,16 +170,16 @@
   "price": 25836.0,
   "prev": 25745.5,
   "pct": 0.35,
-  "at": "22 Nov 2026, 09:42 IST",
+  "at": "22 Nov 2026, 10:45 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "20 Nov 2026",
   "fii": 10308.42,
   "dii": -4859.8,
-  "at": "22 Nov 2026, 09:42 IST",
+  "at": "22 Nov 2026, 10:45 IST",
   "src": "groww.in"
  },
- "updated": "22 Nov 2026, 09:42 IST",
+ "updated": "22 Nov 2026, 10:45 IST",
  "log": []
 }
