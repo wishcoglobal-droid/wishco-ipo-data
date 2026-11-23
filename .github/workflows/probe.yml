@@ -2,6 +2,8 @@ name: anchor probe (temporary)
 on:
   push:
     branches: [anchor-probe]
+permissions:
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -9,13 +11,17 @@ jobs:
     steps:
       - run: |
           mkdir out
+          for u in "ipo_subscription/crystal-crop-protection-ipo/" ; do :; done
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
           for u in "ipo_subscription/mahanadi-coalfields-ipo/3247/" "ipo/mahanadi-coalfields-ipo/3247/" "report/mainboard-ipo-list-in-india-bse-nse/83/" "report/sme-ipo-list-in-india-bse-sme-nse-emerge/84/"; do
             f=$(echo "$u" | tr '/' '_')
             curl -sS -L --compressed -A "$UA" -H 'Accept-Language: en-IN,en;q=0.9' -o "out/$f.html" -w "$u %{http_code} %{size_download}\n" "https://www.chittorgarh.com/$u"
           done
           ls -la out
-      - uses: actions/upload-artifact@v4
+      - uses: actions/checkout@v4
         with:
-          name: probe
-          path: out
+          path: repo
+      - run: |
+          mkdir -p repo/probe && cp out/* repo/probe/ && cd repo
+          git config user.name probe-bot; git config user.email probe-bot@users.noreply.github.com
+          git add probe && git commit -q -m "probe pages" && git push -q
