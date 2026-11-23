@@ -1,0 +1,4156 @@
+{
+ "updated": "23 Nov 2026, 08:52 IST",
+ "src": "chittorgarh.com anchor allocation tables",
+ "reads": 40,
+ "log": [
+  "TNA Solutions: totals do not match ({'rows': 2, 'shares': 434000, 'cr': 3.04, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Tonbo Imaging India: totals do not match ({'rows': 2, 'shares': 499380, 'cr': 34.96, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Bench Mark Infotech Services: totals do not match ({'rows': 2, 'shares': 184800, 'cr': 2.03, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Acme Universal Safezone 9: totals do not match ({'rows': 2, 'shares': 958400, 'cr': 6.8, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Vans Electroengineerings: totals do not match ({'rows': 2, 'shares': 633600, 'cr': 7.47, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Vaibhav Vyapaar: totals do not match ({'rows': 2, 'shares': 1084000, 'cr': 5.85, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Shree TNB Polymers: totals do not match ({'rows': 2, 'shares': 666000, 'cr': 3.53, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Zetwerk Manufacturing Business: totals do not match ({'rows': 2, 'shares': 10198584, 'cr': 154.0, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Shellz India: totals do not match ({'rows': 2, 'shares': 672000, 'cr': 12.03, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Ravita Engineering Services: totals do not match ({'rows': 2, 'shares': 892800, 'cr': 10.0, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Bonfiglioli Transmissions: totals do not match ({'rows': 2, 'shares': 921475, 'cr': 54.0, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Black Opal Consultants: totals do not match ({'rows': 2, 'shares': 333000, 'cr': 6.56, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
+  "Acme India Industries: totals do not match ({'rows': 2, 'shares': 791400, 'cr': 15.51, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})"
+ ],
+ "ipos": {
+  "3247": {
+   "slug": "mahanadi-coalfields-ipo",
+   "id": "3247",
+   "name": "Mahanadi Coalfields",
+   "board": "Mainboard",
+   "key": "mahanadicoalfields",
+   "url": "https://www.chittorgarh.com/ipo_subscription/mahanadi-coalfields-ipo/3247/",
+   "t": 1795404089,
+   "open": "2026-11-19",
+   "close": "2026-11-23",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "18 Nov",
+   "bid": "2026-11-18",
+   "price": 136.0,
+   "lock30_shares": 84384128,
+   "lock90_shares": 84384128,
+   "ok": true,
+   "check": {
+    "rows": 53,
+    "shares": 168768255,
+    "cr": 2295.25,
+    "total_shares": 168768255,
+    "total_cr": 2295.25,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 53,
+   "amt": 2295.25,
+   "mf": 53.04,
+   "ins": 36.26,
+   "schemes": "11 AMCs · 29 schemes",
+   "tier": 25,
+   "tierWhy": "25 large names: 11 mutual fund houses, 8 insurers / pension funds, 6 global names (Ashoka, ADIA, Société Générale, Citigroup, Morgan Stanley, Goldman Sachs)",
+   "flags": 17,
+   "flagWhy": "8 small funds (Venus Investments, Neo Prime, Abundantia Capital, Uni Growth, Asas Global, SB Opportunities, CP Capital, Sanshi) got ₹46.50 cr (2.03%); they may sell early. The rest went to large institutions.",
+   "weak_pct": 2.03,
+   "rows": [
+    [
+     "LIFE INSURANCE CORP.OF INDIA",
+     "i",
+     568.0,
+     41764690,
+     "LIFE INSURANCE CORP.OF INDIA"
+    ],
+    [
+     "NIPPON INDIA SMALL CAP FUND",
+     "m",
+     407.41,
+     29956520,
+     "NIPPON INDIA MUTUAL FUND"
+    ],
+    [
+     "TATA AIG GENERAL INSURANCE CO.LTD.",
+     "i",
+     200.0,
+     14705900,
+     "TATA AIG GENERAL INSURANCE"
+    ],
+    [
+     "INVESCO INDIA CONTRA FUND",
+     "m",
+     160.0,
+     11764720,
+     "INVESCO MUTUAL FUND"
+    ],
+    [
+     "NIPPON INDIA POWER & INFRA FUND",
+     "m",
+     92.59,
+     6808230,
+     "NIPPON INDIA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL MID CAP FUND",
+     "m",
+     75.58,
+     5557310,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "HDFC FLEXI CAP FUND",
+     "m",
+     68.0,
+     5000050,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "SOCIETE GENERALE",
+     "f",
+     55.0,
+     4044068,
+     "SOCIETE GENERAL"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE PSU EQUITY FUND",
+     "m",
+     52.5,
+     3860340,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "MORGAN STANLEY ASIA (SINGAPORE) PTE.-ODI",
+     "f",
+     50.0,
+     3676420,
+     "MORGAN STANLEY"
+    ],
+    [
+     "MOTILAL OSWAL LARGE CAP FUND",
+     "m",
+     45.0,
+     3308800,
+     "MOTILAL OSWAL MUTUAL FUND"
+    ],
+    [
+     "TATA RESOURCES & ENERGY FUND",
+     "m",
+     40.0,
+     2941180,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL FLEXI CAP FUND",
+     "m",
+     36.04,
+     2650010,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND",
+     "m",
+     32.25,
+     2371380,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "TATA LARGE & MID CAP FUND",
+     "m",
+     30.0,
+     2205830,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "ASHOKA INDIA EQUITY INVESTMENT TRUST PLC",
+     "f",
+     29.9,
+     2198460,
+     "ASHOKA"
+    ],
+    [
+     "ABU DHABI INVESTMENT AUTHORITY-MONSOON",
+     "f",
+     24.0,
+     1764730,
+     "ABU DHABI INVESTMENT"
+    ],
+    [
+     "ICICI PRUDENTIAL INFRASTRUCTURE FUND",
+     "m",
+     22.5,
+     1654400,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS LARGE & MID CAP FUND",
+     "m",
+     20.0,
+     1470590,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS RECENTLY LISTED IPO FUND",
+     "m",
+     20.0,
+     1470590,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "INTEGRATED CORE STRATEGIES (ASIA) PTE.LTD.",
+     "f",
+     20.0,
+     1470590,
+     "INTEGRATED CORE"
+    ],
+    [
+     "WHITEOAK CAPITAL MULTI CAP FUND",
+     "m",
+     18.99,
+     1396340,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "GENERAL INSURANCE CORP.OF INDIA",
+     "i",
+     17.0,
+     1250040,
+     "GENERAL INSURANCE CORP.OF INDIA"
+    ],
+    [
+     "ICICI PRUDENTIAL PSU EQUITY FUND",
+     "m",
+     15.0,
+     1102970,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL LARGE & MID CAP FUND",
+     "m",
+     14.04,
+     1032350,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "BAJAJ LIFE INSURANCE LTD.",
+     "i",
+     12.5,
+     919160,
+     "BAJAJ LIFE INSURANCE"
+    ],
+    [
+     "WHITEOAK CAPITAL LARGE CAP FUND",
+     "m",
+     12.24,
+     900020,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "TATA DIVIDEND YIELD FUND",
+     "m",
+     10.0,
+     735240,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "SBI GENERAL INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     735240,
+     "SBI GENERAL INSURANCE"
+    ],
+    [
+     "UTI NPS TRUST-UTI PENSION FUND SCHEME ATAL PENSION YOJANA (APY)",
+     "i",
+     10.0,
+     735240,
+     "UTI NPS TRUST"
+    ],
+    [
+     "GOLDMAN SACHS BANK EUROPE SE-ODI",
+     "f",
+     10.0,
+     735296,
+     "GOLDMAN SACHS"
+    ],
+    [
+     "EDELWEISS LIFE INSURANCE CO.LTD.",
+     "i",
+     9.75,
+     716877,
+     "EDELWEISS LIFE INSURANCE"
+    ],
+    [
+     "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+     "f",
+     9.0,
+     661760,
+     "VENUS INVESTMENTS"
+    ],
+    [
+     "AXIS LARGE CAP FUND",
+     "m",
+     7.5,
+     551430,
+     "AXIS MUTUAL FUND"
+    ],
+    [
+     "NEO PRIME FUND",
+     "f",
+     7.5,
+     551430,
+     "NEO"
+    ],
+    [
+     "HDFC MULTI-ASSET ALLOCATION FUND",
+     "m",
+     7.0,
+     514690,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "TITANIUM HYBRID LONG-SHORT FUND",
+     "m",
+     6.0,
+     441210,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "BARODA BNP PARIBAS ENERGY OPPORTUNITIES FUND",
+     "m",
+     6.0,
+     441144,
+     "BARODA BNP PARIBAS MUTUAL FUND"
+    ],
+    [
+     "ISIF EQUITY LONG-SHORT FUND",
+     "m",
+     5.25,
+     385990,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "ASHOKA WHITEOAK ICAV-ASHOKA WHITEOAK EMERGING MARKETS EQUITY EX-CHINA FUND",
+     "f",
+     5.1,
+     375100,
+     "ASHOKA WHITEOAK"
+    ],
+    [
+     "CITIGROUP GLOBAL MARKETS MAURITIUS PVT.LTD.",
+     "f",
+     5.0,
+     367648,
+     "CITIGROUP"
+    ],
+    [
+     "ABUNDANTIA CAPITAL VCC-ABUNDANTIA CAPITAL III",
+     "f",
+     5.0,
+     367648,
+     "ABUNDANTIA"
+    ],
+    [
+     "CANARA HSBC LIFE INSURANCE CO.LTD.",
+     "i",
+     5.0,
+     367648,
+     "CANARA HSBC"
+    ],
+    [
+     "UNI GROWTH FUND",
+     "f",
+     5.0,
+     367648,
+     "UNI GROWTH FUND"
+    ],
+    [
+     "ASAS GLOBAL FUND INCORPORATED VCC SUB FUND",
+     "f",
+     5.0,
+     367648,
+     "ASAS GLOBAL"
+    ],
+    [
+     "SB OPPORTUNITIES FUND II",
+     "f",
+     5.0,
+     367648,
+     "SB OPPORTUNITIES FUND"
+    ],
+    [
+     "CP CAPITAL LTD.",
+     "f",
+     5.0,
+     367648,
+     "CP CAPITAL"
+    ],
+    [
+     "SANSHI FUND-I",
+     "f",
+     5.0,
+     367648,
+     "SANSHI"
+    ],
+    [
+     "WHITEOAK CAPITAL MULTI ASSET ALLOCATION FUND",
+     "m",
+     4.85,
+     356620,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "TITANIUM EQUITY LONG-SHORT FUND",
+     "m",
+     4.0,
+     294140,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL DIVIDEND YIELD FUND",
+     "m",
+     2.08,
+     152900,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "BARODA BNP PARIBAS CHILDREN'S FUND",
+     "m",
+     1.5,
+     110286,
+     "BARODA BNP PARIBAS MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL BALANCED ADVANTAGE FUND",
+     "m",
+     1.18,
+     86790,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ]
+   ],
+   "mfN": [
+    "NIPPON INDIA SMALL CAP FUND",
+    "INVESCO INDIA CONTRA FUND",
+    "NIPPON INDIA POWER & INFRA FUND",
+    "WHITEOAK CAPITAL MID CAP FUND",
+    "HDFC FLEXI CAP FUND",
+    "ADITYA BIRLA SUN LIFE PSU EQUITY FUND",
+    "MOTILAL OSWAL LARGE CAP FUND",
+    "TATA RESOURCES & ENERGY FUND"
+   ],
+   "fo": [
+    "LIFE INSURANCE CORP.OF INDIA",
+    "TATA AIG GENERAL INSURANCE CO.LTD.",
+    "SOCIETE GENERALE",
+    "MORGAN STANLEY ASIA (SINGAPORE) PTE.-ODI",
+    "ASHOKA INDIA EQUITY INVESTMENT TRUST PLC"
+   ],
+   "more": 40,
+   "lock": [
+    "25 Dec",
+    "23 Feb"
+   ]
+  },
+  "3239": {
+   "slug": "carver-roboweld-ipo",
+   "id": "3239",
+   "name": "Carver Roboweld",
+   "board": "SME",
+   "key": "carverroboweld",
+   "url": "https://www.chittorgarh.com/ipo_subscription/carver-roboweld-ipo/3239/",
+   "t": 1795404089,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "27 Oct",
+   "bid": "2026-10-27",
+   "price": 80.0,
+   "lock30_shares": 498400,
+   "lock90_shares": 498400,
+   "ok": true,
+   "check": {
+    "rows": 4,
+    "shares": 996800,
+    "cr": 7.97,
+    "total_shares": 996800,
+    "total_cr": 7.97,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 4,
+   "amt": 7.97,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "4 small funds (31 Degrees, Smart Horizon, Vbcube Ventures, Brescon Opportunities) got ₹7.97 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "31 DEGREES NORTH INDIA OPPORTUNITIES FUND",
+     "f",
+     2.44,
+     305600,
+     "31 DEGREES"
+    ],
+    [
+     "SMART HORIZON OPPORTUNITY FUND",
+     "f",
+     2.01,
+     251200,
+     "SMART HORIZON"
+    ],
+    [
+     "VBCUBE VENTURES FUND II",
+     "f",
+     2.01,
+     251200,
+     "VBCUBE"
+    ],
+    [
+     "BRESCON OPPORTUNITIES FUND",
+     "f",
+     1.51,
+     188800,
+     "BRESCON"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "31 DEGREES NORTH INDIA OPPORTUNITIES FUND",
+    "SMART HORIZON OPPORTUNITY FUND",
+    "VBCUBE VENTURES FUND II",
+    "BRESCON OPPORTUNITIES FUND"
+   ],
+   "more": 0,
+   "lock": [
+    "1 Dec",
+    "30 Jan"
+   ]
+  },
+  "3221": {
+   "slug": "antala-industries-ipo",
+   "id": "3221",
+   "name": "Antala Industries",
+   "board": "SME",
+   "key": "antalaindustries",
+   "url": "https://www.chittorgarh.com/ipo_subscription/antala-industries-ipo/3221/",
+   "t": 1795404089,
+   "open": "2026-10-29",
+   "close": "2026-11-05",
+   "found": false
+  },
+  "3217": {
+   "slug": "johnsoncab-electricals-ipo",
+   "id": "3217",
+   "name": "Johnsoncab Electricals",
+   "board": "SME",
+   "key": "johnsoncabelectricals",
+   "url": "https://www.chittorgarh.com/ipo_subscription/johnsoncab-electricals-ipo/3217/",
+   "t": 1795404089,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "29 Oct",
+   "bid": "2026-10-29",
+   "price": 200.0,
+   "lock30_shares": 397500,
+   "lock90_shares": 397500,
+   "ok": true,
+   "check": {
+    "rows": 7,
+    "shares": 795000,
+    "cr": 15.91,
+    "total_shares": 795000,
+    "total_cr": 15.9,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 7,
+   "amt": 15.9,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "6 small funds (Negen Undiscovered, Sunrise Investment, Meru Investment, Vijit Growth, YR Investment, Krushnam Nexus) got ₹14.85 cr (93.40%); they may sell early. The rest are known names.",
+   "weak_pct": 93.4,
+   "rows": [
+    [
+     "NEGEN UNDISCOVERED VALUE FUND",
+     "f",
+     4.54,
+     226800,
+     "NEGEN"
+    ],
+    [
+     "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+     "f",
+     3.24,
+     162000,
+     "SUNRISE"
+    ],
+    [
+     "MERU INVESTMENT FUND",
+     "f",
+     3.05,
+     152400,
+     "MERU INVESTMENT"
+    ],
+    [
+     "VIJIT GROWTH FUND",
+     "f",
+     1.55,
+     77400,
+     "VIJIT"
+    ],
+    [
+     "YR INVESTMENT OPPORTUNITIES FUND",
+     "f",
+     1.46,
+     73200,
+     "YR INVESTMENT"
+    ],
+    [
+     "INVICTA CONTINUUM TRUST",
+     "f",
+     1.06,
+     52800,
+     "INVICTA"
+    ],
+    [
+     "KRUSHNAM NEXUS CAPITAL TRUST",
+     "f",
+     1.01,
+     50400,
+     "KRUSHNAM NEXUS"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "NEGEN UNDISCOVERED VALUE FUND",
+    "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+    "MERU INVESTMENT FUND",
+    "VIJIT GROWTH FUND",
+    "YR INVESTMENT OPPORTUNITIES FUND"
+   ],
+   "more": 2,
+   "lock": [
+    "5 Dec",
+    "3 Feb"
+   ]
+  },
+  "3216": {
+   "slug": "tna-solutions-ipo",
+   "id": "3216",
+   "name": "TNA Solutions",
+   "board": "SME",
+   "key": "tnasolutions",
+   "url": "https://www.chittorgarh.com/ipo_subscription/tna-solutions-ipo/3216/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-06",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "29 Sep",
+   "bid": "2026-09-29",
+   "price": 70.0,
+   "lock30_shares": 768000,
+   "lock90_shares": 768000,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 434000,
+    "cr": 3.04,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 3.04,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (CP Capital, Generational Capital) got ₹3.04 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "CP CAPITAL LTD.",
+     "f",
+     1.53,
+     218000,
+     "CP CAPITAL"
+    ],
+    [
+     "GENERATIONAL CAPITAL BREAKOUT TRUST",
+     "f",
+     1.51,
+     216000,
+     "GENERATIONAL"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "CP CAPITAL LTD.",
+    "GENERATIONAL CAPITAL BREAKOUT TRUST"
+   ],
+   "more": 0,
+   "lock": [
+    "7 Nov",
+    "6 Jan"
+   ]
+  },
+  "3215": {
+   "slug": "tonbo-imaging-india-ipo",
+   "id": "3215",
+   "name": "Tonbo Imaging India",
+   "board": "Mainboard",
+   "key": "tonboimaging",
+   "url": "https://www.chittorgarh.com/ipo_subscription/tonbo-imaging-india-ipo/3215/",
+   "t": 1795404089,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "14 Oct",
+   "bid": "2026-10-14",
+   "price": 700.0,
+   "lock30_shares": 1824007,
+   "lock90_shares": 1824007,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 499380,
+    "cr": 34.96,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 34.96,
+   "mf": 100.0,
+   "ins": 0.0,
+   "schemes": "2 AMCs · 2 schemes",
+   "tier": 2,
+   "tierWhy": "2 large names: 2 mutual fund houses",
+   "flags": 18,
+   "flagWhy": "No small or little-known funds in the list.",
+   "weak_pct": 0.0,
+   "rows": [
+    [
+     "SBI INFRASTRUCTURE FUND",
+     "m",
+     17.48,
+     249690,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL SMALLCAP FUND",
+     "m",
+     17.48,
+     249690,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ]
+   ],
+   "mfN": [
+    "SBI INFRASTRUCTURE FUND",
+    "ICICI PRUDENTIAL SMALLCAP FUND"
+   ],
+   "fo": [],
+   "more": 0,
+   "lock": [
+    "19 Nov",
+    "18 Jan"
+   ]
+  },
+  "3212": {
+   "slug": "bench-mark-infotech-services-ipo",
+   "id": "3212",
+   "name": "Bench Mark Infotech Services",
+   "board": "SME",
+   "key": "benchmarkinfotechservices",
+   "url": "https://www.chittorgarh.com/ipo_subscription/bench-mark-infotech-services-ipo/3212/",
+   "t": 1795404089,
+   "open": "2026-09-25",
+   "close": "2026-09-29",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "24 Sep",
+   "bid": "2026-09-24",
+   "price": 110.0,
+   "lock30_shares": 548400,
+   "lock90_shares": 548400,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 184800,
+    "cr": 2.03,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 2.03,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Vikasa India, Vcube Ventures) got ₹2.03 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
+     "f",
+     1.03,
+     93600,
+     "VIKASA"
+    ],
+    [
+     "VCUBE VENTURES INVESTMENT TRUST-V-CUBE VENTURES SCHEME I",
+     "f",
+     1.0,
+     91200,
+     "VBCUBE"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
+    "VCUBE VENTURES INVESTMENT TRUST-V-CUBE VENTURES SCHEME I"
+   ],
+   "more": 0,
+   "lock": [
+    "29 Oct",
+    "28 Dec"
+   ]
+  },
+  "3206": {
+   "slug": "acme-universal-safezone-9-ipo",
+   "id": "3206",
+   "name": "Acme Universal Safezone 9",
+   "board": "SME",
+   "key": "acmeuniversalsafezone9",
+   "url": "https://www.chittorgarh.com/ipo_subscription/acme-universal-safezone-9-ipo/3206/",
+   "t": 1795404089,
+   "open": "2026-09-28",
+   "close": "2026-09-30",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "25 Sep",
+   "bid": "2026-09-25",
+   "price": 71.0,
+   "lock30_shares": 719200,
+   "lock90_shares": 719200,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 958400,
+    "cr": 6.8,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 6.8,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Viney Growth, Innovative Vision) got ₹6.80 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "VINEY GROWTH FUND",
+     "f",
+     3.96,
+     558400,
+     "VINEY"
+    ],
+    [
+     "INNOVATIVE VISION FUND",
+     "f",
+     2.84,
+     400000,
+     "INNOVATIVE VISION"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "VINEY GROWTH FUND",
+    "INNOVATIVE VISION FUND"
+   ],
+   "more": 0,
+   "lock": [
+    "1 Nov",
+    "31 Dec"
+   ]
+  },
+  "3202": {
+   "slug": "wiscon-industries-ipo",
+   "id": "3202",
+   "name": "Wiscon Industries",
+   "board": "SME",
+   "key": "wisconindustries",
+   "url": "https://www.chittorgarh.com/ipo_subscription/wiscon-industries-ipo/3202/",
+   "t": 1795404089,
+   "open": "2026-10-27",
+   "close": "2026-10-29",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "26 Oct",
+   "bid": "2026-10-26",
+   "price": 204.0,
+   "lock30_shares": 612900,
+   "lock90_shares": 612900,
+   "ok": true,
+   "check": {
+    "rows": 5,
+    "shares": 1225800,
+    "cr": 25.0,
+    "total_shares": 1225800,
+    "total_cr": 25.01,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 5,
+   "amt": 25.01,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "5 small funds (Rajasthan Global Group, Pesb Alpha, SB Opportunities, Mastergrowth 369, Vikasa India) got ₹25.00 cr (99.96%); they may sell early. The rest are known names.",
+   "weak_pct": 99.96,
+   "rows": [
+    [
+     "LRSD CAPITAL PVT.LTD.",
+     "f",
+     20.0,
+     980400,
+     "RAJASTHAN GLOBAL GROUP"
+    ],
+    [
+     "PESB ALPHA FUND",
+     "f",
+     2.0,
+     97800,
+     "PESB"
+    ],
+    [
+     "SB OPPORTUNITIES FUND II",
+     "f",
+     1.0,
+     49200,
+     "SB OPPORTUNITIES FUND"
+    ],
+    [
+     "MASTERGROWTH 369 ALTERNATE INVESTMENT TRUST-MASTERGROWTH 369 FOCUSED EQUITY FUND",
+     "f",
+     1.0,
+     49200,
+     "MASTERGROWTH 369"
+    ],
+    [
+     "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
+     "f",
+     1.0,
+     49200,
+     "VIKASA"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "LRSD CAPITAL PVT.LTD.",
+    "PESB ALPHA FUND",
+    "SB OPPORTUNITIES FUND II",
+    "MASTERGROWTH 369 ALTERNATE INVESTMENT TRUST-MASTERGROWTH 369 FOCUSED EQUITY FUND",
+    "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES"
+   ],
+   "more": 0,
+   "lock": [
+    "30 Nov",
+    "29 Jan"
+   ]
+  },
+  "3197": {
+   "slug": "vans-electroengineerings-ipo",
+   "id": "3197",
+   "name": "Vans Electroengineerings",
+   "board": "SME",
+   "key": "vanselectroengineerings",
+   "url": "https://www.chittorgarh.com/ipo_subscription/vans-electroengineerings-ipo/3197/",
+   "t": 1795404089,
+   "open": "2026-09-29",
+   "close": "2026-10-01",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "28 Sep",
+   "bid": "2026-09-28",
+   "price": 118.0,
+   "lock30_shares": 402000,
+   "lock90_shares": 402000,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 633600,
+    "cr": 7.47,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 7.47,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Mint Focused, India Max Investment) got ₹7.47 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "MINT FOCUSED GROWTH FUND PCC-CELL 1",
+     "f",
+     4.47,
+     379200,
+     "MINT FOCUSED"
+    ],
+    [
+     "INDIA MAX INVESTMENT FUND LTD.",
+     "f",
+     3.0,
+     254400,
+     "INDIA MAX INVESTMENT FUND"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "MINT FOCUSED GROWTH FUND PCC-CELL 1",
+    "INDIA MAX INVESTMENT FUND LTD."
+   ],
+   "more": 0,
+   "lock": [
+    "3 Nov",
+    "2 Jan"
+   ]
+  },
+  "3195": {
+   "slug": "shree-siddhivinayak-greentech-industries-ipo",
+   "id": "3195",
+   "name": "Shree Siddhivinayak Greentech Industries",
+   "board": "SME",
+   "key": "shreesiddhivinayakgreentechindustries",
+   "url": "https://www.chittorgarh.com/ipo_subscription/shree-siddhivinayak-greentech-industries-ipo/3195/",
+   "t": 1795404089,
+   "open": "2026-11-25",
+   "close": "2026-11-27",
+   "found": false
+  },
+  "3194": {
+   "slug": "omara-ventures-india-ipo",
+   "id": "3194",
+   "name": "Omara Ventures India",
+   "board": "SME",
+   "key": "omaraventures",
+   "url": "https://www.chittorgarh.com/ipo_subscription/omara-ventures-india-ipo/3194/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-05",
+   "found": false
+  },
+  "3180": {
+   "slug": "vaibhav-vyapaar-ipo",
+   "id": "3180",
+   "name": "Vaibhav Vyapaar",
+   "board": "SME",
+   "key": "vaibhavvyapaar",
+   "url": "https://www.chittorgarh.com/ipo_subscription/vaibhav-vyapaar-ipo/3180/",
+   "t": 1795404089,
+   "open": "2026-10-13",
+   "close": "2026-10-15",
+   "found": true,
+   "read": "23 Nov 2026, 08:51 IST",
+   "date": "12 Oct",
+   "bid": "2026-10-12",
+   "price": 54.0,
+   "lock30_shares": 1100000,
+   "lock90_shares": 1100000,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 1084000,
+    "cr": 5.85,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 5.85,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Getfive Opportunity, Tiger Strategies) got ₹5.85 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "GETFIVE OPPORTUNITY FUND I",
+     "f",
+     3.0,
+     556000,
+     "GETFIVE"
+    ],
+    [
+     "TIGER STRATEGIES FUND 1",
+     "f",
+     2.85,
+     528000,
+     "TIGER STRATEGIES"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "GETFIVE OPPORTUNITY FUND I",
+    "TIGER STRATEGIES FUND 1"
+   ],
+   "more": 0,
+   "lock": [
+    "14 Nov",
+    "13 Jan"
+   ]
+  },
+  "3152": {
+   "slug": "jio-platforms-ipo",
+   "id": "3152",
+   "name": "Jio Platforms",
+   "board": "Mainboard",
+   "key": "jioplatforms",
+   "url": "https://www.chittorgarh.com/ipo_subscription/jio-platforms-ipo/3152/",
+   "t": 1795404089,
+   "open": "2026-10-21",
+   "close": "2026-10-23",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "19 Oct",
+   "bid": "2026-10-19",
+   "price": 1119.0,
+   "lock30_shares": 36237033,
+   "lock90_shares": 36237033,
+   "ok": true,
+   "check": {
+    "rows": 212,
+    "shares": 72474066,
+    "cr": 8109.86,
+    "total_shares": 72474066,
+    "total_cr": 8109.85,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 212,
+   "amt": 8109.85,
+   "mf": 34.46,
+   "ins": 15.09,
+   "schemes": "26 AMCs · 96 schemes",
+   "tier": 62,
+   "tierWhy": "62 large names: 26 mutual fund houses, 20 insurers / pension funds, 16 global names (BNP Paribas, BlackRock, Capital Group, Fidelity, GIC Singapore, Monetary Authority of Singapore, Schroders, J.P. Morgan, ADIA, Allianz, Citigroup, Eastspring, Société Générale, Morgan Stanley, T. Rowe Price, BofA)",
+   "flags": 16,
+   "flagWhy": "15 small funds (Europacific Growth, American Funds, Ninety One, Redwheel Emerging, Redwheel Funds, Redwheel Global, HCL Capital, Janus Henderson, Rainmatter Capital, Founders Collective, Value Partners) got ₹582.40 cr (7.18%); they may sell early. The rest are known names.",
+   "weak_pct": 7.18,
+   "rows": [
+    [
+     "LIFE INSURANCE CORP.OF INDIA",
+     "i",
+     499.98,
+     4468128,
+     "LIFE INSURANCE CORP.OF INDIA"
+    ],
+    [
+     "NEW WORLD FUND,INC.",
+     "f",
+     486.27,
+     4345548,
+     "NEW WORLD FUND"
+    ],
+    [
+     "GOVERNMENT OF SINGAPORE",
+     "f",
+     340.93,
+     3046728,
+     "GOVERNMENT OF SINGAPORE"
+    ],
+    [
+     "SBI FOCUSED FUND",
+     "m",
+     315.0,
+     2815020,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "BNP PARIBAS FINANCIAL MARKETS-ODI",
+     "f",
+     303.25,
+     2710020,
+     "BNP PARIBAS"
+    ],
+    [
+     "EUROPACIFIC GROWTH FUND",
+     "f",
+     156.39,
+     1397568,
+     "EUROPACIFIC"
+    ],
+    [
+     "ABU DHABI INVESTMENT AUTHORITY-MONSOON",
+     "f",
+     150.0,
+     1340472,
+     "ABU DHABI INVESTMENT"
+    ],
+    [
+     "DF INTERNATIONAL PARTNERS II,LLC",
+     "f",
+     150.0,
+     1340472,
+     "DF INTERNATIONAL PARTNERS"
+    ],
+    [
+     "INQ HOLDING LLC",
+     "f",
+     150.0,
+     1340472,
+     "INQ HOLDING"
+    ],
+    [
+     "HDFC FLEXI CAP FUND",
+     "m",
+     132.43,
+     1183476,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "HDFC LARGE CAP FUND",
+     "m",
+     126.33,
+     1128972,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "FIDELITY CONTRAFUND: FIDELITY CONTRAFUND",
+     "f",
+     123.02,
+     1099392,
+     "FIDELITY"
+    ],
+    [
+     "JP MORGAN FUNDS",
+     "f",
+     109.88,
+     981972,
+     "J.P.MORGAN"
+    ],
+    [
+     "NINETY ONE GLOBAL STRATEGY FUND-EMERGING MARKETS EQUITY FUND",
+     "f",
+     102.83,
+     918912,
+     "NINETY ONE"
+    ],
+    [
+     "NIPPON INDIA MULTI CAP FUND",
+     "m",
+     100.0,
+     893652,
+     "NIPPON INDIA MUTUAL FUND"
+    ],
+    [
+     "NIPPON INDIA LARGE CAP FUND",
+     "m",
+     100.0,
+     893652,
+     "NIPPON INDIA MUTUAL FUND"
+    ],
+    [
+     "HDFC LIFE INSURANCE CO.LTD.",
+     "i",
+     100.0,
+     893652,
+     "HDFC LIFE INSURANCE"
+    ],
+    [
+     "SBI LIFE INSURANCE CO.LTD.",
+     "i",
+     100.0,
+     893652,
+     "SBI LIFE INSURANCE"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE FLEXI CAP FUND",
+     "m",
+     95.0,
+     848964,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE LARGE CAP FUND",
+     "m",
+     90.0,
+     804288,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "ABU DHABI INVESTMENT AUTHORITY-STABLE",
+     "f",
+     90.0,
+     804276,
+     "ABU DHABI INVESTMENT"
+    ],
+    [
+     "ICICI PRUDENTIAL AGGRESSIVE HYBRID FUND",
+     "m",
+     88.0,
+     786420,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "MONETARY AUTHORITY OF SINGAPORE",
+     "f",
+     84.07,
+     751296,
+     "MONETARY AUTHORITY OF SINGAPORE"
+    ],
+    [
+     "ICICI PRUDENTIAL BALANCED ADVANTAGE FUND",
+     "m",
+     82.0,
+     732792,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL MULTI-ASSET FUND",
+     "m",
+     82.0,
+     732792,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL VALUE FUND",
+     "m",
+     82.0,
+     732792,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "HDFC NPS TRUST-HDFC PENSION MANAGEMENT CO.LTD.-SCHEME E-TIER I",
+     "i",
+     80.0,
+     714936,
+     "HDFC NPS TRUST"
+    ],
+    [
+     "MIRAE ASSET LARGE CAP FUND",
+     "m",
+     80.0,
+     714924,
+     "MIRAE ASSET MUTUAL FUND"
+    ],
+    [
+     "SBI NPS TRUST-SBI PENSION FUND SCHEME-E TIER I",
+     "i",
+     75.0,
+     670236,
+     "SBI NPS TRUST"
+    ],
+    [
+     "SCHRODER INTERNATIONAL SELECTION FUND-EMERGING MARKETS",
+     "f",
+     70.93,
+     633828,
+     "SCHRODER"
+    ],
+    [
+     "FIDELITY SECURITIES FUND: FIDELITY BLUE CHIP GROWTH FUND",
+     "f",
+     70.65,
+     631404,
+     "FIDELITY"
+    ],
+    [
+     "HARTFORD SCHRODERS EMERGING MARKETS EQUITY FUND",
+     "f",
+     69.83,
+     624084,
+     "HARTFORD"
+    ],
+    [
+     "NINETY ONE GLOBAL SELECT LLC-NINETY ONE EMERGING MARKETS EQUITY FUND",
+     "f",
+     56.37,
+     503784,
+     "NINETY ONE"
+    ],
+    [
+     "REDWHEEL EMERGING MARKETS EQUITY MASTER FUND LTD.",
+     "f",
+     54.75,
+     489276,
+     "REDWHEEL"
+    ],
+    [
+     "HDFC BALANCED ADVANTAGE FUND",
+     "m",
+     53.15,
+     474948,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "JP MORGAN SAR ASIAN FUND",
+     "f",
+     53.13,
+     474780,
+     "J.P.MORGAN"
+    ],
+    [
+     "BAJAJ LIFE INSURANCE LTD.",
+     "i",
+     50.0,
+     446820,
+     "BAJAJ LIFE INSURANCE"
+    ],
+    [
+     "CITIGROUP GLOBAL MARKETS SINGAPORE PTE.LTD.-ODI",
+     "f",
+     50.0,
+     446820,
+     "CITIGROUP"
+    ],
+    [
+     "CITADEL SECURITIES SINGAPORE PTE.LTD.",
+     "f",
+     50.0,
+     446820,
+     "CITADEL"
+    ],
+    [
+     "FIDELITY FUNDS-INDIA FOCUS FUND",
+     "f",
+     50.0,
+     446820,
+     "FIDELITY"
+    ],
+    [
+     "HCL CAPITAL PVT.LTD.",
+     "f",
+     50.0,
+     446820,
+     "HCL CAPITAL"
+    ],
+    [
+     "INVESCO INDIA CONTRA FUND",
+     "m",
+     50.0,
+     446820,
+     "INVESCO MUTUAL FUND"
+    ],
+    [
+     "SOCIETE GENERALE-ODI",
+     "f",
+     50.0,
+     446820,
+     "SOCIETE GENERAL"
+    ],
+    [
+     "INTEGRATED CORE STRATEGIES (ASIA) PTE.LTD.",
+     "f",
+     50.0,
+     446820,
+     "INTEGRATED CORE"
+    ],
+    [
+     "MORGAN STANLEY INVESTMENT FUNDS INDIAN EQUITY FUND",
+     "f",
+     50.0,
+     446820,
+     "MORGAN STANLEY"
+    ],
+    [
+     "MOTILAL OSWAL LARGE CAP FUND",
+     "m",
+     50.0,
+     446820,
+     "MOTILAL OSWAL MUTUAL FUND"
+    ],
+    [
+     "GOVERNMENT PENSION FUND GLOBAL",
+     "i",
+     50.0,
+     446820,
+     "GOVERNMENT PENSION FUND GLOBAL"
+    ],
+    [
+     "PRAZIM TRADING & INVESTMENT CO.PVT.LTD.",
+     "f",
+     50.0,
+     446820,
+     "PRAZIM TRADING & INVESTMENT"
+    ],
+    [
+     "T.ROWE PRICE NEW ASIA FUND",
+     "f",
+     50.0,
+     446820,
+     "T.ROWE PRICE"
+    ],
+    [
+     "SHAMYAK INVESTMENT PVT.LTD.",
+     "f",
+     49.71,
+     444228,
+     "SHAMYAK"
+    ],
+    [
+     "SCHRODER INTERNATIONAL SELECTION FUND-EMERGING ASIA",
+     "f",
+     49.33,
+     440796,
+     "SCHRODER"
+    ],
+    [
+     "ALLIANZ GLOBAL INVESTORS GLOBAL EMERGING MARKETS FUND",
+     "f",
+     47.62,
+     425544,
+     "ALLIANZ"
+    ],
+    [
+     "WHITEOAK CAPITAL FLEXI CAP FUND",
+     "m",
+     47.0,
+     420012,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "FIDELITY GROUP TRUST FOR EMPLOYEE BENEFIT PLANS: FIDELITY CONTRAFUND COMMINGLED POOL",
+     "f",
+     45.14,
+     403404,
+     "FIDELITY"
+    ],
+    [
+     "KOTAK MULTICAP FUND",
+     "m",
+     45.0,
+     402132,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL LARGE CAP FUND",
+     "m",
+     41.0,
+     366396,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE DIGITAL INDIA FUND",
+     "m",
+     40.0,
+     357456,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "KOTAK INFRASTRUCTURE & ECONOMIC REFORM FUND",
+     "m",
+     40.0,
+     357456,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "FRANKLIN INDIA ELSS TAX SAVER FUND",
+     "m",
+     37.5,
+     335124,
+     "FRANKLIN TEMPLETON MUTUAL FUND"
+    ],
+    [
+     "BLACKROCK GLOBAL FUNDS-EMERGING MARKETS FUND",
+     "f",
+     37.15,
+     332016,
+     "BLACKROCK"
+    ],
+    [
+     "KOTAK ELSS TAX SAVER FUND",
+     "m",
+     37.0,
+     330648,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "ALLIANZ GLOBAL INVESTORS FUND-ALLIANZ TOTAL RETURN ASIAN EQUITY",
+     "f",
+     36.19,
+     323412,
+     "ALLIANZ"
+    ],
+    [
+     "REDWHEEL FUNDS-REDWHEEL GLOBAL EMERGING MARKETS FUND",
+     "f",
+     35.25,
+     315000,
+     "REDWHEEL"
+    ],
+    [
+     "SUNDARAM AGGRESSIVE HYBRID FUND",
+     "m",
+     32.0,
+     285972,
+     "SUNDARAM MUTUAL FUND"
+    ],
+    [
+     "FRANKLIN INDIA MULTI CAP FUND",
+     "m",
+     31.25,
+     279264,
+     "FRANKLIN TEMPLETON MUTUAL FUND"
+    ],
+    [
+     "FRANKLIN INDIA SMALL CAP FUND",
+     "m",
+     31.25,
+     279264,
+     "FRANKLIN TEMPLETON MUTUAL FUND"
+    ],
+    [
+     "SBI INFRASTRUCTURE FUND",
+     "m",
+     30.0,
+     268092,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "SBI TECHNOLOGY OPPORTUNITIES FUND",
+     "m",
+     30.0,
+     268092,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "SBI CONSUMPTION OPPORTUNITIES FUND",
+     "m",
+     30.0,
+     268092,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "KOTAK BALANCED ADVANTAGE FUND",
+     "m",
+     30.0,
+     268092,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "AXIS MAX LIFE INSURANCE LTD.-ULIF 00125/06/04 LIFEGROWTH104-GROWTH FUND",
+     "i",
+     30.0,
+     268116,
+     "AXIS MAX LIFE INSURANCE"
+    ],
+    [
+     "UTI VALUE FUND",
+     "m",
+     30.0,
+     268092,
+     "UTI MUTUAL FUND"
+    ],
+    [
+     "FIDELITY PURITAN TRUST: FIDELITY BALANCED FUND",
+     "f",
+     29.24,
+     261300,
+     "FIDELITY"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE ELSS TAX SAVER FUND",
+     "m",
+     29.0,
+     259164,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "ALLIANZ GLOBAL INVESTORS FUND-ALLIANZ INDIA EQUITY",
+     "f",
+     28.57,
+     255324,
+     "ALLIANZ"
+    ],
+    [
+     "JANUS HENDERSON FUND-EMERGING MARKETS ASIA FUND",
+     "f",
+     28.33,
+     253212,
+     "JANUS HENDERSON"
+    ],
+    [
+     "FIDELITY SELECT PORTFOLIOS: TECHNOLOGY PORTFOLIO",
+     "f",
+     26.29,
+     234900,
+     "FIDELITY"
+    ],
+    [
+     "HDFC CHILDREN'S FUND",
+     "m",
+     26.14,
+     233580,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "HDFC RETIREMENT FUND-EQUITY PLAN",
+     "m",
+     26.14,
+     233580,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "FIDELITY CONTRAFUND: FIDELITY CONTRAFUND K6",
+     "f",
+     25.74,
+     230004,
+     "FIDELITY"
+    ],
+    [
+     "ICICI PRUDENTIAL BUSINESS CYCLE FUND",
+     "m",
+     25.0,
+     223416,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL ELSS TAX SAVER FUND",
+     "m",
+     25.0,
+     223416,
+     "ICICI PRUDENTIAL MUTUAL FUND"
+    ],
+    [
+     "SBI NPS TRUST-SBI PENSION FUND SCHEME-CENTRAL GOVT.",
+     "i",
+     25.0,
+     223416,
+     "SBI NPS TRUST"
+    ],
+    [
+     "CANARA ROBECO LARGE CAP FUND",
+     "m",
+     25.0,
+     223404,
+     "CANARA ROBECO MUTUAL FUND"
+    ],
+    [
+     "CANARA ROBECO AGGRESSIVE HYBRID FUND",
+     "m",
+     25.0,
+     223392,
+     "CANARA ROBECO MUTUAL FUND"
+    ],
+    [
+     "ICICI PRUDENTIAL LIFE INSURANCE CO.LTD.",
+     "i",
+     24.98,
+     223272,
+     "ICICI PRUDENTIAL LIFE INSURANCE"
+    ],
+    [
+     "ICICI NPS TRUST-ICICI PENSION FUND SCHEME E-TIER I",
+     "i",
+     24.98,
+     223272,
+     "ICICI NPS TRUST"
+    ],
+    [
+     "PRUDENTIAL ASSURANCE CO.LTD.,THE",
+     "i",
+     24.98,
+     223272,
+     "PRUDENTIAL"
+    ],
+    [
+     "RAINMATTER CAPITAL FUND",
+     "f",
+     24.98,
+     223272,
+     "RAINMATTER CAPITAL"
+    ],
+    [
+     "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM-SCHRODER INVESTMENT MANAGEMENT NORTH AMERICA,INC.",
+     "f",
+     24.59,
+     219708,
+     "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM"
+    ],
+    [
+     "CAPITAL GROUP EUPAC COMMON TRUST (US)",
+     "f",
+     23.83,
+     212928,
+     "CAPITAL GROUP"
+    ],
+    [
+     "AXIS LARGE CAP FUND",
+     "m",
+     23.81,
+     212760,
+     "AXIS MUTUAL FUND"
+    ],
+    [
+     "AXIS ELSS TAX SAVER FUND",
+     "m",
+     23.81,
+     212760,
+     "AXIS MUTUAL FUND"
+    ],
+    [
+     "BLACKROCK GLOBAL FUNDS-INDIA FUND",
+     "f",
+     23.54,
+     210384,
+     "BLACKROCK"
+    ],
+    [
+     "HDFC INNOVATION FUND",
+     "m",
+     23.52,
+     210228,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "AMERICAN FUNDS DEVELOPING WORLD GROWTH & INCOME FUND",
+     "f",
+     21.83,
+     195048,
+     "AMERICAN FUNDS"
+    ],
+    [
+     "FIDELITY INVESTMENT TRUST: FIDELITY SERIES EMERGING MARKETS OPPORTUNITIES FUND",
+     "f",
+     21.38,
+     191100,
+     "FIDELITY"
+    ],
+    [
+     "HDFC BUSINESS CYCLE FUND",
+     "m",
+     20.04,
+     179076,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "MAGNUM HYBRID LONG SHORT FUND",
+     "m",
+     20.0,
+     178728,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "KOTAK CONTRA FUND",
+     "m",
+     20.0,
+     178728,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "MIRAE ASSET AGGRESSIVE HYBRID FUND",
+     "m",
+     20.0,
+     178728,
+     "MIRAE ASSET MUTUAL FUND"
+    ],
+    [
+     "EASTSPRING INVESTMENTS-INDIA CONSUMER EQUITY OPEN LTD.",
+     "f",
+     20.0,
+     178716,
+     "EASTSPRING"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE AGGRESSIVE HYBRID FUND",
+     "m",
+     19.0,
+     169800,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "TATA FLEXI CAP FUND",
+     "m",
+     19.0,
+     169788,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "BLACKROCK GLOBAL FUNDS-EMERGING MARKETS EX-CHINA FUND",
+     "f",
+     18.88,
+     168696,
+     "BLACKROCK"
+    ],
+    [
+     "UTI LARGE CAP FUND",
+     "m",
+     18.75,
+     167556,
+     "UTI MUTUAL FUND"
+    ],
+    [
+     "HOSTPLUS POOLED SUPERANNUATION TRUST INVESTEC 4FACTOR",
+     "f",
+     18.59,
+     166140,
+     "HOSTPLUS"
+    ],
+    [
+     "KOTAK RURAL OPPORTUNITIES FUND",
+     "m",
+     18.0,
+     160848,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE MULTI-CAP FUND",
+     "m",
+     17.0,
+     151920,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "ALLIANZ GLOBAL INVESTORS FUND-ALLIANZ EMERGING MARKETS EQUITY OPPORTUNITIES",
+     "f",
+     16.19,
+     144684,
+     "ALLIANZ"
+    ],
+    [
+     "BLACKROCK GLOBAL FUNDS-EMERGING MARKETS SUSTAINABLE EQUITY FUND",
+     "f",
+     15.73,
+     140580,
+     "BLACKROCK"
+    ],
+    [
+     "BANDHAN LARGE & MID CAP FUND",
+     "m",
+     15.63,
+     139644,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "PUBLIC SECTOR PENSION INVESTMENT BOARD-SCHRODER INVESTMENT MANAGEMENT NORTH AMERICA INC.",
+     "i",
+     15.51,
+     138636,
+     "PUBLIC SECTOR PENSION INVESTMENT BOARD"
+    ],
+    [
+     "FIDELITY RUTLAND SQUARE TRUST II: STRATEGIC ADVISERS EMERGING MARKETS FUND AS MANAGED BY SCHRODER INVESTMENT MANAGEMENT NORTH AMERICA INC.",
+     "f",
+     15.02,
+     134256,
+     "FIDELITY"
+    ],
+    [
+     "FIDELITY SECURITIES FUND: FIDELITY BLUE CHIP GROWTH K6 FUND",
+     "f",
+     15.01,
+     134100,
+     "FIDELITY"
+    ],
+    [
+     "PRUDENTIAL HONG KONG LTD.-PHKL ASIA PACIFIC ACTIVE GROWTH EQUITY PORTFOLIO-AHAPAG-EASTSPRING GROWTH EQUITIES TEAM",
+     "f",
+     15.0,
+     134052,
+     "PRUDENTIAL"
+    ],
+    [
+     "EASTSPRING INVESTMENTS INDIA EQUITY OPEN LTD.",
+     "f",
+     15.0,
+     134052,
+     "EASTSPRING"
+    ],
+    [
+     "BARODA BNP PARIBAS INDIA CONSUMPTION FUND",
+     "m",
+     14.98,
+     133896,
+     "BARODA BNP PARIBAS MUTUAL FUND"
+    ],
+    [
+     "BLACKROCK EMERGING MARKETS FUND",
+     "f",
+     14.22,
+     127068,
+     "BLACKROCK"
+    ],
+    [
+     "CAPITAL GROUP NEW WORLD TRUST (US)",
+     "f",
+     13.74,
+     122832,
+     "CAPITAL GROUP"
+    ],
+    [
+     "HDFC RETIREMENT FUND-HYBRID EQUITY PLAN",
+     "m",
+     13.07,
+     116796,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "AMERICAN FUNDS INSURANCE SERIES-NEW WORLD FUND",
+     "i",
+     12.94,
+     115632,
+     "AMERICAN FUNDS INSURANCE SERIES"
+    ],
+    [
+     "FIDELITY GROUP TRUST FOR EMPLOYEE BENEFIT PLANS: FIDELITY BLUE CHIP GROWTH COMMINGLED POOL",
+     "f",
+     12.48,
+     111504,
+     "FIDELITY"
+    ],
+    [
+     "BLACKROCK GLOBAL FUNDS-EMERGING MARKETS EQUITY INCOME FUND",
+     "f",
+     12.23,
+     109260,
+     "BLACKROCK"
+    ],
+    [
+     "WHITEOAK CAPITAL MULTI CAP FUND",
+     "m",
+     12.0,
+     107244,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "BANDHAN MULTI CAP FUND",
+     "m",
+     11.72,
+     104736,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "FIDELITY ADVISOR SERIES I: FIDELITY ADVISOR SERIES EQUITY GROWTH FUND",
+     "f",
+     11.51,
+     102900,
+     "FIDELITY"
+    ],
+    [
+     "FLORIDA RETIREMENT SYSTEM-NINETY ONE NORTH AMERICA,INC.",
+     "f",
+     11.45,
+     102324,
+     "FLORIDA RETIREMENT SYSTEM"
+    ],
+    [
+     "ALLIANZ EMERGING MARKETS EQUITY FUND",
+     "f",
+     11.43,
+     102132,
+     "ALLIANZ"
+    ],
+    [
+     "WHITEOAK CAPITAL LARGE & MID CAP FUND",
+     "m",
+     11.0,
+     98304,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "TATA INDIA INNOVATION FUND",
+     "m",
+     11.0,
+     98304,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "TATA RETIREMENT SAVINGS FUND-PROGRESSIVE PLAN",
+     "m",
+     11.0,
+     98304,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "SUNDARAM MULTI ASSET ALLOCATION FUND",
+     "m",
+     10.9,
+     97404,
+     "SUNDARAM MUTUAL FUND"
+    ],
+    [
+     "JANUS HENDERSON EMERGING MARKETS FUND",
+     "f",
+     10.84,
+     96840,
+     "JANUS HENDERSON"
+    ],
+    [
+     "JANUS HENDERSON EMERGING MARKETS OPPORTUNITIES FUND",
+     "f",
+     10.83,
+     96768,
+     "JANUS HENDERSON"
+    ],
+    [
+     "INTERNATIONALE KAPITALANLAGEGESELLSCHAFT MBH ACTING FOR ACCOUNT OF ENTSORGUNGSFONDS",
+     "f",
+     10.76,
+     96144,
+     "INTERNATIONALE KAPITALANLA GMBH"
+    ],
+    [
+     "SCHRODER GLOBAL EMERGING MARKETS FUND",
+     "f",
+     10.69,
+     95508,
+     "SCHRODER"
+    ],
+    [
+     "CAPITAL GROUP NEW GEOGRAPHY EQUITY ETF",
+     "f",
+     10.01,
+     89424,
+     "CAPITAL GROUP"
+    ],
+    [
+     "ADITYA BIRLA SUN LIFE CONSUMPTION FUND",
+     "m",
+     10.0,
+     89364,
+     "ADITYA BIRLA SUN LIFE MUTUAL FUND"
+    ],
+    [
+     "INFINITY HYBRID LONG-SHORT FUND",
+     "m",
+     10.0,
+     89400,
+     "KOTAK MAHINDRA MUTUAL FUND"
+    ],
+    [
+     "ALLIANZ TOTAL RETURN ASIAN EQUITY FUND",
+     "f",
+     10.0,
+     89376,
+     "ALLIANZ"
+    ],
+    [
+     "360 ONE PRIVATE EQUITY FUND-SERIES II",
+     "m",
+     10.0,
+     89376,
+     "360 ONE"
+    ],
+    [
+     "REDWHEEL GLOBAL EMERGING EQUITY FUND",
+     "f",
+     10.0,
+     89376,
+     "REDWHEEL"
+    ],
+    [
+     "WHITEOAK CAPITAL DIGITAL BHARAT FUND",
+     "m",
+     10.0,
+     89364,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "BARODA BNP PARIBAS SERVICES FUND",
+     "m",
+     10.0,
+     89376,
+     "BARODA BNP PARIBAS MUTUAL FUND"
+    ],
+    [
+     "BAJAJ FINSERV LARGE & MID CAP FUND",
+     "m",
+     10.0,
+     89376,
+     "BAJAJ FINSERV MUTUAL FUND"
+    ],
+    [
+     "BOFA SECURITIES EUROPE SA-ODI",
+     "f",
+     10.0,
+     89376,
+     "BOFA SECURITIES"
+    ],
+    [
+     "BANK OF INDIA FLEXI CAP FUND",
+     "m",
+     10.0,
+     89376,
+     "BANK OF INDIA MUTUAL FUND"
+    ],
+    [
+     "CANARA HSBC LIFE INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     89376,
+     "CANARA HSBC"
+    ],
+    [
+     "GO DIGIT GENERAL INSURANCE LTD.",
+     "i",
+     10.0,
+     89376,
+     "GO DIGIT GENERAL INSURANCE"
+    ],
+    [
+     "HELIOS LARGE & MID CAP FUND",
+     "m",
+     10.0,
+     89376,
+     "HELIOS MUTUAL FUND"
+    ],
+    [
+     "ICICI LOMBARD GENERAL INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     89376,
+     "ICICI LOMBARD GENERAL INSURANCE"
+    ],
+    [
+     "KOTAK MAHINDRA LIFE INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     89376,
+     "KOTAK LIFE INSURANCE"
+    ],
+    [
+     "FOUNDERS COLLECTIVE FUND",
+     "f",
+     10.0,
+     89376,
+     "FOUNDERS COLLECTIVE FUND"
+    ],
+    [
+     "INDUSIND NIPPON LIFE INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     89376,
+     "INDUSIND NIPPON LIFE INSURANCE"
+    ],
+    [
+     "SBI GENERAL INSURANCE CO.LTD.",
+     "i",
+     10.0,
+     89376,
+     "SBI GENERAL INSURANCE"
+    ],
+    [
+     "SCHRODER EMERGING MARKETS FUND, A SEPARATE INVESTMENT FUND WITHIN THE SCHRODER CAPITAL MANAGEMENT COLLECTIVE TRUST",
+     "f",
+     9.8,
+     87600,
+     "SCHRODER"
+    ],
+    [
+     "BANDHAN SMALL CAP FUND",
+     "m",
+     9.37,
+     83772,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "HDFC NPS TRUST-HDFC PENSION MANAGEMENT CO.LTD.-SCHEME E-TIER II",
+     "i",
+     9.0,
+     80424,
+     "HDFC NPS TRUST"
+    ],
+    [
+     "WHITEOAK CAPITAL LARGE CAP FUND",
+     "m",
+     9.0,
+     80424,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "UTI NPS TRUST-UTI PENSION FUND SCHEME ATAL PENSION YOJANA (APY)",
+     "i",
+     8.83,
+     78900,
+     "UTI NPS TRUST"
+    ],
+    [
+     "TATA RETIREMENT SAVINGS FUND-MODERATE PLAN",
+     "m",
+     8.55,
+     76404,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "SCHRODER INTERNATIONAL SELECTION FUND-BIC (BRAZIL, INDIA, CHINA)",
+     "f",
+     8.25,
+     73752,
+     "SCHRODER"
+    ],
+    [
+     "HDFC NPS TRUST-HDFC PF NPS EQUITY ADVANTAGE FUND-TIER I",
+     "i",
+     8.0,
+     71484,
+     "HDFC NPS TRUST"
+    ],
+    [
+     "MGTS AFH DA ASIA EX JAPAN EQUITY FUND MANAGED BY JP MORGAN ASSET MANAGEMENT LTD.",
+     "f",
+     7.6,
+     67884,
+     "MGTS AFH DA"
+    ],
+    [
+     "FIAM GROUP TRUST FOR EMPLOYEE BENEFIT PLANS: FIAM TARGET DATE BLUE CHIP GROWTH COMMINGLED POOL",
+     "f",
+     7.39,
+     66000,
+     "FIDELITY"
+    ],
+    [
+     "FIDELITY INVESTMENT TRUST: FIDELITY EMERGING MARKETS FUND",
+     "f",
+     7.19,
+     64296,
+     "FIDELITY"
+    ],
+    [
+     "SCHRODER INTERNATIONAL SELECTION FUND-SUSTAINABLE ASIAN EQUITY",
+     "f",
+     7.09,
+     63360,
+     "SCHRODER"
+    ],
+    [
+     "AXIS MAX LIFE INSURANCE LTD.-SUSTAINABLE EQUITY FUND-ULIF02505/10/21 SUSTAINEQU104",
+     "i",
+     7.0,
+     62544,
+     "AXIS MAX LIFE INSURANCE"
+    ],
+    [
+     "AXIS MAX LIFE INSURANCE LTD.-ULIF 00225/06/04 LIFEBALANC 104-BALANCED FUND",
+     "i",
+     7.0,
+     62544,
+     "AXIS MAX LIFE INSURANCE"
+    ],
+    [
+     "JP MORGAN FUND ICVC-JPM ASIA PACIFIC EQUITY FUND",
+     "f",
+     6.76,
+     60384,
+     "J.P.MORGAN"
+    ],
+    [
+     "FIAM GROUP TRUST FOR EMPLOYEE BENEFIT PLANS: FIAM EMERGING MARKETS OPPORTUNITIES COMMINGLED POOL",
+     "f",
+     6.48,
+     57900,
+     "FIDELITY"
+    ],
+    [
+     "FIDELITY RUTLAND SQUARE TRUST II: STRATEGIC ADVISERS FIDELITY EMERGING MARKETS FUND AS MANAGED BY FIAM LLC",
+     "f",
+     6.24,
+     55728,
+     "FIDELITY"
+    ],
+    [
+     "FIDELITY INVESTMENT TRUST: FIDELITY DIVERSIFIED INTERNATIONAL FUND",
+     "f",
+     6.18,
+     55200,
+     "FIDELITY"
+    ],
+    [
+     "SCHRODER INTERNATIONAL SELECTION FUND-INDIAN EQUITY",
+     "f",
+     6.17,
+     55104,
+     "SCHRODER"
+    ],
+    [
+     "AXIS MAX LIFE INSURANCE LTD.",
+     "i",
+     6.0,
+     53616,
+     "AXIS MAX LIFE INSURANCE"
+    ],
+    [
+     "FIDELITY GROUP TRUST FOR EMPLOYEE BENEFIT PLANS: FIDELITY DIVERSIFIED INTERNATIONAL COMMINGLED POOL",
+     "f",
+     5.75,
+     51396,
+     "FIDELITY"
+    ],
+    [
+     "SCHRODER INTERNATIONAL OPPORTUNITIES PORTFOLIO-SCHRODER ASIA MORE(PLUS)",
+     "f",
+     5.7,
+     50964,
+     "SCHRODER"
+    ],
+    [
+     "JM LARGE & MIDCAP FUND",
+     "m",
+     5.5,
+     49152,
+     "JM FINANCIAL MUTUAL FUND"
+    ],
+    [
+     "SUNDARAM DYNAMIC ASSET ALLOCATION FUND",
+     "m",
+     5.4,
+     48252,
+     "SUNDARAM MUTUAL FUND"
+    ],
+    [
+     "BANDHAN AGGRESSIVE HYBRID FUND",
+     "m",
+     5.37,
+     48024,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "FIDELITY INVESTMENT TRUST: FIDELITY SERIES EMERGING MARKETS FUND",
+     "f",
+     5.31,
+     47496,
+     "FIDELITY"
+    ],
+    [
+     "JP MORGAN INVESTMENT FUNDS",
+     "f",
+     5.0,
+     44688,
+     "J.P.MORGAN"
+    ],
+    [
+     "EDELWEISS LARGE CAP FUND",
+     "m",
+     5.0,
+     44688,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "ALTIVA EQUITY LONG-SHORT FUND",
+     "m",
+     5.0,
+     44688,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "MAHINDRA MANULIFE CONSUMPTION FUND",
+     "m",
+     5.0,
+     44688,
+     "MAHINDRA MANULIFE MUTUAL FUND"
+    ],
+    [
+     "MAHINDRA MANULIFE MULTI ASSET ALLOCATION FUND",
+     "m",
+     5.0,
+     44688,
+     "MAHINDRA MANULIFE MUTUAL FUND"
+    ],
+    [
+     "UNION LARGECAP FUND",
+     "m",
+     5.0,
+     44688,
+     "UNION MUTUAL FUND"
+    ],
+    [
+     "UNION VALUE FUND",
+     "m",
+     5.0,
+     44688,
+     "UNION MUTUAL FUND"
+    ],
+    [
+     "VALUE PARTNERS FUND SERIES-VALUE PARTNERS ASIAN INCOME FUND",
+     "f",
+     5.0,
+     44685,
+     "VALUE PARTNERS"
+    ],
+    [
+     "VALUE PARTNERS HIGH-DIVIDEND STOCKS FUND",
+     "f",
+     5.0,
+     44685,
+     "VALUE PARTNERS"
+    ],
+    [
+     "WHITEOAK CAPITAL BALANCED ADVANTAGE FUND",
+     "m",
+     4.5,
+     40212,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "JM LARGE CAP FUND",
+     "m",
+     4.5,
+     40224,
+     "JM FINANCIAL MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS FLEXI CAP FUND",
+     "m",
+     4.49,
+     40140,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS LARGE & MID CAP FUND",
+     "m",
+     4.49,
+     40140,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "BANDHAN LARGE CAP FUND",
+     "m",
+     4.0,
+     35736,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "BANDHAN VALUE FUND",
+     "m",
+     3.91,
+     34908,
+     "BANDHAN MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS CONSUMPTION FUND",
+     "m",
+     3.5,
+     31272,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "HDFC CONSUMPTION FUND",
+     "m",
+     3.48,
+     31140,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "HDFC NPS TRUST-HDFC PENSION MANAGEMENT CO.LTD.-NPS VATSALYA SCHEME",
+     "i",
+     3.0,
+     26808,
+     "HDFC NPS TRUST"
+    ],
+    [
+     "WHITEOAK CAPITAL AGGRESSIVE HYBRID FUND",
+     "m",
+     2.5,
+     22344,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "EDELWEISS RECENTLY LISTED IPO FUND",
+     "m",
+     2.5,
+     22344,
+     "EDELWEISS MUTUAL FUND"
+    ],
+    [
+     "AXIS MULTI ASSET ALLOCATION FUND",
+     "m",
+     2.38,
+     21300,
+     "AXIS MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL ELSS TAX SAVER FUND",
+     "m",
+     2.25,
+     20112,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "SUNDARAM EQUITY SAVINGS FUND",
+     "m",
+     1.7,
+     15192,
+     "SUNDARAM MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL BALANCED HYBRID FUND",
+     "m",
+     1.5,
+     13404,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "UTI CONSERVATIVE HYBRID FUND",
+     "m",
+     1.25,
+     11172,
+     "UTI MUTUAL FUND"
+    ],
+    [
+     "UTI NPS TRUST-UTI PENSION FUND SCHEME-APY FUND",
+     "i",
+     1.04,
+     9300,
+     "UTI NPS TRUST"
+    ],
+    [
+     "HDFC HYBRID DEBT FUND",
+     "m",
+     0.7,
+     6228,
+     "HDFC MUTUAL FUND"
+    ],
+    [
+     "TATA RETIREMENT SAVINGS FUND-CONSERVATIVE PLAN",
+     "m",
+     0.45,
+     4020,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL EQUITY SAVINGS FUND",
+     "m",
+     0.25,
+     2232,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "UTI NPS TRUST-UTI PENSION FUND-NPS VATSALYA SCHEME",
+     "i",
+     0.13,
+     1176,
+     "UTI NPS TRUST"
+    ]
+   ],
+   "mfN": [
+    "SBI FOCUSED FUND",
+    "HDFC FLEXI CAP FUND",
+    "HDFC LARGE CAP FUND",
+    "NIPPON INDIA MULTI CAP FUND",
+    "NIPPON INDIA LARGE CAP FUND",
+    "ADITYA BIRLA SUN LIFE FLEXI CAP FUND",
+    "ADITYA BIRLA SUN LIFE LARGE CAP FUND",
+    "ICICI PRUDENTIAL AGGRESSIVE HYBRID FUND"
+   ],
+   "fo": [
+    "LIFE INSURANCE CORP.OF INDIA",
+    "NEW WORLD FUND,INC.",
+    "GOVERNMENT OF SINGAPORE",
+    "BNP PARIBAS FINANCIAL MARKETS-ODI",
+    "EUROPACIFIC GROWTH FUND"
+   ],
+   "more": 199,
+   "lock": [
+    "24 Nov",
+    "23 Jan"
+   ]
+  },
+  "3143": {
+   "slug": "vedant-poly-fabs-ipo",
+   "id": "3143",
+   "name": "Vedant Poly Fabs",
+   "board": "SME",
+   "key": "vedantpolyfabs",
+   "url": "https://www.chittorgarh.com/ipo_subscription/vedant-poly-fabs-ipo/3143/",
+   "t": 1795404089,
+   "open": "2026-11-02",
+   "close": "2026-11-04",
+   "found": false
+  },
+  "3138": {
+   "slug": "rkfashion-accessories-ipo",
+   "id": "3138",
+   "name": "R.K.Fashion Accessories",
+   "board": "SME",
+   "key": "rkfashionaccessories",
+   "url": "https://www.chittorgarh.com/ipo_subscription/rkfashion-accessories-ipo/3138/",
+   "t": 1795404089,
+   "open": "2026-10-05",
+   "close": "2026-10-07",
+   "found": false
+  },
+  "3136": {
+   "slug": "matangi-rubber-ipo",
+   "id": "3136",
+   "name": "Matangi Rubber",
+   "board": "Mainboard",
+   "key": "matangirubber",
+   "url": "https://www.chittorgarh.com/ipo_subscription/matangi-rubber-ipo/3136/",
+   "t": 1795404089,
+   "found": false
+  },
+  "3100": {
+   "slug": "mksons-fine-jewels-ipo",
+   "id": "3100",
+   "name": "M.K.Sons Fine Jewels",
+   "board": "Mainboard",
+   "key": "mksonsfinejewels",
+   "url": "https://www.chittorgarh.com/ipo_subscription/mksons-fine-jewels-ipo/3100/",
+   "t": 1795404089,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "27 Oct",
+   "bid": "2026-10-27",
+   "price": 162.0,
+   "lock30_shares": 2550000,
+   "lock90_shares": 2550000,
+   "ok": true,
+   "check": {
+    "rows": 9,
+    "shares": 5100000,
+    "cr": 82.61,
+    "total_shares": 5100000,
+    "total_cr": 82.62,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 9,
+   "amt": 82.62,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 1,
+   "tierWhy": "1 large name: 1 global name (Goldman Sachs)",
+   "flags": 6,
+   "flagWhy": "7 small funds (Venus Investments, Advent Global PCC, Tiger Strategies, Arnesta Global, Zeal Global, Compact Structure, Nexus Global) got ₹63.01 cr (76.26%); they may sell early. The rest are known names.",
+   "weak_pct": 76.26,
+   "rows": [
+    [
+     "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+     "f",
+     17.01,
+     1050227,
+     "VENUS INVESTMENTS"
+    ],
+    [
+     "ADVENT GLOBAL FUND PCC-ADVENT GLOBAL FUND-CELL 1",
+     "f",
+     16.0,
+     987714,
+     "ADVENT GLOBAL FUND PCC"
+    ],
+    [
+     "KHANDELWAL FINANCE PVT.LTD.",
+     "f",
+     10.0,
+     617344,
+     "KHANDELWAL FINANCE"
+    ],
+    [
+     "TIGER STRATEGIES FUND 1",
+     "f",
+     10.0,
+     617344,
+     "TIGER STRATEGIES"
+    ],
+    [
+     "GOLDMAN SACHS BANK EUROPE SE",
+     "f",
+     9.6,
+     592683,
+     "GOLDMAN SACHS"
+    ],
+    [
+     "ARNESTA GLOBAL OPPORTUNITIES FUND PCC-ARNESTA GLOBAL FUND 1",
+     "f",
+     5.0,
+     308672,
+     "ARNESTA"
+    ],
+    [
+     "ZEAL GLOBAL OPPORTUNITIES FUND",
+     "f",
+     5.0,
+     308672,
+     "ZEAL GLOBAL"
+    ],
+    [
+     "COMPACT STRUCTURE FUND",
+     "f",
+     5.0,
+     308672,
+     "COMPACT STRUCTURE FUND"
+    ],
+    [
+     "NEXUS GLOBAL OPPORTUNITIES FUND",
+     "f",
+     5.0,
+     308672,
+     "NEXUS"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+    "ADVENT GLOBAL FUND PCC-ADVENT GLOBAL FUND-CELL 1",
+    "KHANDELWAL FINANCE PVT.LTD.",
+    "TIGER STRATEGIES FUND 1",
+    "GOLDMAN SACHS BANK EUROPE SE"
+   ],
+   "more": 4,
+   "lock": [
+    "1 Dec",
+    "30 Jan"
+   ]
+  },
+  "3095": {
+   "slug": "shree-tnb-polymers-ipo",
+   "id": "3095",
+   "name": "Shree TNB Polymers",
+   "board": "SME",
+   "key": "shreetnbpolymers",
+   "url": "https://www.chittorgarh.com/ipo_subscription/shree-tnb-polymers-ipo/3095/",
+   "t": 1795404089,
+   "open": "2026-09-28",
+   "close": "2026-10-05",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "25 Sep",
+   "bid": "2026-09-25",
+   "price": 53.0,
+   "lock30_shares": 853000,
+   "lock90_shares": 853000,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 666000,
+    "cr": 3.53,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 3.53,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Nexus Global, Generational Capital) got ₹3.53 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "GENERATIONAL CAPITAL BREAKOUT FUND I",
+     "f",
+     2.0,
+     378000,
+     "GENERATIONAL"
+    ],
+    [
+     "NEXUS GLOBAL OPPORTUNITIES FUND",
+     "f",
+     1.53,
+     288000,
+     "NEXUS"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "GENERATIONAL CAPITAL BREAKOUT FUND I",
+    "NEXUS GLOBAL OPPORTUNITIES FUND"
+   ],
+   "more": 0,
+   "lock": [
+    "4 Nov",
+    "3 Jan"
+   ]
+  },
+  "3091": {
+   "slug": "zetwerk-ipo",
+   "id": "3091",
+   "name": "Zetwerk Manufacturing Business",
+   "board": "Mainboard",
+   "key": "zetwerkmanufacturingbusiness",
+   "url": "https://www.chittorgarh.com/ipo_subscription/zetwerk-ipo/3091/",
+   "t": 1795404089,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "14 Oct",
+   "bid": "2026-10-14",
+   "price": 151.0,
+   "lock30_shares": 74544110,
+   "lock90_shares": 74544110,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 10198584,
+    "cr": 154.0,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 154.0,
+   "mf": 100.0,
+   "ins": 0.0,
+   "schemes": "1 AMC · 2 schemes",
+   "tier": 1,
+   "tierWhy": "1 large name: 1 mutual fund house",
+   "flags": 18,
+   "flagWhy": "No small or little-known funds in the list.",
+   "weak_pct": 0.0,
+   "rows": [
+    [
+     "SBI BALANCED ADVANTAGE FUND",
+     "m",
+     124.19,
+     8224722,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "SBI INFRASTRUCTURE FUND",
+     "m",
+     29.81,
+     1973862,
+     "SBI MUTUAL FUND"
+    ]
+   ],
+   "mfN": [
+    "SBI BALANCED ADVANTAGE FUND",
+    "SBI INFRASTRUCTURE FUND"
+   ],
+   "fo": [],
+   "more": 0,
+   "lock": [
+    "19 Nov",
+    "18 Jan"
+   ]
+  },
+  "3086": {
+   "slug": "sollfege-smart-electronics-ipo",
+   "id": "3086",
+   "name": "Sollfege Smart Electronics",
+   "board": "SME",
+   "key": "sollfegesmartelectronics",
+   "url": "https://www.chittorgarh.com/ipo_subscription/sollfege-smart-electronics-ipo/3086/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-05",
+   "found": false
+  },
+  "3006": {
+   "slug": "eventions-ipo",
+   "id": "3006",
+   "name": "Eventions",
+   "board": "SME",
+   "key": "eventions",
+   "url": "https://www.chittorgarh.com/ipo_subscription/eventions-ipo/3006/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-05",
+   "found": false
+  },
+  "2998": {
+   "slug": "dudani-retail-ipo",
+   "id": "2998",
+   "name": "Dudani Retail",
+   "board": "SME",
+   "key": "dudaniretail",
+   "url": "https://www.chittorgarh.com/ipo_subscription/dudani-retail-ipo/2998/",
+   "t": 1795404089,
+   "open": "2026-09-25",
+   "close": "2026-09-29",
+   "found": false
+  },
+  "2981": {
+   "slug": "hgs-india-ipo",
+   "id": "2981",
+   "name": "HGS (India)",
+   "board": "SME",
+   "key": "hgs",
+   "url": "https://www.chittorgarh.com/ipo_subscription/hgs-india-ipo/2981/",
+   "t": 1795404089,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "29 Oct",
+   "bid": "2026-10-29",
+   "price": 120.0,
+   "lock30_shares": 406800,
+   "lock90_shares": 406800,
+   "ok": true,
+   "check": {
+    "rows": 8,
+    "shares": 813600,
+    "cr": 9.77,
+    "total_shares": 813600,
+    "total_cr": 9.76,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 8,
+   "amt": 9.76,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "8 small funds (Tiger Strategies, Hem Growth Opportunities, Finavenue Capital, Vijit Growth, Flumen Investment, Rajasthan Global Group, RMS Growth, Tattvam AIF) got ₹9.77 cr (100.10%); they may sell early. The rest are known names.",
+   "weak_pct": 100.1,
+   "rows": [
+    [
+     "TIGER STRATEGIES FUND 1",
+     "f",
+     2.0,
+     166800,
+     "TIGER STRATEGIES"
+    ],
+    [
+     "HEM GROWTH OPPORTUNITIES FUND",
+     "f",
+     1.25,
+     104400,
+     "HEM GROWTH OPPORTUNITIES FUND"
+    ],
+    [
+     "FINAVENUE CAPITAL TRUST-FINAVENUE GROWTH FUND",
+     "f",
+     1.24,
+     103200,
+     "FINAVENUE"
+    ],
+    [
+     "VIJIT GROWTH FUND",
+     "f",
+     1.24,
+     103200,
+     "VIJIT"
+    ],
+    [
+     "FLUMEN INVESTMENT TRUST-1729 GROWTH FUND I",
+     "f",
+     1.01,
+     84000,
+     "FLUMEN INVESTMENT"
+    ],
+    [
+     "LRSD CAPITAL PVT.LTD.",
+     "f",
+     1.01,
+     84000,
+     "RAJASTHAN GLOBAL GROUP"
+    ],
+    [
+     "RMS GROWTH FUND SCHEME I",
+     "f",
+     1.01,
+     84000,
+     "RMS"
+    ],
+    [
+     "TATTVAM AIF TRUST-Aanjay Ageless AIF Fund",
+     "f",
+     1.01,
+     84000,
+     "TATTVAM"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "TIGER STRATEGIES FUND 1",
+    "HEM GROWTH OPPORTUNITIES FUND",
+    "FINAVENUE CAPITAL TRUST-FINAVENUE GROWTH FUND",
+    "VIJIT GROWTH FUND",
+    "FLUMEN INVESTMENT TRUST-1729 GROWTH FUND I"
+   ],
+   "more": 3,
+   "lock": [
+    "3 Dec",
+    "1 Feb"
+   ]
+  },
+  "2978": {
+   "slug": "a-j-packaging-ipo",
+   "id": "2978",
+   "name": "A J Packaging",
+   "board": "SME",
+   "key": "ajpackaging",
+   "url": "https://www.chittorgarh.com/ipo_subscription/a-j-packaging-ipo/2978/",
+   "t": 1795404089,
+   "open": "2026-12-01",
+   "close": "2026-12-03",
+   "found": false
+  },
+  "2974": {
+   "slug": "nityas-gems-jewellery-ipo",
+   "id": "2974",
+   "name": "Nityas Gems & Jewellery",
+   "board": "Mainboard",
+   "key": "nityasgemsjewellery",
+   "url": "https://www.chittorgarh.com/ipo_subscription/nityas-gems-jewellery-ipo/2974/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-05",
+   "found": false
+  },
+  "2972": {
+   "slug": "monomark-engineering-ipo",
+   "id": "2972",
+   "name": "Monomark Engineering (India)",
+   "board": "Mainboard",
+   "key": "monomarkengineering",
+   "url": "https://www.chittorgarh.com/ipo_subscription/monomark-engineering-ipo/2972/",
+   "t": 1795404089,
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "found": false
+  },
+  "2969": {
+   "slug": "core4-engineers-ipo",
+   "id": "2969",
+   "name": "Core4 Engineers",
+   "board": "SME",
+   "key": "core4engineers",
+   "url": "https://www.chittorgarh.com/ipo_subscription/core4-engineers-ipo/2969/",
+   "t": 1795404089,
+   "open": "2026-10-23",
+   "close": "2026-10-27",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "22 Oct",
+   "bid": "2026-10-22",
+   "price": 93.0,
+   "lock30_shares": 772200,
+   "lock90_shares": 772200,
+   "ok": true,
+   "check": {
+    "rows": 5,
+    "shares": 1544400,
+    "cr": 14.36,
+    "total_shares": 1544400,
+    "total_cr": 14.36,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 5,
+   "amt": 14.36,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "4 small funds (Vikasa India, Rajasthan Global Group, Evergrow Capital, Teal Rise) got ₹12.35 cr (86.00%); they may sell early. The rest are known names.",
+   "weak_pct": 86.0,
+   "rows": [
+    [
+     "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
+     "f",
+     7.5,
+     806400,
+     "VIKASA"
+    ],
+    [
+     "LRSD CAPITAL PVT.LTD.",
+     "f",
+     2.85,
+     306000,
+     "RAJASTHAN GLOBAL GROUP"
+    ],
+    [
+     "SHINE STAR BUILD-CAP PVT.LTD.",
+     "f",
+     2.01,
+     216000,
+     "SHINE STAR"
+    ],
+    [
+     "EVERGROW CAPITAL OPPORTUNITIES FUND",
+     "f",
+     1.0,
+     108000,
+     "EVERGROW"
+    ],
+    [
+     "TEAL RISE FUND-I",
+     "f",
+     1.0,
+     108000,
+     "TEAL"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
+    "LRSD CAPITAL PVT.LTD.",
+    "SHINE STAR BUILD-CAP PVT.LTD.",
+    "EVERGROW CAPITAL OPPORTUNITIES FUND",
+    "TEAL RISE FUND-I"
+   ],
+   "more": 0,
+   "lock": [
+    "26 Nov",
+    "25 Jan"
+   ]
+  },
+  "2966": {
+   "slug": "shellz-india-ipo",
+   "id": "2966",
+   "name": "Shellz India",
+   "board": "SME",
+   "key": "shellz",
+   "url": "https://www.chittorgarh.com/ipo_subscription/shellz-india-ipo/2966/",
+   "t": 1795404089,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "14 Oct",
+   "bid": "2026-10-14",
+   "price": 179.0,
+   "lock30_shares": 452400,
+   "lock90_shares": 452400,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 672000,
+    "cr": 12.03,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 12.03,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Sanshi, India Max Investment) got ₹12.03 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "SANSHI FUND-I",
+     "f",
+     7.02,
+     392000,
+     "SANSHI"
+    ],
+    [
+     "INDIA MAX INVESTMENT FUND LTD.",
+     "f",
+     5.01,
+     280000,
+     "INDIA MAX INVESTMENT FUND"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "SANSHI FUND-I",
+    "INDIA MAX INVESTMENT FUND LTD."
+   ],
+   "more": 0,
+   "lock": [
+    "19 Nov",
+    "18 Jan"
+   ]
+  },
+  "2959": {
+   "slug": "ravita-engineering-services-ipo",
+   "id": "2959",
+   "name": "Ravita Engineering Services",
+   "board": "SME",
+   "key": "ravitaengineeringservices",
+   "url": "https://www.chittorgarh.com/ipo_subscription/ravita-engineering-services-ipo/2959/",
+   "t": 1795404089,
+   "open": "2026-10-14",
+   "close": "2026-10-16",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "13 Oct",
+   "bid": "2026-10-13",
+   "price": 112.0,
+   "lock30_shares": 1474200,
+   "lock90_shares": 1474200,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 892800,
+    "cr": 10.0,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 10.0,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "1 small fund (Finavenue Capital) got ₹5.00 cr (50.00%); they may sell early. The rest are known names.",
+   "weak_pct": 50.0,
+   "rows": [
+    [
+     "360 ONE PRIME LTD.",
+     "f",
+     5.0,
+     446400,
+     "360 ONE PRIME"
+    ],
+    [
+     "FINAVENUE CAPITAL TRUST-FINAVENUE GROWTH FUND",
+     "f",
+     5.0,
+     446400,
+     "FINAVENUE"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "360 ONE PRIME LTD.",
+    "FINAVENUE CAPITAL TRUST-FINAVENUE GROWTH FUND"
+   ],
+   "more": 0,
+   "lock": [
+    "17 Nov",
+    "16 Jan"
+   ]
+  },
+  "2861": {
+   "slug": "bonfiglioli-transmissions-ipo",
+   "id": "2861",
+   "name": "Bonfiglioli Transmissions",
+   "board": "Mainboard",
+   "key": "bonfigliolitransmissions",
+   "url": "https://www.chittorgarh.com/ipo_subscription/bonfiglioli-transmissions-ipo/2861/",
+   "t": 1795404089,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "14 Oct",
+   "bid": "2026-10-14",
+   "price": 586.0,
+   "lock30_shares": 6478356,
+   "lock90_shares": 6478356,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 921475,
+    "cr": 54.0,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 54.0,
+   "mf": 100.0,
+   "ins": 0.0,
+   "schemes": "1 AMC · 2 schemes",
+   "tier": 1,
+   "tierWhy": "1 large name: 1 mutual fund house",
+   "flags": 18,
+   "flagWhy": "No small or little-known funds in the list.",
+   "weak_pct": 0.0,
+   "rows": [
+    [
+     "SBI DIVIDEND YIELD FUND",
+     "m",
+     42.0,
+     716700,
+     "SBI MUTUAL FUND"
+    ],
+    [
+     "SBI MNC FUND",
+     "m",
+     12.0,
+     204775,
+     "SBI MUTUAL FUND"
+    ]
+   ],
+   "mfN": [
+    "SBI DIVIDEND YIELD FUND",
+    "SBI MNC FUND"
+   ],
+   "fo": [],
+   "more": 0,
+   "lock": [
+    "19 Nov",
+    "18 Jan"
+   ]
+  },
+  "2823": {
+   "slug": "papadmalji-agro-foods-ipo",
+   "id": "2823",
+   "name": "Papadmalji Agro Foods",
+   "board": "SME",
+   "key": "papadmaljiagrofoods",
+   "url": "https://www.chittorgarh.com/ipo_subscription/papadmalji-agro-foods-ipo/2823/",
+   "t": 1795404089,
+   "open": "2026-09-29",
+   "close": "2026-10-01",
+   "found": false
+  },
+  "2813": {
+   "slug": "crystal-crop-protection-ipo",
+   "id": "2813",
+   "name": "Crystal Crop Protection",
+   "board": "Mainboard",
+   "key": "crystalcropprotection",
+   "url": "https://www.chittorgarh.com/ipo_subscription/crystal-crop-protection-ipo/2813/",
+   "t": 1795404089,
+   "open": "2026-11-18",
+   "close": "2026-11-20",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "17 Nov",
+   "bid": "2026-11-17",
+   "price": 272.0,
+   "lock30_shares": 2499354,
+   "lock90_shares": 2499354,
+   "ok": true,
+   "check": {
+    "rows": 17,
+    "shares": 4998708,
+    "cr": 135.95,
+    "total_shares": 4998708,
+    "total_cr": 135.96,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 17,
+   "amt": 135.96,
+   "mf": 44.28,
+   "ins": 0.0,
+   "schemes": "3 AMCs · 10 schemes",
+   "tier": 7,
+   "tierWhy": "7 large names: 3 mutual fund houses, 4 global names (Ashoka, IFC (World Bank group), Nomura, Citigroup)",
+   "flags": 15,
+   "flagWhy": "2 small funds (Silver Stride, Neo Prime) got ₹15.11 cr (11.11%); they may sell early. The rest are known names.",
+   "weak_pct": 11.11,
+   "rows": [
+    [
+     "ASHOKA INDIA EQUITY INVESTMENT TRUST PLC",
+     "f",
+     20.0,
+     735295,
+     "ASHOKA"
+    ],
+    [
+     "INTERNATIONAL FINANCE CORPORATION-SELF MANAGED P1",
+     "f",
+     20.0,
+     735295,
+     "INTERNATIONAL FINANCE CORP."
+    ],
+    [
+     "TATA RESOURCES & ENERGY FUND",
+     "m",
+     15.1,
+     555005,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL FLEXI CAP FUND",
+     "m",
+     12.08,
+     443960,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "SILVER STRIDE INDIA GLOBAL FUND",
+     "f",
+     10.0,
+     367675,
+     "SILVER STRIDE"
+    ],
+    [
+     "DHARMAYUG INVESTMENTS LTD.",
+     "f",
+     10.0,
+     367675,
+     "DHARMAYUG INVESTMENTS"
+    ],
+    [
+     "WHITEOAK CAPITAL MID CAP FUND",
+     "m",
+     9.86,
+     362560,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "TATA INDIA PHARMA & HEALTHCARE FUND",
+     "m",
+     8.0,
+     294250,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL MULTI CAP FUND",
+     "m",
+     5.52,
+     202840,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "NOMURA SINGAPORE LTD.",
+     "f",
+     5.32,
+     195731,
+     "NOMURA"
+    ],
+    [
+     "CITIGROUP GLOBAL MARKETS MAURITIUS PVT.LTD.",
+     "f",
+     5.32,
+     195730,
+     "CITIGROUP"
+    ],
+    [
+     "NEO PRIME FUND",
+     "f",
+     5.11,
+     187801,
+     "NEO"
+    ],
+    [
+     "GROWW MULTICAP FUND",
+     "m",
+     3.32,
+     122063,
+     "GROWW MUTUAL FUND"
+    ],
+    [
+     "WHITEOAK CAPITAL SPECIAL OPPORTUNITIES FUND",
+     "m",
+     2.54,
+     93555,
+     "WHITEOAK CAPITAL MUTUAL FUND"
+    ],
+    [
+     "TITANIUM EQUITY LONG-SHORT FUND",
+     "m",
+     2.0,
+     73535,
+     "TATA MUTUAL FUND"
+    ],
+    [
+     "GROWW SMALL CAP FUND",
+     "m",
+     1.63,
+     60091,
+     "GROWW MUTUAL FUND"
+    ],
+    [
+     "GROWW VALUE FUND",
+     "m",
+     0.15,
+     5647,
+     "GROWW MUTUAL FUND"
+    ]
+   ],
+   "mfN": [
+    "TATA RESOURCES & ENERGY FUND",
+    "WHITEOAK CAPITAL FLEXI CAP FUND",
+    "WHITEOAK CAPITAL MID CAP FUND",
+    "TATA INDIA PHARMA & HEALTHCARE FUND",
+    "WHITEOAK CAPITAL MULTI CAP FUND",
+    "GROWW MULTICAP FUND",
+    "WHITEOAK CAPITAL SPECIAL OPPORTUNITIES FUND",
+    "TITANIUM EQUITY LONG-SHORT FUND"
+   ],
+   "fo": [
+    "ASHOKA INDIA EQUITY INVESTMENT TRUST PLC",
+    "INTERNATIONAL FINANCE CORPORATION-SELF MANAGED P1",
+    "SILVER STRIDE INDIA GLOBAL FUND",
+    "DHARMAYUG INVESTMENTS LTD.",
+    "NOMURA SINGAPORE LTD."
+   ],
+   "more": 4,
+   "lock": [
+    "23 Dec",
+    "21 Feb"
+   ]
+  },
+  "2798": {
+   "slug": "black-opal-consultants-ipo",
+   "id": "2798",
+   "name": "Black Opal Consultants",
+   "board": "SME",
+   "key": "blackopalconsultants",
+   "url": "https://www.chittorgarh.com/ipo_subscription/black-opal-consultants-ipo/2798/",
+   "t": 1795404089,
+   "open": "2026-09-29",
+   "close": "2026-10-01",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "28 Sep",
+   "bid": "2026-09-28",
+   "price": 197.0,
+   "lock30_shares": 398100,
+   "lock90_shares": 398100,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 333000,
+    "cr": 6.56,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 6.56,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "2 small funds (Venus Investments, Radiant Global) got ₹6.56 cr (100.00%); they may sell early. The rest are known names.",
+   "weak_pct": 100.0,
+   "rows": [
+    [
+     "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+     "f",
+     3.76,
+     190800,
+     "VENUS INVESTMENTS"
+    ],
+    [
+     "RADIANT GLOBAL FUND-CLASS B PARTICIPATING SHARES",
+     "f",
+     2.8,
+     142200,
+     "RADIANT GLOBAL"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+    "RADIANT GLOBAL FUND-CLASS B PARTICIPATING SHARES"
+   ],
+   "more": 0,
+   "lock": [
+    "4 Nov",
+    "4 Jan"
+   ]
+  },
+  "2774": {
+   "slug": "integris-medtech-ipo",
+   "id": "2774",
+   "name": "Integris Medtech",
+   "board": "Mainboard",
+   "key": "integrismedtech",
+   "url": "https://www.chittorgarh.com/ipo_subscription/integris-medtech-ipo/2774/",
+   "t": 1795404089,
+   "open": "2026-11-27",
+   "close": "2026-12-01",
+   "found": false
+  },
+  "2761": {
+   "slug": "ajwa-projects-ipo",
+   "id": "2761",
+   "name": "Ajwa Projects",
+   "board": "SME",
+   "key": "ajwaprojects",
+   "url": "https://www.chittorgarh.com/ipo_subscription/ajwa-projects-ipo/2761/",
+   "t": 1795404089,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "found": false
+  },
+  "2748": {
+   "slug": "acme-india-industries-ipo",
+   "id": "2748",
+   "name": "Acme India Industries",
+   "board": "SME",
+   "key": "acmeindustries",
+   "url": "https://www.chittorgarh.com/ipo_subscription/acme-india-industries-ipo/2748/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-06",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "29 Sep",
+   "bid": "2026-09-29",
+   "price": 196.0,
+   "lock30_shares": 882900,
+   "lock90_shares": 882900,
+   "ok": false,
+   "check": {
+    "rows": 2,
+    "shares": 791400,
+    "cr": 15.51,
+    "total_shares": null,
+    "total_cr": null,
+    "shares_match": false,
+    "cr_match": false,
+    "rows_off": []
+   },
+   "n": 2,
+   "amt": 15.51,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "1 small fund (Sanshi) got ₹7.01 cr (45.20%); they may sell early. The rest are known names.",
+   "weak_pct": 45.2,
+   "rows": [
+    [
+     "MOTILAL OSWAL FINVEST LTD.",
+     "f",
+     8.5,
+     433800,
+     "MOTILAL OSWAL"
+    ],
+    [
+     "SANSHI FUND-I",
+     "f",
+     7.01,
+     357600,
+     "SANSHI"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "MOTILAL OSWAL FINVEST LTD.",
+    "SANSHI FUND-I"
+   ],
+   "more": 0,
+   "lock": [
+    "5 Nov",
+    "4 Jan"
+   ]
+  },
+  "2743": {
+   "slug": "paramount-syntex-ipo",
+   "id": "2743",
+   "name": "Paramount Syntex",
+   "board": "SME",
+   "key": "paramountsyntex",
+   "url": "https://www.chittorgarh.com/ipo_subscription/paramount-syntex-ipo/2743/",
+   "t": 1795404089,
+   "open": "2026-09-30",
+   "close": "2026-10-06",
+   "found": false
+  },
+  "2740": {
+   "slug": "vectras-enprocon-ipo",
+   "id": "2740",
+   "name": "Vectras Enprocon",
+   "board": "SME",
+   "key": "vectrasenprocon",
+   "url": "https://www.chittorgarh.com/ipo_subscription/vectras-enprocon-ipo/2740/",
+   "t": 1795404089,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "29 Oct",
+   "bid": "2026-10-29",
+   "price": 105.0,
+   "lock30_shares": 719400,
+   "lock90_shares": 719400,
+   "ok": true,
+   "check": {
+    "rows": 8,
+    "shares": 1438800,
+    "cr": 15.11,
+    "total_shares": 1438800,
+    "total_cr": 15.11,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 8,
+   "amt": 15.11,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "7 small funds (Sunrise Investment, Zinnia Global PCC, Aarth AIF, Compact Structure, SB Opportunities, Tiger Strategies, Visionary Value) got ₹13.57 cr (89.81%); they may sell early. The rest are known names.",
+   "weak_pct": 89.81,
+   "rows": [
+    [
+     "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+     "f",
+     3.01,
+     286800,
+     "SUNRISE"
+    ],
+    [
+     "ZINNIA GLOBAL FUND PCC-NOLANA",
+     "f",
+     2.52,
+     240000,
+     "ZINNIA GLOBAL FUND PCC"
+    ],
+    [
+     "AARTH AIF GROWTH FUND",
+     "f",
+     2.02,
+     192000,
+     "AARTH"
+    ],
+    [
+     "COMPACT STRUCTURE FUND",
+     "f",
+     2.0,
+     190800,
+     "COMPACT STRUCTURE FUND"
+    ],
+    [
+     "SB OPPORTUNITIES FUND II",
+     "f",
+     2.0,
+     190800,
+     "SB OPPORTUNITIES FUND"
+    ],
+    [
+     "SHINE STAR BUILD-CAP PVT.LTD.",
+     "f",
+     1.54,
+     146400,
+     "SHINE STAR"
+    ],
+    [
+     "TIGER STRATEGIES FUND",
+     "f",
+     1.01,
+     96000,
+     "TIGER STRATEGIES"
+    ],
+    [
+     "VISIONARY VALUE FUND",
+     "f",
+     1.01,
+     96000,
+     "VISIONARY VALUE FUND"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+    "ZINNIA GLOBAL FUND PCC-NOLANA",
+    "AARTH AIF GROWTH FUND",
+    "COMPACT STRUCTURE FUND",
+    "SB OPPORTUNITIES FUND II"
+   ],
+   "more": 3,
+   "lock": [
+    "4 Dec",
+    "2 Feb"
+   ]
+  },
+  "2704": {
+   "slug": "maxwell-engineering-solutions-ipo",
+   "id": "2704",
+   "name": "Maxwell Engineering Solutions",
+   "board": "SME",
+   "key": "maxwellengineeringsolutions",
+   "url": "https://www.chittorgarh.com/ipo_subscription/maxwell-engineering-solutions-ipo/2704/",
+   "t": 1795404089,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "found": true,
+   "read": "23 Nov 2026, 08:52 IST",
+   "date": "29 Oct",
+   "bid": "2026-10-29",
+   "price": 158.0,
+   "lock30_shares": 512000,
+   "lock90_shares": 512000,
+   "ok": true,
+   "check": {
+    "rows": 9,
+    "shares": 1024000,
+    "cr": 16.17,
+    "total_shares": 1024000,
+    "total_cr": 16.18,
+    "shares_match": true,
+    "cr_match": true,
+    "rows_off": []
+   },
+   "n": 9,
+   "amt": 16.18,
+   "mf": 0.0,
+   "ins": 0.0,
+   "schemes": "No mutual fund",
+   "tier": 0,
+   "tierWhy": "No large mutual fund, insurer or global fund",
+   "flags": 6,
+   "flagWhy": "8 small funds (Fortune Hands, Sanshi, Sunrise India, Flumen Investment, Nova Global, Sunrise Investment, Arnesta Global, Finwave Global) got ₹15.06 cr (93.08%); they may sell early. The rest are known names.",
+   "weak_pct": 93.08,
+   "rows": [
+    [
+     "SANSHI FUND-I",
+     "f",
+     2.53,
+     160000,
+     "SANSHI"
+    ],
+    [
+     "FLUMEN INVESTMENT TRUST-1729 GROWTH FUND I",
+     "f",
+     2.17,
+     137600,
+     "FLUMEN INVESTMENT"
+    ],
+    [
+     "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+     "f",
+     2.01,
+     127200,
+     "SUNRISE"
+    ],
+    [
+     "ARNESTA GLOBAL OPPORTUNITIES FUND PCC-ARNESTA GLOBAL FUND 1",
+     "f",
+     2.01,
+     127200,
+     "ARNESTA"
+    ],
+    [
+     "FINWAVE GLOBAL OPPORTUNITIES FUND",
+     "f",
+     2.01,
+     127200,
+     "FINWAVE"
+    ],
+    [
+     "FORTUNE HANDS GROWTH FUND-FORTUNE HANDS GROWTH FUND SCHEME I",
+     "f",
+     1.79,
+     113600,
+     "FORTUNE HANDS"
+    ],
+    [
+     "NOVA GLOBAL OPPORTUNITIES FUND PCC-TOUCHSTONE",
+     "f",
+     1.53,
+     96800,
+     "NOVA"
+    ],
+    [
+     "ASHIKA GLOBAL FINANCE PVT.LTD.",
+     "f",
+     1.11,
+     70400,
+     "ASHIKA"
+    ],
+    [
+     "SUNRISE INDIA GROWTH TRUST-SUNRISE INDIA GROWTH FUND",
+     "f",
+     1.01,
+     64000,
+     "SUNRISE"
+    ]
+   ],
+   "mfN": [],
+   "fo": [
+    "SANSHI FUND-I",
+    "FLUMEN INVESTMENT TRUST-1729 GROWTH FUND I",
+    "SUNRISE INVESTMENT TRUST-SUNRISE INVESTMENT OPPORTUNITIES FUND",
+    "ARNESTA GLOBAL OPPORTUNITIES FUND PCC-ARNESTA GLOBAL FUND 1",
+    "FINWAVE GLOBAL OPPORTUNITIES FUND"
+   ],
+   "more": 4,
+   "lock": [
+    "3 Dec",
+    "1 Feb"
+   ]
+  },
+  "2703": {
+   "slug": "sjp-ultrasonic-ipo",
+   "id": "2703",
+   "name": "SJP Ultrasonics",
+   "board": "SME",
+   "key": "sjpultrasonics",
+   "url": "https://www.chittorgarh.com/ipo_subscription/sjp-ultrasonic-ipo/2703/"
+  },
+  "2695": {
+   "slug": "shivchem-agro-ipo",
+   "id": "2695",
+   "name": "Shivchem Agro",
+   "board": "SME",
+   "key": "shivchemagro",
+   "url": "https://www.chittorgarh.com/ipo_subscription/shivchem-agro-ipo/2695/"
+  },
+  "2671": {
+   "slug": "bombay-coated-and-special-steels-ipo",
+   "id": "2671",
+   "name": "Bombay Coated & Special Steels",
+   "board": "Mainboard",
+   "key": "bombaycoatedspecialsteels",
+   "url": "https://www.chittorgarh.com/ipo_subscription/bombay-coated-and-special-steels-ipo/2671/"
+  },
+  "2628": {
+   "slug": "hd-fire-protect-ipo",
+   "id": "2628",
+   "name": "HD Fire Protect",
+   "board": "Mainboard",
+   "key": "hdfireprotect",
+   "url": "https://www.chittorgarh.com/ipo_subscription/hd-fire-protect-ipo/2628/"
+  },
+  "2559": {
+   "slug": "bls-polymers-ipo",
+   "id": "2559",
+   "name": "BLS Polymers",
+   "board": "Mainboard",
+   "key": "blspolymers",
+   "url": "https://www.chittorgarh.com/ipo_subscription/bls-polymers-ipo/2559/"
+  },
+  "2550": {
+   "slug": "sahajanand-medical-technologies-ipo",
+   "id": "2550",
+   "name": "Sahajanand Medical Technologies",
+   "board": "Mainboard",
+   "key": "sahajanandmedicaltechnologies",
+   "url": "https://www.chittorgarh.com/ipo_subscription/sahajanand-medical-technologies-ipo/2550/"
+  },
+  "2503": {
+   "slug": "watrana-rentals-ipo",
+   "id": "2503",
+   "name": "Watrana Rentals",
+   "board": "SME",
+   "key": "watranarentals",
+   "url": "https://www.chittorgarh.com/ipo_subscription/watrana-rentals-ipo/2503/"
+  },
+  "2493": {
+   "slug": "foodlink-fb-ipo",
+   "id": "2493",
+   "name": "Foodlink F&B Holdings (India)",
+   "board": "Mainboard",
+   "key": "foodlinkfbholdings",
+   "url": "https://www.chittorgarh.com/ipo_subscription/foodlink-fb-ipo/2493/"
+  },
+  "2455": {
+   "slug": "fusion-cx-ipo",
+   "id": "2455",
+   "name": "Fusion CX",
+   "board": "Mainboard",
+   "key": "fusioncx",
+   "url": "https://www.chittorgarh.com/ipo_subscription/fusion-cx-ipo/2455/"
+  },
+  "2424": {
+   "slug": "dove-soft-ipo",
+   "id": "2424",
+   "name": "Dove Soft",
+   "board": "SME",
+   "key": "dovesoft",
+   "url": "https://www.chittorgarh.com/ipo_subscription/dove-soft-ipo/2424/"
+  },
+  "2256": {
+   "slug": "paras-healthcare-ipo",
+   "id": "2256",
+   "name": "Paras Healthcare",
+   "board": "Mainboard",
+   "key": "parashealthcare",
+   "url": "https://www.chittorgarh.com/ipo_subscription/paras-healthcare-ipo/2256/"
+  },
+  "2197": {
+   "slug": "pind-hospitality-ipo",
+   "id": "2197",
+   "name": "Pind Hospitality",
+   "board": "SME",
+   "key": "pindhospitality",
+   "url": "https://www.chittorgarh.com/ipo_subscription/pind-hospitality-ipo/2197/"
+  },
+  "2070": {
+   "slug": "sfc-environmental-technologies-ipo",
+   "id": "2070",
+   "name": "SFC Environmental Technologies",
+   "board": "Mainboard",
+   "key": "sfcenvironmentaltechnologies",
+   "url": "https://www.chittorgarh.com/ipo_subscription/sfc-environmental-technologies-ipo/2070/"
+  },
+  "2063": {
+   "slug": "everestims-technologies-ipo",
+   "id": "2063",
+   "name": "EverestIMS Technologies",
+   "board": "SME",
+   "key": "everestimstechnologies",
+   "url": "https://www.chittorgarh.com/ipo_subscription/everestims-technologies-ipo/2063/"
+  },
+  "2061": {
+   "slug": "eaaa-india-alternatives-ipo",
+   "id": "2061",
+   "name": "EAAA India Alternatives",
+   "board": "Mainboard",
+   "key": "eaaaalternatives",
+   "url": "https://www.chittorgarh.com/ipo_subscription/eaaa-india-alternatives-ipo/2061/"
+  }
+ }
+}
