@@ -12,7 +12,7 @@ Alerts (each event once):
   now   : new DRHP/RHP filing, new IPO, price band, anchor book, closing day (morning + subscription every hour
           10:00-17:15), allotment day, listing day, data source stopped
   hourly: GMP move of 10%+ since the last GMP alert (one round-up message)
-Quiet hours (default 22-8): messages wait and go out together after the quiet time.  /test always goes at once.
+Quiet hours (default 22-8, owner may change in /settings): messages wait and go out together after the quiet time.  /test always goes at once.
 """
 import json, os, re, sys, html, time, urllib.request, urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
