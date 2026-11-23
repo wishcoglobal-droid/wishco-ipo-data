@@ -13,8 +13,8 @@ jobs:
           mkdir out
           for u in "ipo_subscription/crystal-crop-protection-ipo/" ; do :; done
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
-          for u in "ipo_subscription/mahanadi-coalfields-ipo/3247/" "ipo/mahanadi-coalfields-ipo/3247/" "report/mainboard-ipo-list-in-india-bse-nse/83/" "report/sme-ipo-list-in-india-bse-sme-nse-emerge/84/"; do
-            f=$(echo "$u" | tr '/' '_')
+          for u in "ipo/ipo_dashboard.asp" "ipo/ipo_dashboard.asp?a=sme" "report/anchor-investors-list/133/all/" "report/anchor-investor-lock-in-end-dates/156/" "report/ipo-subscription-status-live-bidding-data-bse-nse/21/" "ipo_subscription/watrana-rentals-ipo/2503/" "ipo/watrana-rentals-ipo/2503/"; do
+            f=$(echo "$u" | tr '/?=' '___')
             curl -sS -L --compressed -A "$UA" -H 'Accept-Language: en-IN,en;q=0.9' -o "out/$f.html" -w "$u %{http_code} %{size_download}\n" "https://www.chittorgarh.com/$u"
           done
           ls -la out
