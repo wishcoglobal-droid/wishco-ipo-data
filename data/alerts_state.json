@@ -54,11 +54,11 @@
   },
   "watranarentals": {
    "high": 245.0,
-   "status": "open"
+   "status": "closed"
   },
   "mahanadicoalfields": {
    "high": 136.0,
-   "status": "open"
+   "status": "closed"
   },
   "crystalcropprotection": {
    "high": 272.0,
