@@ -1,0 +1,212 @@
+{
+ "rules": {
+  "filing": true,
+  "new": true,
+  "price": true,
+  "anchor": true,
+  "close": true,
+  "allot": true,
+  "list": true,
+  "gmp": true,
+  "stale": true
+ },
+ "chats": [],
+ "queue": [],
+ "quiet": "22-8",
+ "on": true,
+ "snap": {
+  "milestonegearsmainboard": {
+   "high": 0.0,
+   "status": "upcoming"
+  },
+  "monomarkengineering": {
+   "high": 0.0,
+   "status": "upcoming"
+  },
+  "matangirubber": {
+   "high": 172.0,
+   "status": "upcoming"
+  },
+  "ajpackaging": {
+   "high": 180.0,
+   "status": "upcoming"
+  },
+  "foodlinkfbholdings": {
+   "high": 191.0,
+   "status": "upcoming"
+  },
+  "shreesiddhivinayakgreentechindustries": {
+   "high": 142.0,
+   "status": "upcoming"
+  },
+  "watranarentals": {
+   "high": 245.0,
+   "status": "open"
+  },
+  "mahanadicoalfields": {
+   "high": 136.0,
+   "status": "open"
+  },
+  "crystalcropprotection": {
+   "high": 272.0,
+   "status": "closed"
+  },
+  "vedantpolyfabs": {
+   "high": 94.0,
+   "status": "listed"
+  },
+  "hgs": {
+   "high": 120.0,
+   "status": "listed"
+  },
+  "vectrasenprocon": {
+   "high": 105.0,
+   "status": "listed"
+  },
+  "maxwellengineering": {
+   "high": 158.0,
+   "status": "listed"
+  },
+  "johnsoncabelectricals": {
+   "high": 200.0,
+   "status": "listed"
+  },
+  "antalaindustries": {
+   "high": 66.0,
+   "status": "listed"
+  },
+  "bombaycoatedspecialsteels": {
+   "high": 82.0,
+   "status": "listed"
+  },
+  "carverroboweld": {
+   "high": 80.0,
+   "status": "listed"
+  },
+  "ajwaprojects": {
+   "high": 203.0,
+   "status": "listed"
+  },
+  "mksonsfinejewels": {
+   "high": 162.0,
+   "status": "listed"
+  },
+  "sfcenvironmentaltechnologies": {
+   "high": 330.0,
+   "status": "listed"
+  },
+  "blspolymers": {
+   "high": 150.0,
+   "status": "listed"
+  },
+  "wisconindustries": {
+   "high": 204.0,
+   "status": "listed"
+  },
+  "eaaaalternatives": {
+   "high": 1665.0,
+   "status": "listed"
+  },
+  "core4engineers": {
+   "high": 93.0,
+   "status": "listed"
+  },
+  "parashealthcare": {
+   "high": 693.0,
+   "status": "listed"
+  },
+  "jioplatforms": {
+   "high": 1119.0,
+   "status": "listed"
+  },
+  "shellz": {
+   "high": 179.0,
+   "status": "listed"
+  },
+  "sahajanandmedicaltechnologies": {
+   "high": 344.0,
+   "status": "listed"
+  },
+  "tonboimaging": {
+   "high": 700.0,
+   "status": "listed"
+  },
+  "zetwerkmanufacturing": {
+   "high": 151.0,
+   "status": "listed"
+  }
+ },
+ "sent": {
+  "filing|https://nsearchives.nseindia.com/corporate/NLCINDIA_19112026153229_SE_Intimation_DRHP_19_11_2026_Signed.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/Sagar_UDRHP.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/FASCINATESMEIPO_18112026182934_rhpcoorection.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/Registration_19112026112144_DRHP.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_8002_19112026124914.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/NIRL.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_17112026180250_NSEletter.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/TATAINVEST_17112026125845_NSE_Letter.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/TATACHEMYS_17112026124101_NSE_Letter_signed.pdf": "2026-11-23",
+  "filing|Tata Chemicals Limited2026-11-17 11:04": "2026-11-23",
+  "filing|Tata Motors Limited2026-11-17 11:04": "2026-11-23",
+  "filing|Tata Investment Corporation Limited2026-11-17 11:04": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7996_16112026204154.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/INFIBEAM_14112026182909_AALIntimationRediffUDRHP14112026.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/TECHNOCRAFT_14112026181649_MA_Report_submission.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/SSRETAIL_14112026170722_MAREPORT30092026.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/STALLION_14112026165906_MAReportofIPOforQ2FY27-Signed.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/COREINTEGRA_14112026164720_Monitoring_agency_report_signed.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/BIOMEDICA_14112026155717_Monitoring_Agency_Report-Final.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/VALUE_14112026133805_StatutoryAuditor_Certificateoffundsutilzation_IPO_Value360.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/9081535400_14112026131047_ASL_Monitoring_Agency_Report.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_14112026072625_rhp.pdf": "2026-11-23",
+  "filing|Il Jin Electronics (India) Limited2026-11-07 00:00": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/Final_DRHP_Datasoft.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/UDRHPSNVA.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/FP_INE0XFY01011_04NOV2026.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7977_04112026053912.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7833_30092026225803.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/Blueocean_DRHP_DAP.zip": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7823_30092026221513.zip": "2026-11-23",
+  "new|milestonegearsmainboard": "2026-11-23",
+  "new|monomarkengineering": "2026-11-23",
+  "new|matangirubber": "2026-11-23",
+  "new|ajpackaging": "2026-11-23",
+  "new|foodlinkfbholdings": "2026-11-23",
+  "new|shreesiddhivinayakgreentechindustries": "2026-11-23",
+  "new|watranarentals": "2026-11-23",
+  "anchor|watranarentals": "2026-11-23",
+  "closeday|watranarentals": "2026-11-23",
+  "new|mahanadicoalfields": "2026-11-23",
+  "anchor|mahanadicoalfields": "2026-11-23",
+  "closeday|mahanadicoalfields": "2026-11-23",
+  "anchor|crystalcropprotection": "2026-11-23",
+  "anchor|hgs": "2026-11-23",
+  "anchor|vectrasenprocon": "2026-11-23",
+  "anchor|maxwellengineering": "2026-11-23",
+  "anchor|johnsoncabelectricals": "2026-11-23",
+  "anchor|bombaycoatedspecialsteels": "2026-11-23",
+  "anchor|carverroboweld": "2026-11-23",
+  "anchor|mksonsfinejewels": "2026-11-23",
+  "anchor|sfcenvironmentaltechnologies": "2026-11-23",
+  "anchor|blspolymers": "2026-11-23",
+  "anchor|wisconindustries": "2026-11-23",
+  "anchor|eaaaalternatives": "2026-11-23",
+  "anchor|core4engineers": "2026-11-23",
+  "anchor|parashealthcare": "2026-11-23",
+  "anchor|jioplatforms": "2026-11-23"
+ },
+ "gmp": {
+  "milestonegearsmainboard": 0.0,
+  "monomarkengineering": 23.0,
+  "matangirubber": 21.5,
+  "ajpackaging": 20.0,
+  "foodlinkfbholdings": 15.0,
+  "shreesiddhivinayakgreentechindustries": 10.0,
+  "watranarentals": 40.0,
+  "mahanadicoalfields": 0.0,
+  "crystalcropprotection": 14.0
+ },
+ "seeded": true
+}
