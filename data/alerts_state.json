@@ -10,7 +10,9 @@
   "gmp": true,
   "stale": true
  },
- "chats": [],
+ "chats": [
+  9149037975
+ ],
  "queue": [],
  "quiet": "22-8",
  "on": true,
@@ -208,5 +210,7 @@
   "mahanadicoalfields": 0.0,
   "crystalcropprotection": 14.0
  },
- "seeded": true
+ "seeded": true,
+ "offset": 684628599,
+ "owner": 9149037975
 }
