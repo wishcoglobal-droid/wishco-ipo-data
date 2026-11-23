@@ -1,12 +1,21 @@
 {
- "updated": "23 Nov 2026, 21:59 IST",
+ "updated": "23 Nov 2026, 22:59 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 987,
+  "NSE announcements": 1013,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-23 00:00",
+   "company": "Crystal Crop Protection Limited",
+   "text": "Crystal Crop Protection Limited has filled PROSP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf",
+   "kind": "Prospectus",
+   "src": "NSE offer documents",
+   "watch": false
+  },
   {
    "at": "2026-11-19 15:33",
    "company": "NLC India Limited",
