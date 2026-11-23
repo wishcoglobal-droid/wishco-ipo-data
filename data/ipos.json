@@ -1,6 +1,6 @@
 {
- "updated": "23 Nov 2026, 13:01 IST",
- "checked": "23 Nov 2026, 13:01 IST",
+ "updated": "23 Nov 2026, 14:28 IST",
+ "checked": "23 Nov 2026, 14:28 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,13 +22,13 @@
     "allot": "2026-12-07",
     "listing": "2026-12-09"
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "A J Packaging Ltd.",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 0.0,
+   "gmp": 20.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -62,13 +62,13 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Matangi Rubber Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 0.0,
+   "gmp": 21.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -103,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -144,13 +144,13 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 0.0,
+   "gmp": 5.0,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "listing": "2026-12-02",
@@ -185,13 +185,13 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 45.0,
+   "gmp": 40.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -226,13 +226,13 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 0.6,
+   "gmp": 0.4,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -267,7 +267,7 @@
      }
     }
    },
-   "det_t": 1795419056
+   "det_t": 1795424289
   },
   {
    "name": "Crystal Crop Protection Ltd",
