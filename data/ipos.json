@@ -1,6 +1,6 @@
 {
- "updated": "23 Nov 2026, 08:53 IST",
- "checked": "23 Nov 2026, 08:53 IST",
+ "updated": "23 Nov 2026, 10:14 IST",
+ "checked": "23 Nov 2026, 10:14 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-07",
     "listing": "2026-12-09"
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
   },
   {
    "name": "A J Packaging Ltd.",
@@ -62,7 +62,48 @@
      }
     }
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
+  },
+  {
+   "name": "Matangi Rubber Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 0.0,
+   "open": "2026-12-01",
+   "close": "2026-12-03",
+   "listing": "2026-12-08",
+   "low": 163.0,
+   "high": 172.0,
+   "status": "upcoming",
+   "id": "1454",
+   "url": "https://www.ipopremium.in/view/ipo/1454/matangi-rubber-ltd",
+   "det": {
+    "lot": 87,
+    "issue_cr": 125.16,
+    "allot": "2026-12-04",
+    "listing": "2026-12-08",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 87,
+      "amount": 14964.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 1218,
+      "amount": 209496.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 67,
+      "shares": 5829,
+      "amount": 1002588.0,
+      "label": "bHNI"
+     }
+    }
+   },
+   "det_t": 1795409060
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -72,7 +113,7 @@
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
-   "low": 180.0,
+   "low": 181.0,
    "high": 191.0,
    "status": "upcoming",
    "id": "1440",
@@ -103,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -144,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -185,13 +226,13 @@
      }
     }
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 0.7,
+   "gmp": 0.5,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -226,7 +267,7 @@
      }
     }
    },
-   "det_t": 1795403943
+   "det_t": 1795409060
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -549,20 +590,6 @@
    "status": "listed",
    "id": "1417",
    "url": "https://www.ipopremium.in/view/ipo/1417/zetwerk-manufacturing-ltd"
-  },
-  {
-   "name": "Ravita Engineering Services Ltd",
-   "board": "SME",
-   "exch": "NSE SME",
-   "gmp": 1.0,
-   "open": "2026-10-14",
-   "close": "2026-10-16",
-   "listing": "2026-10-22",
-   "low": 105.0,
-   "high": 112.0,
-   "status": "listed",
-   "id": "1420",
-   "url": "https://www.ipopremium.in/view/ipo/1420/ravita-engineering-services-ltd"
   }
  ]
 }
