@@ -13,7 +13,13 @@
  "chats": [
   9149037975
  ],
- "queue": [],
+ "queue": [
+  {
+   "t": "🆕 New IPO: Encube Ethicals Ltd. (Mainboard) (Mainboard) · opens 3 Dec · closes 7 Dec",
+   "now": true,
+   "h": "2026-11-23 22"
+  }
+ ],
  "quiet": "22-8",
  "on": true,
  "snap": {
@@ -136,6 +142,10 @@
   "zetwerkmanufacturing": {
    "high": 151.0,
    "status": "listed"
+  },
+  "encubeethicalsmainboard": {
+   "high": 0.0,
+   "status": "upcoming"
   }
  },
  "sent": {
@@ -197,7 +207,8 @@
   "anchor|eaaaalternatives": "2026-11-23",
   "anchor|core4engineers": "2026-11-23",
   "anchor|parashealthcare": "2026-11-23",
-  "anchor|jioplatforms": "2026-11-23"
+  "anchor|jioplatforms": "2026-11-23",
+  "new|encubeethicalsmainboard": "2026-11-23"
  },
  "gmp": {
   "milestonegearsmainboard": 0.0,
@@ -208,7 +219,8 @@
   "shreesiddhivinayakgreentechindustries": 10.0,
   "watranarentals": 40.0,
   "mahanadicoalfields": 0.0,
-  "crystalcropprotection": 14.0
+  "crystalcropprotection": 14.0,
+  "encubeethicalsmainboard": 0.0
  },
  "seeded": true,
  "offset": 684628599,
