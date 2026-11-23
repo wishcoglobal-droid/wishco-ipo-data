@@ -1,6 +1,6 @@
 {
- "updated": "23 Nov 2026, 15:42 IST",
- "checked": "23 Nov 2026, 15:42 IST",
+ "updated": "23 Nov 2026, 16:49 IST",
+ "checked": "23 Nov 2026, 16:49 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-07",
     "listing": "2026-12-09"
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "A J Packaging Ltd.",
@@ -62,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -103,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -144,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -185,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -226,13 +226,13 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 0.3,
+   "gmp": 0.4,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -267,13 +267,13 @@
      }
     }
    },
-   "det_t": 1795428749
+   "det_t": 1795432770
   },
   {
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 14.5,
+   "gmp": 14.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",
