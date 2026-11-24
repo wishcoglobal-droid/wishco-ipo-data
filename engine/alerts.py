@@ -33,6 +33,7 @@ QUIETS = ['22-8', '23-7', '21-9', 'off']
 # v2 (24 Nov 2026): every alert is the app's IPO card (picture) with buttons that open the app at that IPO's panel.
 APP = {'test': 'https://script.google.com/macros/s/AKfycbxsm_JHDR5GYKF87p8gSRILZksrSn3G5BbPdNrc_Q_7HYxOW-njAKD-lN8Zb-SyufM0cg/exec?ch=test',
        'live': 'https://script.google.com/macros/s/AKfycbw6fGBtj_StnGtI9gV-fLZrSDVA3BuIs0uonzr3SgrZEG0UObt5BABfSDV-m8F1kSdlag/exec?ch=live'}
+APP_CH = 'live'   # owner said "Live" 24 Nov 2026 21:13 -> LIVE app v3.11.14.1 has the Telegram link block
 PANELS = [[('Application amount', 'inv'), ('Allotment chance', 'chn'), ('Profit', 'fr')],
           [('Subscription', 'sub'), ('GMP trend', 'gmp'), ('Key facts', 'kf')],
           [('Hold score', 'fh'), ('Anchor book', 'an'), ('News & RHP', 'rhp')]]
@@ -485,7 +486,7 @@ def fact_line(i, ex, a, lines, ipos_all):
 
 
 def keyboard(st, c, name):
-    base = APP.get(st.get('app', 'test'), APP['test'])
+    base = APP[APP_CH]
     u = lambda p: base + '&ipo=' + urllib.parse.quote(c) + '&p=' + p
     kb = [[{'text': '📱 Open full card in app', 'web_app': {'url': u('detail')}}]]
     for row in PANELS:
@@ -563,7 +564,7 @@ def sample(st, now):
         short_name(i['name']) in q['t'] for i in ipos.get('ipos', []) if key(i['name']) in done)]
     for chat in st['chats']:
         send(chat, '🧪 TEST · new WishCo IPO alert cards\nEvery alert now comes as the app\'s IPO card. The buttons open the '
-                   'IPO Desk app (TEST v3.11.16) right on that IPO\'s panel. First time only: sign in with your email code inside Telegram.')
+                   'IPO Desk app right on that IPO\'s panel. First time only: sign in with your email code inside Telegram.')
     return deliver(st, items, now)
 
 
@@ -583,7 +584,7 @@ def main():
     st.setdefault('on', True)
     st.setdefault('mute', [])
     st.setdefault('remind', [])
-    st.setdefault('app', 'test')
+    st.pop('app', None)
 
     for chat, text, kb in commands(st, now):
         send(chat, text, kb)
