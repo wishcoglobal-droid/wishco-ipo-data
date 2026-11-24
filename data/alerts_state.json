@@ -13,20 +13,10 @@
  "chats": [
   9149037975
  ],
- "queue": [
-  {
-   "t": "📈 Shree Siddhivinayak Greentech Industries: GMP ₹10 → ₹20 · 14.1% of ₹142",
-   "now": false,
-   "h": "2026-11-24 20"
-  }
- ],
+ "queue": [],
  "quiet": "22-8",
  "on": true,
  "snap": {
-  "milestonegearsmainboard": {
-   "high": 0.0,
-   "status": "upcoming"
-  },
   "monomarkengineering": {
    "high": 0.0,
    "status": "upcoming"
@@ -143,12 +133,16 @@
    "high": 151.0,
    "status": "listed"
   },
-  "encubeethicalsmainboard": {
+  "airprotechnology": {
+   "high": 99.0,
+   "status": "upcoming"
+  },
+  "milestonegears": {
    "high": 0.0,
    "status": "upcoming"
   },
-  "airprotechnology": {
-   "high": 99.0,
+  "encubeethicals": {
+   "high": 0.0,
    "status": "upcoming"
   }
  },
@@ -185,7 +179,6 @@
   "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7833_30092026225803.zip": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/Blueocean_DRHP_DAP.zip": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/AD_IPO_7823_30092026221513.zip": "2026-11-23",
-  "new|milestonegearsmainboard": "2026-11-23",
   "new|monomarkengineering": "2026-11-23",
   "new|matangirubber": "2026-11-23",
   "new|ajpackaging": "2026-11-23",
@@ -212,17 +205,17 @@
   "anchor|core4engineers": "2026-11-23",
   "anchor|parashealthcare": "2026-11-23",
   "anchor|jioplatforms": "2026-11-23",
-  "new|encubeethicalsmainboard": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf": "2026-11-24",
   "new|airprotechnology": "2026-11-24",
   "gmp|crystalcropprotection|2026-11-24|15.50": "2026-11-24",
   "gmp|crystalcropprotection|2026-11-24|18": "2026-11-24",
   "gmp|foodlinkfbholdings|2026-11-24|17": "2026-11-24",
-  "gmp|shreesiddhivinayakgreentechindustries|2026-11-24|20": "2026-11-24"
+  "gmp|shreesiddhivinayakgreentechindustries|2026-11-24|20": "2026-11-24",
+  "new|milestonegears": "2026-11-23",
+  "new|encubeethicals": "2026-11-23"
  },
  "gmp": {
-  "milestonegearsmainboard": 0.0,
   "monomarkengineering": 23.0,
   "matangirubber": 21.5,
   "ajpackaging": 20.0,
@@ -231,10 +224,15 @@
   "watranarentals": 40.0,
   "mahanadicoalfields": 0.0,
   "crystalcropprotection": 18.0,
-  "encubeethicalsmainboard": 0.0,
-  "airprotechnology": 0.0
+  "airprotechnology": 0.0,
+  "milestonegears": 0.0,
+  "encubeethicals": 0.0
  },
  "seeded": true,
  "offset": 684628599,
- "owner": 9149037975
+ "owner": 9149037975,
+ "mute": [],
+ "remind": [],
+ "app": "test",
+ "v2": "2026-11-24 21:11"
 }
