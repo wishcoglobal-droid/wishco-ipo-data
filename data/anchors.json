@@ -1,15 +1,9 @@
 {
- "updated": "24 Nov 2026, 13:41 IST",
+ "updated": "24 Nov 2026, 14:58 IST",
  "src": "chittorgarh.com anchor allocation tables",
- "reads": 21,
+ "reads": 12,
  "log": [
-  "TNA Solutions: totals do not match ({'rows': 2, 'shares': 434000, 'cr': 3.04, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Bench Mark Infotech Services: totals do not match ({'rows': 2, 'shares': 184800, 'cr': 2.03, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Acme Universal Safezone 9: totals do not match ({'rows': 2, 'shares': 958400, 'cr': 6.8, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Vans Electroengineerings: totals do not match ({'rows': 2, 'shares': 633600, 'cr': 7.47, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Shree TNB Polymers: totals do not match ({'rows': 2, 'shares': 666000, 'cr': 3.53, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Black Opal Consultants: totals do not match ({'rows': 2, 'shares': 333000, 'cr': 6.56, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})",
-  "Acme India Industries: totals do not match ({'rows': 2, 'shares': 791400, 'cr': 15.51, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})"
+  "EverestIMS Technologies: totals do not match ({'rows': 2, 'shares': 1494400, 'cr': 12.71, 'total_shares': None, 'total_cr': None, 'shares_match': False, 'cr_match': False, 'rows_off': []})"
  ],
  "ipos": {
   "3247": {
@@ -803,7 +797,7 @@
    "board": "SME",
    "key": "shreesiddhivinayakgreentechindustries",
    "url": "https://www.chittorgarh.com/ipo_subscription/shree-siddhivinayak-greentech-industries-ipo/3195/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "found": false
@@ -2439,7 +2433,7 @@
    "board": "Mainboard",
    "key": "matangirubber",
    "url": "https://www.chittorgarh.com/ipo_subscription/matangi-rubber-ipo/3136/",
-   "t": 1795507881,
+   "t": 1795512520,
    "found": false,
    "open": "2026-12-01",
    "close": "2026-12-03"
@@ -2743,7 +2737,7 @@
    "board": "SME",
    "key": "ajpackaging",
    "url": "https://www.chittorgarh.com/ipo_subscription/a-j-packaging-ipo/2978/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "found": false
@@ -2755,7 +2749,7 @@
    "board": "Mainboard",
    "key": "monomarkengineering",
    "url": "https://www.chittorgarh.com/ipo_subscription/monomark-engineering-ipo/2972/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "found": false
@@ -3233,7 +3227,7 @@
    "board": "Mainboard",
    "key": "integrismedtech",
    "url": "https://www.chittorgarh.com/ipo_subscription/integris-medtech-ipo/2774/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-11-27",
    "close": "2026-12-01",
    "found": false
@@ -3925,7 +3919,7 @@
    "board": "Mainboard",
    "key": "foodlinkfbholdings",
    "url": "https://www.chittorgarh.com/ipo_subscription/foodlink-fb-ipo/2493/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "found": false
@@ -4763,430 +4757,81 @@
    "board": "SME",
    "key": "airprotechnology",
    "url": "https://www.chittorgarh.com/ipo_subscription/airpro-technology-ipo/3161/",
-   "t": 1795507881,
+   "t": 1795512520,
    "open": "2026-11-27",
    "close": "2026-12-01",
    "found": false
   },
-  "3216": {
-   "slug": "tna-solutions-ipo",
-   "id": "3216",
-   "name": "TNA Solutions",
+  "2703": {
+   "slug": "sjp-ultrasonic-ipo",
+   "id": "2703",
+   "name": "SJP Ultrasonics",
    "board": "SME",
-   "key": "tnasolutions",
-   "url": "https://www.chittorgarh.com/ipo_subscription/tna-solutions-ipo/3216/",
-   "t": 1795507881,
+   "key": "sjpultrasonics",
+   "url": "https://www.chittorgarh.com/ipo_subscription/sjp-ultrasonic-ipo/2703/",
+   "t": 1795512520,
    "open": "2026-09-30",
-   "close": "2026-10-06",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "29 Sep",
-   "bid": "2026-09-29",
-   "price": 70.0,
-   "lock30_shares": 768000,
-   "lock90_shares": 768000,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 434000,
-    "cr": 3.04,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 3.04,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "2 small funds (CP Capital, Generational Capital) got ₹3.04 cr (100.00%); they may sell early. The rest are known names.",
-   "weak_pct": 100.0,
-   "rows": [
-    [
-     "CP CAPITAL LTD.",
-     "f",
-     1.53,
-     218000,
-     "CP CAPITAL"
-    ],
-    [
-     "GENERATIONAL CAPITAL BREAKOUT TRUST",
-     "f",
-     1.51,
-     216000,
-     "GENERATIONAL"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "CP CAPITAL LTD.",
-    "GENERATIONAL CAPITAL BREAKOUT TRUST"
-   ],
-   "more": 0,
-   "lock": [
-    "7 Nov",
-    "6 Jan"
-   ]
+   "close": "2026-10-05",
+   "found": false
   },
-  "3212": {
-   "slug": "bench-mark-infotech-services-ipo",
-   "id": "3212",
-   "name": "Bench Mark Infotech Services",
+  "2695": {
+   "slug": "shivchem-agro-ipo",
+   "id": "2695",
+   "name": "Shivchem Agro",
    "board": "SME",
-   "key": "benchmarkinfotechservices",
-   "url": "https://www.chittorgarh.com/ipo_subscription/bench-mark-infotech-services-ipo/3212/",
-   "t": 1795507881,
-   "open": "2026-09-25",
-   "close": "2026-09-29",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "24 Sep",
-   "bid": "2026-09-24",
-   "price": 110.0,
-   "lock30_shares": 548400,
-   "lock90_shares": 548400,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 184800,
-    "cr": 2.03,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 2.03,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "2 small funds (Vikasa India, Vcube Ventures) got ₹2.03 cr (100.00%); they may sell early. The rest are known names.",
-   "weak_pct": 100.0,
-   "rows": [
-    [
-     "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
-     "f",
-     1.03,
-     93600,
-     "VIKASA"
-    ],
-    [
-     "VCUBE VENTURES INVESTMENT TRUST-V-CUBE VENTURES SCHEME I",
-     "f",
-     1.0,
-     91200,
-     "VBCUBE"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "VIKASA INDIA EIF I FUND-INCUBE GLOBAL OPPORTUNITIES",
-    "VCUBE VENTURES INVESTMENT TRUST-V-CUBE VENTURES SCHEME I"
-   ],
-   "more": 0,
-   "lock": [
-    "29 Oct",
-    "28 Dec"
-   ]
-  },
-  "3206": {
-   "slug": "acme-universal-safezone-9-ipo",
-   "id": "3206",
-   "name": "Acme Universal Safezone 9",
-   "board": "SME",
-   "key": "acmeuniversalsafezone9",
-   "url": "https://www.chittorgarh.com/ipo_subscription/acme-universal-safezone-9-ipo/3206/",
-   "t": 1795507881,
+   "key": "shivchemagro",
+   "url": "https://www.chittorgarh.com/ipo_subscription/shivchem-agro-ipo/2695/",
+   "t": 1795512520,
    "open": "2026-09-28",
    "close": "2026-09-30",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "25 Sep",
-   "bid": "2026-09-25",
-   "price": 71.0,
-   "lock30_shares": 719200,
-   "lock90_shares": 719200,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 958400,
-    "cr": 6.8,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 6.8,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "2 small funds (Viney Growth, Innovative Vision) got ₹6.80 cr (100.00%); they may sell early. The rest are known names.",
-   "weak_pct": 100.0,
-   "rows": [
-    [
-     "VINEY GROWTH FUND",
-     "f",
-     3.96,
-     558400,
-     "VINEY"
-    ],
-    [
-     "INNOVATIVE VISION FUND",
-     "f",
-     2.84,
-     400000,
-     "INNOVATIVE VISION"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "VINEY GROWTH FUND",
-    "INNOVATIVE VISION FUND"
-   ],
-   "more": 0,
-   "lock": [
-    "1 Nov",
-    "31 Dec"
-   ]
+   "found": false
   },
-  "3197": {
-   "slug": "vans-electroengineerings-ipo",
-   "id": "3197",
-   "name": "Vans Electroengineerings",
+  "2424": {
+   "slug": "dove-soft-ipo",
+   "id": "2424",
+   "name": "Dove Soft",
    "board": "SME",
-   "key": "vanselectroengineerings",
-   "url": "https://www.chittorgarh.com/ipo_subscription/vans-electroengineerings-ipo/3197/",
-   "t": 1795507881,
-   "open": "2026-09-29",
-   "close": "2026-10-01",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "28 Sep",
-   "bid": "2026-09-28",
-   "price": 118.0,
-   "lock30_shares": 402000,
-   "lock90_shares": 402000,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 633600,
-    "cr": 7.47,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 7.47,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "2 small funds (Mint Focused, India Max Investment) got ₹7.47 cr (100.00%); they may sell early. The rest are known names.",
-   "weak_pct": 100.0,
-   "rows": [
-    [
-     "MINT FOCUSED GROWTH FUND PCC-CELL 1",
-     "f",
-     4.47,
-     379200,
-     "MINT FOCUSED"
-    ],
-    [
-     "INDIA MAX INVESTMENT FUND LTD.",
-     "f",
-     3.0,
-     254400,
-     "INDIA MAX INVESTMENT FUND"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "MINT FOCUSED GROWTH FUND PCC-CELL 1",
-    "INDIA MAX INVESTMENT FUND LTD."
-   ],
-   "more": 0,
-   "lock": [
-    "3 Nov",
-    "2 Jan"
-   ]
-  },
-  "3194": {
-   "slug": "omara-ventures-india-ipo",
-   "id": "3194",
-   "name": "Omara Ventures India",
-   "board": "SME",
-   "key": "omaraventures",
-   "url": "https://www.chittorgarh.com/ipo_subscription/omara-ventures-india-ipo/3194/",
-   "t": 1795507881,
+   "key": "dovesoft",
+   "url": "https://www.chittorgarh.com/ipo_subscription/dove-soft-ipo/2424/",
+   "t": 1795512520,
    "open": "2026-09-30",
    "close": "2026-10-05",
    "found": false
   },
-  "3138": {
-   "slug": "rkfashion-accessories-ipo",
-   "id": "3138",
-   "name": "R.K.Fashion Accessories",
+  "2197": {
+   "slug": "pind-hospitality-ipo",
+   "id": "2197",
+   "name": "Pind Hospitality",
    "board": "SME",
-   "key": "rkfashionaccessories",
-   "url": "https://www.chittorgarh.com/ipo_subscription/rkfashion-accessories-ipo/3138/",
-   "t": 1795507881,
-   "open": "2026-10-05",
-   "close": "2026-10-07",
-   "found": false
-  },
-  "3095": {
-   "slug": "shree-tnb-polymers-ipo",
-   "id": "3095",
-   "name": "Shree TNB Polymers",
-   "board": "SME",
-   "key": "shreetnbpolymers",
-   "url": "https://www.chittorgarh.com/ipo_subscription/shree-tnb-polymers-ipo/3095/",
-   "t": 1795507881,
+   "key": "pindhospitality",
+   "url": "https://www.chittorgarh.com/ipo_subscription/pind-hospitality-ipo/2197/",
+   "t": 1795512520,
    "open": "2026-09-28",
+   "close": "2026-09-30",
+   "found": false
+  },
+  "2063": {
+   "slug": "everestims-technologies-ipo",
+   "id": "2063",
+   "name": "EverestIMS Technologies",
+   "board": "SME",
+   "key": "everestimstechnologies",
+   "url": "https://www.chittorgarh.com/ipo_subscription/everestims-technologies-ipo/2063/",
+   "t": 1795512520,
+   "open": "2026-09-29",
    "close": "2026-10-05",
    "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "25 Sep",
-   "bid": "2026-09-25",
-   "price": 53.0,
-   "lock30_shares": 853000,
-   "lock90_shares": 853000,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 666000,
-    "cr": 3.53,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 3.53,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "2 small funds (Nexus Global, Generational Capital) got ₹3.53 cr (100.00%); they may sell early. The rest are known names.",
-   "weak_pct": 100.0,
-   "rows": [
-    [
-     "GENERATIONAL CAPITAL BREAKOUT FUND I",
-     "f",
-     2.0,
-     378000,
-     "GENERATIONAL"
-    ],
-    [
-     "NEXUS GLOBAL OPPORTUNITIES FUND",
-     "f",
-     1.53,
-     288000,
-     "NEXUS"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "GENERATIONAL CAPITAL BREAKOUT FUND I",
-    "NEXUS GLOBAL OPPORTUNITIES FUND"
-   ],
-   "more": 0,
-   "lock": [
-    "4 Nov",
-    "3 Jan"
-   ]
-  },
-  "3086": {
-   "slug": "sollfege-smart-electronics-ipo",
-   "id": "3086",
-   "name": "Sollfege Smart Electronics",
-   "board": "SME",
-   "key": "sollfegesmartelectronics",
-   "url": "https://www.chittorgarh.com/ipo_subscription/sollfege-smart-electronics-ipo/3086/",
-   "t": 1795507881,
-   "open": "2026-09-30",
-   "close": "2026-10-05",
-   "found": false
-  },
-  "3006": {
-   "slug": "eventions-ipo",
-   "id": "3006",
-   "name": "Eventions",
-   "board": "SME",
-   "key": "eventions",
-   "url": "https://www.chittorgarh.com/ipo_subscription/eventions-ipo/3006/",
-   "t": 1795507881,
-   "open": "2026-09-30",
-   "close": "2026-10-05",
-   "found": false
-  },
-  "2974": {
-   "slug": "nityas-gems-jewellery-ipo",
-   "id": "2974",
-   "name": "Nityas Gems & Jewellery",
-   "board": "Mainboard",
-   "key": "nityasgemsjewellery",
-   "url": "https://www.chittorgarh.com/ipo_subscription/nityas-gems-jewellery-ipo/2974/",
-   "t": 1795507881,
-   "open": "2026-09-30",
-   "close": "2026-10-05",
-   "found": false
-  },
-  "2823": {
-   "slug": "papadmalji-agro-foods-ipo",
-   "id": "2823",
-   "name": "Papadmalji Agro Foods",
-   "board": "SME",
-   "key": "papadmaljiagrofoods",
-   "url": "https://www.chittorgarh.com/ipo_subscription/papadmalji-agro-foods-ipo/2823/",
-   "t": 1795507881,
-   "open": "2026-09-29",
-   "close": "2026-10-01",
-   "found": false
-  },
-  "2798": {
-   "slug": "black-opal-consultants-ipo",
-   "id": "2798",
-   "name": "Black Opal Consultants",
-   "board": "SME",
-   "key": "blackopalconsultants",
-   "url": "https://www.chittorgarh.com/ipo_subscription/black-opal-consultants-ipo/2798/",
-   "t": 1795507881,
-   "open": "2026-09-29",
-   "close": "2026-10-01",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
+   "read": "24 Nov 2026, 14:58 IST",
    "date": "28 Sep",
    "bid": "2026-09-28",
-   "price": 197.0,
-   "lock30_shares": 398100,
-   "lock90_shares": 398100,
+   "price": 85.0,
+   "lock30_shares": 806400,
+   "lock90_shares": 806400,
    "ok": false,
    "check": {
     "rows": 2,
-    "shares": 333000,
-    "cr": 6.56,
+    "shares": 1494400,
+    "cr": 12.71,
     "total_shares": null,
     "total_cr": null,
     "shares_match": false,
@@ -5194,118 +4839,41 @@
     "rows_off": []
    },
    "n": 2,
-   "amt": 6.56,
+   "amt": 12.71,
    "mf": 0.0,
    "ins": 0.0,
    "schemes": "No mutual fund",
    "tier": 0,
    "tierWhy": "No large mutual fund, insurer or global fund",
    "flags": 6,
-   "flagWhy": "2 small funds (Venus Investments, Radiant Global) got ₹6.56 cr (100.00%); they may sell early. The rest are known names.",
+   "flagWhy": "2 small funds (Nine Alps, Vira AIF) got ₹12.71 cr (100.00%); they may sell early. The rest are known names.",
    "weak_pct": 100.0,
    "rows": [
     [
-     "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
+     "NINE ALPS TRUST-NINE ALPS OPPORTUNITY FUND",
      "f",
-     3.76,
-     190800,
-     "VENUS INVESTMENTS"
+     11.7,
+     1376000,
+     "NINE ALPS"
     ],
     [
-     "RADIANT GLOBAL FUND-CLASS B PARTICIPATING SHARES",
+     "VIRA AIF TRUST-VIRA BHARAT OPPORTUNITIES FUND",
      "f",
-     2.8,
-     142200,
-     "RADIANT GLOBAL"
+     1.01,
+     118400,
+     "VIRA"
     ]
    ],
    "mfN": [],
    "fo": [
-    "VENUS INVESTMENTS VCC-VENUS STELLAR FUND",
-    "RADIANT GLOBAL FUND-CLASS B PARTICIPATING SHARES"
-   ],
-   "more": 0,
-   "lock": [
-    "4 Nov",
-    "4 Jan"
-   ]
-  },
-  "2748": {
-   "slug": "acme-india-industries-ipo",
-   "id": "2748",
-   "name": "Acme India Industries",
-   "board": "SME",
-   "key": "acmeindustries",
-   "url": "https://www.chittorgarh.com/ipo_subscription/acme-india-industries-ipo/2748/",
-   "t": 1795507881,
-   "open": "2026-09-30",
-   "close": "2026-10-06",
-   "found": true,
-   "read": "24 Nov 2026, 13:41 IST",
-   "date": "29 Sep",
-   "bid": "2026-09-29",
-   "price": 196.0,
-   "lock30_shares": 882900,
-   "lock90_shares": 882900,
-   "ok": false,
-   "check": {
-    "rows": 2,
-    "shares": 791400,
-    "cr": 15.51,
-    "total_shares": null,
-    "total_cr": null,
-    "shares_match": false,
-    "cr_match": false,
-    "rows_off": []
-   },
-   "n": 2,
-   "amt": 15.51,
-   "mf": 0.0,
-   "ins": 0.0,
-   "schemes": "No mutual fund",
-   "tier": 0,
-   "tierWhy": "No large mutual fund, insurer or global fund",
-   "flags": 6,
-   "flagWhy": "1 small fund (Sanshi) got ₹7.01 cr (45.20%); they may sell early. The rest are known names.",
-   "weak_pct": 45.2,
-   "rows": [
-    [
-     "MOTILAL OSWAL FINVEST LTD.",
-     "f",
-     8.5,
-     433800,
-     "MOTILAL OSWAL"
-    ],
-    [
-     "SANSHI FUND-I",
-     "f",
-     7.01,
-     357600,
-     "SANSHI"
-    ]
-   ],
-   "mfN": [],
-   "fo": [
-    "MOTILAL OSWAL FINVEST LTD.",
-    "SANSHI FUND-I"
+    "NINE ALPS TRUST-NINE ALPS OPPORTUNITY FUND",
+    "VIRA AIF TRUST-VIRA BHARAT OPPORTUNITIES FUND"
    ],
    "more": 0,
    "lock": [
     "5 Nov",
     "4 Jan"
    ]
-  },
-  "2743": {
-   "slug": "paramount-syntex-ipo",
-   "id": "2743",
-   "name": "Paramount Syntex",
-   "board": "SME",
-   "key": "paramountsyntex",
-   "url": "https://www.chittorgarh.com/ipo_subscription/paramount-syntex-ipo/2743/",
-   "t": 1795507881,
-   "open": "2026-09-30",
-   "close": "2026-10-06",
-   "found": false
   }
  }
 }
