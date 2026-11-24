@@ -1,12 +1,21 @@
 {
- "updated": "24 Nov 2026, 06:35 IST",
+ "updated": "24 Nov 2026, 07:46 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 1,
+  "NSE announcements": 105,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-24 07:09",
+   "company": "Coal India Limited",
+   "text": "Disclosure under Regulation 30 of Securities and Exchange Board of India(Listing Obligations and Disclosure Requirements) Regulations, 2015 ( ListingRegulations ) Initial public o&#64256;ering ( IPO ) of equity shares of face value &#8377; 2 each( Equity Shares ) of Mahanadi Coalfield Limited, a sub",
+   "url": "https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": true
+  },
   {
    "at": "2026-11-23 00:00",
    "company": "Crystal Crop Protection Limited",

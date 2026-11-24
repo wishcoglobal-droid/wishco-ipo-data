@@ -23,6 +23,11 @@
    "t": "📄 Prospectus filed: Crystal Crop Protection — 2026-11-23",
    "now": true,
    "h": "2026-11-23 23"
+  },
+  {
+   "t": "📄 IPO document filed: Coal India (parent quota watch) — 2026-11-24",
+   "now": true,
+   "h": "2026-11-24 07"
   }
  ],
  "quiet": "22-8",
@@ -214,7 +219,8 @@
   "anchor|parashealthcare": "2026-11-23",
   "anchor|jioplatforms": "2026-11-23",
   "new|encubeethicalsmainboard": "2026-11-23",
-  "filing|https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf": "2026-11-23"
+  "filing|https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf": "2026-11-23",
+  "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf": "2026-11-24"
  },
  "gmp": {
   "milestonegearsmainboard": 0.0,
