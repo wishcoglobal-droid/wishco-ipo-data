@@ -15,9 +15,9 @@
  ],
  "queue": [
   {
-   "t": "📈 Foodlink F&B Holdings (India): GMP ₹15 → ₹17 · 8.9% of ₹191",
+   "t": "📈 Shree Siddhivinayak Greentech Industries: GMP ₹10 → ₹20 · 14.1% of ₹142",
    "now": false,
-   "h": "2026-11-24 19"
+   "h": "2026-11-24 20"
   }
  ],
  "quiet": "22-8",
@@ -218,7 +218,8 @@
   "new|airprotechnology": "2026-11-24",
   "gmp|crystalcropprotection|2026-11-24|15.50": "2026-11-24",
   "gmp|crystalcropprotection|2026-11-24|18": "2026-11-24",
-  "gmp|foodlinkfbholdings|2026-11-24|17": "2026-11-24"
+  "gmp|foodlinkfbholdings|2026-11-24|17": "2026-11-24",
+  "gmp|shreesiddhivinayakgreentechindustries|2026-11-24|20": "2026-11-24"
  },
  "gmp": {
   "milestonegearsmainboard": 0.0,
@@ -226,7 +227,7 @@
   "matangirubber": 21.5,
   "ajpackaging": 20.0,
   "foodlinkfbholdings": 17.0,
-  "shreesiddhivinayakgreentechindustries": 10.0,
+  "shreesiddhivinayakgreentechindustries": 20.0,
   "watranarentals": 40.0,
   "mahanadicoalfields": 0.0,
   "crystalcropprotection": 18.0,
