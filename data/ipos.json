@@ -1,6 +1,6 @@
 {
- "updated": "24 Nov 2026, 07:46 IST",
- "checked": "24 Nov 2026, 07:46 IST",
+ "updated": "24 Nov 2026, 08:44 IST",
+ "checked": "24 Nov 2026, 08:44 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -41,7 +41,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -61,7 +61,7 @@
     "allot": "2026-12-07",
     "listing": "2026-12-09"
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -102,7 +102,7 @@
      }
     }
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "A J Packaging Ltd.",
@@ -143,7 +143,36 @@
      }
     }
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
+  },
+  {
+   "name": "Airpro Technology India Ltd",
+   "board": "SME",
+   "exch": "NSE SME",
+   "gmp": 0.0,
+   "open": "2026-11-27",
+   "close": "2026-12-01",
+   "listing": "2026-12-04",
+   "low": 99.0,
+   "high": 99.0,
+   "status": "upcoming",
+   "id": "1455",
+   "url": "https://www.ipopremium.in/view/ipo/1455/airpro-technology-india-ltd",
+   "det": {
+    "lot": 1200,
+    "issue_cr": 35.64,
+    "allot": "2026-12-02",
+    "listing": "2026-12-04",
+    "mins": {
+     "r": {
+      "lots": 2,
+      "shares": 2400,
+      "amount": 237600.0,
+      "label": "Individual"
+     }
+    }
+   },
+   "det_t": 1795490071
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -184,7 +213,7 @@
      }
     }
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -225,7 +254,7 @@
      }
     }
    },
-   "det_t": 1795486596
+   "det_t": 1795490071
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -410,20 +439,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
   },
   {
-   "name": "SFC Environmental Technologies Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": 15.5,
-   "open": "2026-10-27",
-   "close": "2026-10-29",
-   "listing": "2026-11-03",
-   "low": 313.0,
-   "high": 330.0,
-   "status": "listed",
-   "id": "1412",
-   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd"
-  },
-  {
    "name": "BLS Polymers Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -436,6 +451,20 @@
    "status": "listed",
    "id": "1414",
    "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd"
+  },
+  {
+   "name": "SFC Environmental Technologies Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 15.5,
+   "open": "2026-10-27",
+   "close": "2026-10-29",
+   "listing": "2026-11-03",
+   "low": 313.0,
+   "high": 330.0,
+   "status": "listed",
+   "id": "1412",
+   "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd"
   },
   {
    "name": "Wiscon Industries Ltd",
@@ -534,20 +563,6 @@
    "status": "listed",
    "id": "1411",
    "url": "https://www.ipopremium.in/view/ipo/1411/tonbo-imaging-india-ltd"
-  },
-  {
-   "name": "Zetwerk Manufacturing Ltd.",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": 1.2,
-   "open": "2026-10-15",
-   "close": "2026-10-19",
-   "listing": "2026-10-23",
-   "low": 143.0,
-   "high": 151.0,
-   "status": "listed",
-   "id": "1417",
-   "url": "https://www.ipopremium.in/view/ipo/1417/zetwerk-manufacturing-ltd"
   }
  ]
 }

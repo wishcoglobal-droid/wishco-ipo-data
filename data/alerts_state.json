@@ -13,23 +13,7 @@
  "chats": [
   9149037975
  ],
- "queue": [
-  {
-   "t": "🆕 New IPO: Encube Ethicals Ltd. (Mainboard) (Mainboard) · opens 3 Dec · closes 7 Dec",
-   "now": true,
-   "h": "2026-11-23 22"
-  },
-  {
-   "t": "📄 Prospectus filed: Crystal Crop Protection — 2026-11-23",
-   "now": true,
-   "h": "2026-11-23 23"
-  },
-  {
-   "t": "📄 IPO document filed: Coal India (parent quota watch) — 2026-11-24",
-   "now": true,
-   "h": "2026-11-24 07"
-  }
- ],
+ "queue": [],
  "quiet": "22-8",
  "on": true,
  "snap": {
@@ -156,6 +140,10 @@
   "encubeethicalsmainboard": {
    "high": 0.0,
    "status": "upcoming"
+  },
+  "airprotechnology": {
+   "high": 99.0,
+   "status": "upcoming"
   }
  },
  "sent": {
@@ -220,7 +208,8 @@
   "anchor|jioplatforms": "2026-11-23",
   "new|encubeethicalsmainboard": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf": "2026-11-23",
-  "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf": "2026-11-24"
+  "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf": "2026-11-24",
+  "new|airprotechnology": "2026-11-24"
  },
  "gmp": {
   "milestonegearsmainboard": 0.0,
@@ -232,7 +221,8 @@
   "watranarentals": 40.0,
   "mahanadicoalfields": 0.0,
   "crystalcropprotection": 14.0,
-  "encubeethicalsmainboard": 0.0
+  "encubeethicalsmainboard": 0.0,
+  "airprotechnology": 0.0
  },
  "seeded": true,
  "offset": 684628599,
