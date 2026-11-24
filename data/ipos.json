@@ -1,6 +1,6 @@
 {
- "updated": "24 Nov 2026, 23:06 IST",
- "checked": "24 Nov 2026, 23:06 IST",
+ "updated": "25 Nov 2026, 00:07 IST",
+ "checked": "25 Nov 2026, 00:07 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -41,7 +41,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -57,11 +57,32 @@
    "id": "1451",
    "url": "https://www.ipopremium.in/view/ipo/1451/monomark-engineering",
    "det": {
-    "issue_cr": 0.0,
+    "lot": 225,
+    "issue_cr": 175.5,
     "allot": "2026-12-07",
-    "listing": "2026-12-09"
+    "listing": "2026-12-09",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 225,
+      "amount": 14625.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 3150,
+      "amount": 204750.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 69,
+      "shares": 15525,
+      "amount": 1009125.0,
+      "label": "bHNI"
+     }
+    }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -102,13 +123,13 @@
      }
     }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "A J Packaging Ltd.",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 200.0,
+   "gmp": 198.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -143,7 +164,7 @@
      }
     }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -172,7 +193,7 @@
      }
     }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -213,7 +234,7 @@
      }
     }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -225,7 +246,7 @@
    "listing": "2026-12-02",
    "low": 130.0,
    "high": 142.0,
-   "status": "upcoming",
+   "status": "open",
    "id": "1444",
    "url": "https://www.ipopremium.in/view/ipo/1444/shree-siddhivinayak-greentech-industries-ltd",
    "det": {
@@ -254,7 +275,7 @@
      }
     }
    },
-   "det_t": 1795541783
+   "det_t": 1795545458
   },
   {
    "name": "Watrana Rentals Ltd",
