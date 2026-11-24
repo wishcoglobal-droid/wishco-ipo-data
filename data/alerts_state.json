@@ -13,7 +13,72 @@
  "chats": [
   9149037975
  ],
- "queue": [],
+ "queue": [
+  {
+   "t": "📈 Matangi Rubber: GMP ₹21.50 → ₹193.50 · 112.5% of ₹172",
+   "e": "GMP ₹21.50 → ₹193.50",
+   "c": "matangirubber",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 A J Packaging: GMP ₹20 → ₹200 · 111.1% of ₹180",
+   "e": "GMP ₹20 → ₹200",
+   "c": "ajpackaging",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Airpro Technology India: GMP ₹0 → ₹99 · 100.0% of ₹99",
+   "e": "GMP ₹0 → ₹99",
+   "c": "airprotechnology",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Foodlink F&B Holdings (India): GMP ₹17 → ₹211 · 110.5% of ₹191",
+   "e": "GMP ₹17 → ₹211",
+   "c": "foodlinkfbholdings",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Shree Siddhivinayak Greentech Industries: GMP ₹20 → ₹162 · 114.1% of ₹142",
+   "e": "GMP ₹20 → ₹162",
+   "c": "shreesiddhivinayakgreentechindustries",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Watrana Rentals: GMP ₹40 → ₹285 · 116.3% of ₹245",
+   "e": "GMP ₹40 → ₹285",
+   "c": "watranarentals",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Mahanadi Coalfields: GMP ₹0 → ₹136 · 100.0% of ₹136",
+   "e": "GMP ₹0 → ₹136",
+   "c": "mahanadicoalfields",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  },
+  {
+   "t": "📈 Crystal Crop Protection: GMP ₹18 → ₹290 · 106.6% of ₹272",
+   "e": "GMP ₹18 → ₹290",
+   "c": "crystalcropprotection",
+   "now": false,
+   "h": "2026-11-24 22",
+   "sub": null
+  }
+ ],
  "quiet": "22-8",
  "on": true,
  "snap": {
@@ -213,18 +278,26 @@
   "gmp|foodlinkfbholdings|2026-11-24|17": "2026-11-24",
   "gmp|shreesiddhivinayakgreentechindustries|2026-11-24|20": "2026-11-24",
   "new|milestonegears": "2026-11-23",
-  "new|encubeethicals": "2026-11-23"
+  "new|encubeethicals": "2026-11-23",
+  "gmp|matangirubber|2026-11-24|193.50": "2026-11-24",
+  "gmp|ajpackaging|2026-11-24|200": "2026-11-24",
+  "gmp|airprotechnology|2026-11-24|99": "2026-11-24",
+  "gmp|foodlinkfbholdings|2026-11-24|211": "2026-11-24",
+  "gmp|shreesiddhivinayakgreentechindustries|2026-11-24|162": "2026-11-24",
+  "gmp|watranarentals|2026-11-24|285": "2026-11-24",
+  "gmp|mahanadicoalfields|2026-11-24|136": "2026-11-24",
+  "gmp|crystalcropprotection|2026-11-24|290": "2026-11-24"
  },
  "gmp": {
   "monomarkengineering": 23.0,
-  "matangirubber": 21.5,
-  "ajpackaging": 20.0,
-  "foodlinkfbholdings": 17.0,
-  "shreesiddhivinayakgreentechindustries": 20.0,
-  "watranarentals": 40.0,
-  "mahanadicoalfields": 0.0,
-  "crystalcropprotection": 18.0,
-  "airprotechnology": 0.0,
+  "matangirubber": 193.5,
+  "ajpackaging": 200.0,
+  "foodlinkfbholdings": 211.0,
+  "shreesiddhivinayakgreentechindustries": 162.0,
+  "watranarentals": 285.0,
+  "mahanadicoalfields": 136.0,
+  "crystalcropprotection": 290.0,
+  "airprotechnology": 99.0,
   "milestonegears": 0.0,
   "encubeethicals": 0.0
  },
