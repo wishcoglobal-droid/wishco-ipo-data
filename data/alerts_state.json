@@ -13,7 +13,13 @@
  "chats": [
   9149037975
  ],
- "queue": [],
+ "queue": [
+  {
+   "t": "📈 Crystal Crop Protection: GMP ₹14 → ₹15.50 · 5.7% of ₹272",
+   "now": false,
+   "h": "2026-11-24 13"
+  }
+ ],
  "quiet": "22-8",
  "on": true,
  "snap": {
@@ -209,7 +215,8 @@
   "new|encubeethicalsmainboard": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/FP_INE101P01016_23NOV2026.pdf": "2026-11-23",
   "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf": "2026-11-24",
-  "new|airprotechnology": "2026-11-24"
+  "new|airprotechnology": "2026-11-24",
+  "gmp|crystalcropprotection|2026-11-24|15.50": "2026-11-24"
  },
  "gmp": {
   "milestonegearsmainboard": 0.0,
@@ -220,7 +227,7 @@
   "shreesiddhivinayakgreentechindustries": 10.0,
   "watranarentals": 40.0,
   "mahanadicoalfields": 0.0,
-  "crystalcropprotection": 14.0,
+  "crystalcropprotection": 15.5,
   "encubeethicalsmainboard": 0.0,
   "airprotechnology": 0.0
  },
