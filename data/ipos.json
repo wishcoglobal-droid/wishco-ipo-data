@@ -1,6 +1,6 @@
 {
- "updated": "25 Nov 2026, 09:04 IST",
- "checked": "25 Nov 2026, 09:04 IST",
+ "updated": "25 Nov 2026, 10:20 IST",
+ "checked": "25 Nov 2026, 10:20 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -41,13 +41,13 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Monomark Engineering (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 88.0,
+   "gmp": 86.0,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
@@ -82,7 +82,7 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -123,7 +123,7 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "A J Packaging Ltd.",
@@ -164,7 +164,7 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -193,13 +193,13 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 212.0,
+   "gmp": 215.0,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
@@ -234,7 +234,7 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -255,17 +255,17 @@
     "allot": "2026-11-30",
     "listing": "2026-12-02",
     "mins": {
-     "r": {
-      "lots": 2,
-      "shares": 2000,
-      "amount": 284000.0,
-      "label": "Individual"
-     },
      "s": {
       "lots": 3,
       "shares": 3000,
       "amount": 426000.0,
       "label": "sHNI"
+     },
+     "r": {
+      "lots": 2,
+      "shares": 2000,
+      "amount": 284000.0,
+      "label": "Individual"
      },
      "b": {
       "lots": 8,
@@ -275,7 +275,7 @@
      }
     }
    },
-   "det_t": 1795577651
+   "det_t": 1795582252
   },
   {
    "name": "Watrana Rentals Ltd",
