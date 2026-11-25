@@ -28,12 +28,18 @@ jobs:
         run: python engine/ipos.py || true
       - name: Anchor books
         run: python engine/anchors.py || true
+      - name: Buybacks
+        run: python engine/buyback.py || true
       - name: Picture tool for alert cards
         run: pip install -q pillow || true
       - name: Telegram alerts
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python engine/alerts.py || true
+      - name: Buyback alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python engine/bbalerts.py || true
       - name: Save
         run: |
           git config user.name "ipo-desk-bot"

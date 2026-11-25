@@ -26,7 +26,8 @@ API = 'https://api.telegram.org/bot%s/' % TOKEN
 
 RULES = [('filing', 'New DRHP / RHP filing'), ('new', 'New IPO'), ('price', 'Price band announced'),
          ('anchor', 'Anchor book in'), ('close', 'Closing day + hourly subscription'), ('allot', 'Allotment day'),
-         ('list', 'Listing day'), ('gmp', 'GMP move 10%+ (hourly)'), ('stale', 'Data source stopped')]
+         ('list', 'Listing day'), ('gmp', 'GMP move 10%+ (hourly)'), ('stale', 'Data source stopped'),
+         ('buyback', 'Buyback alerts')]
 LABEL = dict(RULES)
 QUIETS = ['22-8', '23-7', '21-9', 'off']
 
