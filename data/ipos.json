@@ -1,6 +1,6 @@
 {
- "updated": "25 Nov 2026, 17:54 IST",
- "checked": "25 Nov 2026, 17:54 IST",
+ "updated": "25 Nov 2026, 19:23 IST",
+ "checked": "25 Nov 2026, 19:23 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -41,7 +41,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -82,13 +82,13 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Matangi Rubber Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 193.5,
+   "gmp": 199.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -123,7 +123,7 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "A J Packaging Ltd.",
@@ -164,7 +164,7 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -193,13 +193,13 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 218.0,
+   "gmp": 214.0,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
@@ -234,7 +234,7 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -275,7 +275,7 @@
      }
     }
    },
-   "det_t": 1795609441
+   "det_t": 1795614778
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -309,7 +309,7 @@
    "name": "Crystal Crop Protection Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 290.0,
+   "gmp": 289.0,
    "open": "2026-11-18",
    "close": "2026-11-20",
    "listing": "2026-11-26",

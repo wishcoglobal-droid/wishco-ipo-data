@@ -1,12 +1,21 @@
 {
- "updated": "25 Nov 2026, 17:53 IST",
+ "updated": "25 Nov 2026, 19:22 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 764,
+  "NSE announcements": 960,
   "NSE offer documents": 16
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-25 00:00",
+   "company": "Mahanadi Coalfields Limited",
+   "text": "Mahanadi Coalfields Limited has filled PROSP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/FP_INE03K401026_25NOV2026.pdf",
+   "kind": "Prospectus",
+   "src": "NSE offer documents",
+   "watch": false
+  },
   {
    "at": "2026-11-24 07:09",
    "company": "Coal India Limited",
