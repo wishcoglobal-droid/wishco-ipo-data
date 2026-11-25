@@ -1,6 +1,6 @@
 {
- "updated": "25 Nov 2026, 10:20 IST",
- "checked": "25 Nov 2026, 10:20 IST",
+ "updated": "25 Nov 2026, 11:29 IST",
+ "checked": "25 Nov 2026, 11:29 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -41,7 +41,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -82,7 +82,7 @@
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -123,7 +123,7 @@
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "A J Packaging Ltd.",
@@ -164,7 +164,7 @@
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -193,13 +193,13 @@
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 215.0,
+   "gmp": 218.0,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
@@ -234,7 +234,7 @@
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -255,6 +255,12 @@
     "allot": "2026-11-30",
     "listing": "2026-12-02",
     "mins": {
+     "b": {
+      "lots": 8,
+      "shares": 8000,
+      "amount": 1136000.0,
+      "label": "bHNI"
+     },
      "s": {
       "lots": 3,
       "shares": 3000,
@@ -266,22 +272,16 @@
       "shares": 2000,
       "amount": 284000.0,
       "label": "Individual"
-     },
-     "b": {
-      "lots": 8,
-      "shares": 8000,
-      "amount": 1136000.0,
-      "label": "bHNI"
      }
     }
    },
-   "det_t": 1795582252
+   "det_t": 1795586348
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 285.0,
+   "gmp": 286.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
