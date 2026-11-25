@@ -1,18 +1,36 @@
 {
- "updated": "25 Nov 2026, 19:22 IST",
+ "updated": "25 Nov 2026, 20:32 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 960,
+  "NSE announcements": 1023,
   "NSE offer documents": 16
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-25 19:29",
+   "company": "Concord Enviro Systems Limited",
+   "text": "In furtherance of the objects of the Initial Public Offer (\"IPO\"), as disclosed in the Prospectus of the Company dated December 23, 2024, we hereby inform that the Company has made further investment of Rs. 6,17,41,200 (Rupees Six Crores Seventeen Lakhs Forty-One Thousand and Two Hundred only) by su",
+   "url": "https://nsearchives.nseindia.com/corporate/CONCORDENVIRO_25112026192843_Intimation_for_Investment_in_REPL.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-25 00:00",
    "company": "Mahanadi Coalfields Limited",
    "text": "Mahanadi Coalfields Limited has filled PROSP for its IPO",
    "url": "https://nsearchives.nseindia.com/corporate/FP_INE03K401026_25NOV2026.pdf",
    "kind": "Prospectus",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-25 00:00",
+   "company": "Crystal Crop Protection Limited",
+   "text": "Crystal Crop Protection Limited has filled ADV for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/ADV_INE101P01016_25NOV2026.pdf",
+   "kind": "Advertisement",
    "src": "NSE offer documents",
    "watch": false
   },
