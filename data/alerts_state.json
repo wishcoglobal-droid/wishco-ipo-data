@@ -56,11 +56,11 @@
   },
   "watranarentals": {
    "high": 245.0,
-   "status": "closed"
+   "status": "listed"
   },
   "mahanadicoalfields": {
    "high": 136.0,
-   "status": "closed"
+   "status": "listed"
   },
   "crystalcropprotection": {
    "high": 272.0,
@@ -152,7 +152,7 @@
   },
   "airprotechnology": {
    "high": 99.0,
-   "status": "upcoming"
+   "status": "open"
   },
   "milestonegears": {
    "high": 0.0,
