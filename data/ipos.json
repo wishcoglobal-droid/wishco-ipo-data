@@ -1,6 +1,6 @@
 {
- "updated": "26 Nov 2026, 20:10 IST",
- "checked": "26 Nov 2026, 20:10 IST",
+ "updated": "26 Nov 2026, 21:14 IST",
+ "checked": "26 Nov 2026, 21:14 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -62,7 +62,27 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
+  },
+  {
+   "name": "Swara Baby Products Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": null,
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "listing": "2026-12-09",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1446",
+   "url": "https://www.ipopremium.in/view/ipo/1446/swara-baby-products-ltd",
+   "det": {
+    "issue_cr": 800.0,
+    "allot": "2026-12-07",
+    "listing": "2026-12-09"
+   },
+   "det_t": 1795707846
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -103,7 +123,7 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "A J Packaging Ltd.",
@@ -144,7 +164,7 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -173,7 +193,7 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -214,13 +234,13 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 146.0,
+   "gmp": 145.0,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "listing": "2026-12-02",
@@ -255,13 +275,13 @@
      }
     }
    },
-   "det_t": 1795703997
+   "det_t": 1795707846
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 266.0,
+   "gmp": 268.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -328,20 +348,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
   },
   {
-   "name": "Johnsoncab Electricals Ltd.",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 190.0,
-   "high": 200.0,
-   "status": "listed",
-   "id": "1428",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
-  },
-  {
    "name": "HGS (India) Ltd.",
    "board": "SME",
    "exch": "NSE SME",
@@ -354,6 +360,20 @@
    "status": "listed",
    "id": "1429",
    "url": "https://www.ipopremium.in/view/ipo/1429/hgs"
+  },
+  {
+   "name": "Johnsoncab Electricals Ltd.",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 190.0,
+   "high": 200.0,
+   "status": "listed",
+   "id": "1428",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
   },
   {
    "name": "Vectras Enprocon",
@@ -412,20 +432,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
   },
   {
-   "name": "Carver Roboweld Ltd",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-28",
-   "close": "2026-10-30",
-   "listing": "2026-11-04",
-   "low": 76.0,
-   "high": 80.0,
-   "status": "listed",
-   "id": "1425",
-   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd"
-  },
-  {
    "name": "M.K.Sons Fine Jewels Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -438,6 +444,20 @@
    "status": "listed",
    "id": "1422",
    "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd"
+  },
+  {
+   "name": "Carver Roboweld Ltd",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "listing": "2026-11-04",
+   "low": 76.0,
+   "high": 80.0,
+   "status": "listed",
+   "id": "1425",
+   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd"
   },
   {
    "name": "Wiscon Industries Ltd",
@@ -510,20 +530,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1215/core4-engineers-ltd"
   },
   {
-   "name": "Paras Healthcare Limited",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-21",
-   "close": "2026-10-23",
-   "listing": "2026-10-28",
-   "low": 660.0,
-   "high": 693.0,
-   "status": "listed",
-   "id": "829",
-   "url": "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited"
-  },
-  {
    "name": "Jio Platforms Ltd.",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -538,6 +544,20 @@
    "url": "https://www.ipopremium.in/view/ipo/1247/jio-platforms-ltd"
   },
   {
+   "name": "Paras Healthcare Limited",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": null,
+   "open": "2026-10-21",
+   "close": "2026-10-23",
+   "listing": "2026-10-28",
+   "low": 660.0,
+   "high": 693.0,
+   "status": "listed",
+   "id": "829",
+   "url": "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited"
+  },
+  {
    "name": "Tonbo Imaging India Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -550,20 +570,6 @@
    "status": "listed",
    "id": "1411",
    "url": "https://www.ipopremium.in/view/ipo/1411/tonbo-imaging-india-ltd"
-  },
-  {
-   "name": "Zetwerk Manufacturing Ltd.",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-15",
-   "close": "2026-10-19",
-   "listing": "2026-10-23",
-   "low": 143.0,
-   "high": 151.0,
-   "status": "listed",
-   "id": "1417",
-   "url": "https://www.ipopremium.in/view/ipo/1417/zetwerk-manufacturing-ltd"
   },
   {
    "name": "Shellz India Ltd",
