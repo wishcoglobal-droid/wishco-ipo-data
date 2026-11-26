@@ -1,29 +1,9 @@
 {
- "updated": "26 Nov 2026, 11:29 IST",
- "checked": "26 Nov 2026, 11:29 IST",
+ "updated": "26 Nov 2026, 12:50 IST",
+ "checked": "26 Nov 2026, 12:50 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
-  {
-   "name": "Milestone Gears Ltd (MAINBOARD)",
-   "board": "Mainboard",
-   "exch": "TENTATIVE DATE",
-   "gmp": null,
-   "open": "2026-12-04",
-   "close": "2026-12-08",
-   "listing": "2026-12-11",
-   "low": 0.0,
-   "high": 0.0,
-   "status": "upcoming",
-   "id": "1418",
-   "url": "https://www.ipopremium.in/view/ipo/1418/milestone-gears-ltd",
-   "det": {
-    "issue_cr": 0.0,
-    "allot": "2026-12-09",
-    "listing": "2026-12-11"
-   },
-   "det_t": 1795672767
-  },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
    "board": "Mainboard",
@@ -41,7 +21,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -82,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -123,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "A J Packaging Ltd.",
@@ -164,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -193,7 +173,7 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -234,13 +214,13 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 167.0,
+   "gmp": 166.0,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "listing": "2026-12-02",
@@ -275,7 +255,7 @@
      }
     }
    },
-   "det_t": 1795672767
+   "det_t": 1795677615
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -295,7 +275,7 @@
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 137.0,
+   "gmp": 137.25,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -334,6 +314,34 @@
    "url": "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd"
   },
   {
+   "name": "Maxwell Engineering Ltd.",
+   "board": "SME",
+   "exch": "NSE SME",
+   "gmp": null,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 150.0,
+   "high": 158.0,
+   "status": "listed",
+   "id": "1430",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
+  },
+  {
+   "name": "Johnsoncab Electricals Ltd.",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 190.0,
+   "high": 200.0,
+   "status": "listed",
+   "id": "1428",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
+  },
+  {
    "name": "HGS (India) Ltd.",
    "board": "SME",
    "exch": "NSE SME",
@@ -360,34 +368,6 @@
    "status": "listed",
    "id": "1431",
    "url": "https://www.ipopremium.in/view/ipo/1431/vectras-enprocon"
-  },
-  {
-   "name": "Johnsoncab Electricals Ltd.",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 190.0,
-   "high": 200.0,
-   "status": "listed",
-   "id": "1428",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
-  },
-  {
-   "name": "Maxwell Engineering Ltd.",
-   "board": "SME",
-   "exch": "NSE SME",
-   "gmp": null,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 150.0,
-   "high": 158.0,
-   "status": "listed",
-   "id": "1430",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
   },
   {
    "name": "Antala Industries Ltd",
@@ -418,6 +398,20 @@
    "url": "https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd"
   },
   {
+   "name": "Ajwa Projects Ltd",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "listing": "2026-11-04",
+   "low": 203.0,
+   "high": 203.0,
+   "status": "listed",
+   "id": "1426",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
+  },
+  {
    "name": "Carver Roboweld Ltd",
    "board": "SME",
    "exch": "BSE SME",
@@ -446,32 +440,18 @@
    "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd"
   },
   {
-   "name": "Ajwa Projects Ltd",
+   "name": "Wiscon Industries Ltd",
    "board": "SME",
    "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-28",
-   "close": "2026-10-30",
-   "listing": "2026-11-04",
-   "low": 203.0,
-   "high": 203.0,
-   "status": "listed",
-   "id": "1426",
-   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
-  },
-  {
-   "name": "BLS Polymers Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
    "gmp": null,
    "open": "2026-10-27",
    "close": "2026-10-29",
    "listing": "2026-11-03",
-   "low": 142.0,
-   "high": 150.0,
+   "low": 194.0,
+   "high": 204.0,
    "status": "listed",
-   "id": "1414",
-   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd"
+   "id": "1423",
+   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd"
   },
   {
    "name": "SFC Environmental Technologies Ltd",
@@ -488,18 +468,18 @@
    "url": "https://www.ipopremium.in/view/ipo/1412/sfc-environmental-technologies-ltd"
   },
   {
-   "name": "Wiscon Industries Ltd",
-   "board": "SME",
-   "exch": "BSE SME",
+   "name": "BLS Polymers Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
    "gmp": null,
    "open": "2026-10-27",
    "close": "2026-10-29",
    "listing": "2026-11-03",
-   "low": 194.0,
-   "high": 204.0,
+   "low": 142.0,
+   "high": 150.0,
    "status": "listed",
-   "id": "1423",
-   "url": "https://www.ipopremium.in/view/ipo/1423/wiscon-industries-ltd"
+   "id": "1414",
+   "url": "https://www.ipopremium.in/view/ipo/1414/bls-polymers-ltd"
   },
   {
    "name": "EAAA India Alternatives Ltd",
@@ -530,20 +510,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1215/core4-engineers-ltd"
   },
   {
-   "name": "Jio Platforms Ltd.",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-21",
-   "close": "2026-10-23",
-   "listing": "2026-10-28",
-   "low": 1065.0,
-   "high": 1119.0,
-   "status": "listed",
-   "id": "1247",
-   "url": "https://www.ipopremium.in/view/ipo/1247/jio-platforms-ltd"
-  },
-  {
    "name": "Paras Healthcare Limited",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -558,18 +524,18 @@
    "url": "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited"
   },
   {
-   "name": "Shellz India Ltd",
-   "board": "SME",
-   "exch": "BSE SME",
+   "name": "Jio Platforms Ltd.",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
    "gmp": null,
-   "open": "2026-10-15",
-   "close": "2026-10-19",
-   "listing": "2026-10-23",
-   "low": 170.0,
-   "high": 179.0,
+   "open": "2026-10-21",
+   "close": "2026-10-23",
+   "listing": "2026-10-28",
+   "low": 1065.0,
+   "high": 1119.0,
    "status": "listed",
-   "id": "1421",
-   "url": "https://www.ipopremium.in/view/ipo/1421/shellz-india-ltd"
+   "id": "1247",
+   "url": "https://www.ipopremium.in/view/ipo/1247/jio-platforms-ltd"
   },
   {
    "name": "Tonbo Imaging India Ltd",
@@ -584,6 +550,34 @@
    "status": "listed",
    "id": "1411",
    "url": "https://www.ipopremium.in/view/ipo/1411/tonbo-imaging-india-ltd"
+  },
+  {
+   "name": "Zetwerk Manufacturing Ltd.",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": null,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "listing": "2026-10-23",
+   "low": 143.0,
+   "high": 151.0,
+   "status": "listed",
+   "id": "1417",
+   "url": "https://www.ipopremium.in/view/ipo/1417/zetwerk-manufacturing-ltd"
+  },
+  {
+   "name": "Shellz India Ltd",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-15",
+   "close": "2026-10-19",
+   "listing": "2026-10-23",
+   "low": 170.0,
+   "high": 179.0,
+   "status": "listed",
+   "id": "1421",
+   "url": "https://www.ipopremium.in/view/ipo/1421/shellz-india-ltd"
   }
  ]
 }
