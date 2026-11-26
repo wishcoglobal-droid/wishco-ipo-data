@@ -1,6 +1,6 @@
 {
- "updated": "26 Nov 2026, 16:28 IST",
- "checked": "26 Nov 2026, 16:28 IST",
+ "updated": "26 Nov 2026, 17:30 IST",
+ "checked": "26 Nov 2026, 17:30 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -62,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -103,7 +103,7 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "A J Packaging Ltd.",
@@ -144,13 +144,13 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Airpro Technology India Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 101.0,
+   "gmp": 102.0,
    "open": "2026-11-27",
    "close": "2026-12-01",
    "listing": "2026-12-04",
@@ -173,7 +173,7 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -214,7 +214,7 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -255,13 +255,13 @@
      }
     }
    },
-   "det_t": 1795690687
+   "det_t": 1795694425
   },
   {
    "name": "Watrana Rentals Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 267.0,
+   "gmp": 264.0,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
@@ -275,7 +275,7 @@
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 136.75,
+   "gmp": 136.5,
    "open": "2026-11-19",
    "close": "2026-11-23",
    "listing": "2026-11-27",
