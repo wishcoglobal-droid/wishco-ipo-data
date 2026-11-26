@@ -1,12 +1,21 @@
 {
- "updated": "26 Nov 2026, 21:14 IST",
+ "updated": "26 Nov 2026, 22:21 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 1229,
+  "NSE announcements": 1245,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-26 21:22",
+   "company": "Brainbees Solutions Limited",
+   "text": "Brainbees Solutions Limited has informed the Exchange about filing of Red Herring Prospectus by Swara Baby Products Limited, a Subsidiary of Brainbees Solutions Limited.",
+   "url": "https://nsearchives.nseindia.com/corporate/BRAINBEES_26112026212152_DisclosureunderReg30_RHP.pdf",
+   "kind": "RHP",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-26 00:00",
    "company": "Mahanadi Coalfields Limited",

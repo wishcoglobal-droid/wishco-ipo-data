@@ -21,6 +21,14 @@
    "now": false,
    "h": "2026-11-26 21",
    "sub": null
+  },
+  {
+   "t": "📄 RHP filed: Brainbees Solutions — 26 Nov",
+   "e": "RHP filed · 26 Nov",
+   "c": null,
+   "now": true,
+   "h": "2026-11-26 22",
+   "sub": null
   }
  ],
  "quiet": "22-8",
@@ -242,7 +250,8 @@
   "anchor|foodlinkfbholdings": "2026-11-25",
   "list|crystalcropprotection": "2026-11-26",
   "new|swarababyproducts": "2026-11-26",
-  "gmp|shreesiddhivinayakgreentechindustries|2026-11-26|145": "2026-11-26"
+  "gmp|shreesiddhivinayakgreentechindustries|2026-11-26|145": "2026-11-26",
+  "filing|https://nsearchives.nseindia.com/corporate/BRAINBEES_26112026212152_DisclosureunderReg30_RHP.pdf": "2026-11-26"
  },
  "gmp": {
   "monomarkengineering": 88.0,
