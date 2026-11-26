@@ -167,20 +167,20 @@
   }
  ],
  "gift": {
-  "price": 25995.5,
-  "prev": 25995.64,
+  "price": 25960.5,
+  "prev": 25960.77,
   "pct": 0.0,
-  "at": "27 Nov 2026, 04:28 IST",
+  "at": "27 Nov 2026, 05:26 IST",
   "src": "liveindex.org"
  },
  "fiidii": {
   "date": "26 Nov 2026",
   "fii": 5843.33,
   "dii": 5630.72,
-  "at": "27 Nov 2026, 04:28 IST",
+  "at": "27 Nov 2026, 05:26 IST",
   "src": "groww.in"
  },
- "updated": "27 Nov 2026, 04:28 IST",
+ "updated": "27 Nov 2026, 05:26 IST",
  "log": [
   "MCX Gold: skipped (not found)",
   "MCX Silver: skipped (not found)",
