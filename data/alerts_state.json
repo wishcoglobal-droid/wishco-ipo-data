@@ -29,6 +29,14 @@
    "now": true,
    "h": "2026-11-26 22",
    "sub": null
+  },
+  {
+   "t": "💰 Swara Baby Products: price ₹105–111 · lot 135 shares",
+   "e": "Price band announced · price ₹105–111",
+   "c": "swarababyproducts",
+   "now": true,
+   "h": "2026-11-27 04",
+   "sub": null
   }
  ],
  "quiet": "22-8",
@@ -163,7 +171,7 @@
    "status": "upcoming"
   },
   "swarababyproducts": {
-   "high": 0.0,
+   "high": 111.0,
    "status": "upcoming"
   }
  },
@@ -251,7 +259,8 @@
   "list|crystalcropprotection": "2026-11-26",
   "new|swarababyproducts": "2026-11-26",
   "gmp|shreesiddhivinayakgreentechindustries|2026-11-26|145": "2026-11-26",
-  "filing|https://nsearchives.nseindia.com/corporate/BRAINBEES_26112026212152_DisclosureunderReg30_RHP.pdf": "2026-11-26"
+  "filing|https://nsearchives.nseindia.com/corporate/BRAINBEES_26112026212152_DisclosureunderReg30_RHP.pdf": "2026-11-26",
+  "price|swarababyproducts": "2026-11-27"
  },
  "gmp": {
   "monomarkengineering": 88.0,
@@ -264,7 +273,8 @@
   "crystalcropprotection": 290.0,
   "airprotechnology": 99.0,
   "milestonegears": 0.0,
-  "encubeethicals": 0.0
+  "encubeethicals": 0.0,
+  "swarababyproducts": 111.0
  },
  "seeded": true,
  "offset": 684628599,

@@ -1,6 +1,6 @@
 {
- "updated": "27 Nov 2026, 03:25 IST",
- "checked": "27 Nov 2026, 03:25 IST",
+ "updated": "27 Nov 2026, 04:28 IST",
+ "checked": "27 Nov 2026, 04:28 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -62,27 +62,48 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Swara Baby Products Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": null,
+   "gmp": 111.0,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
-   "low": 0.0,
-   "high": 0.0,
+   "low": 105.0,
+   "high": 111.0,
    "status": "upcoming",
    "id": "1446",
    "url": "https://www.ipopremium.in/view/ipo/1446/swara-baby-products-ltd",
    "det": {
+    "lot": 135,
     "issue_cr": 800.0,
     "allot": "2026-12-07",
-    "listing": "2026-12-09"
+    "listing": "2026-12-09",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 135,
+      "amount": 14985.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 1890,
+      "amount": 209790.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 67,
+      "shares": 9045,
+      "amount": 1003995.0,
+      "label": "bHNI"
+     }
+    }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -123,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "A J Packaging Ltd.",
@@ -164,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -193,7 +214,7 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -234,7 +255,7 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -275,7 +296,7 @@
      }
     }
    },
-   "det_t": 1795730152
+   "det_t": 1795733882
   },
   {
    "name": "Watrana Rentals Ltd",
