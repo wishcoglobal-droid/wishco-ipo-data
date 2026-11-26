@@ -1,12 +1,21 @@
 {
- "updated": "26 Nov 2026, 18:51 IST",
+ "updated": "26 Nov 2026, 20:09 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 1129,
+  "NSE announcements": 1204,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-26 00:00",
+   "company": "Mahanadi Coalfields Limited",
+   "text": "Mahanadi Coalfields Limited has filled ADV for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/ADV_INE03K401026_26NOV2026.pdf",
+   "kind": "Advertisement",
+   "src": "NSE offer documents",
+   "watch": false
+  },
   {
    "at": "2026-11-25 19:29",
    "company": "Concord Enviro Systems Limited",
