@@ -1,6 +1,6 @@
 {
- "updated": "27 Nov 2026, 14:15 IST",
- "checked": "27 Nov 2026, 14:15 IST",
+ "updated": "27 Nov 2026, 15:21 IST",
+ "checked": "27 Nov 2026, 15:21 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,7 +21,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Vishwas Refoils & Consumer Ltd.",
@@ -62,7 +62,7 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -103,13 +103,13 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Swara Baby Products Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 118.0,
+   "gmp": 114.0,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
@@ -144,13 +144,13 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Matangi Rubber Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 198.5,
+   "gmp": 203.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -185,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "A J Packaging Ltd.",
@@ -226,7 +226,7 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -255,7 +255,7 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -296,13 +296,13 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
    "board": "SME",
    "exch": "NSE SME",
-   "gmp": 143.5,
+   "gmp": 143.0,
    "open": "2026-11-25",
    "close": "2026-11-27",
    "listing": "2026-12-02",
@@ -337,7 +337,7 @@
      }
     }
    },
-   "det_t": 1795768795
+   "det_t": 1795773066
   },
   {
    "name": "Watrana Rentals Ltd",
