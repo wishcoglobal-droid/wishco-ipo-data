@@ -1,6 +1,6 @@
 {
- "updated": "27 Nov 2026, 10:20 IST",
- "checked": "27 Nov 2026, 10:20 IST",
+ "updated": "27 Nov 2026, 11:31 IST",
+ "checked": "27 Nov 2026, 11:31 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -21,13 +21,13 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Monomark Engineering (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 89.0,
+   "gmp": 85.0,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
@@ -62,13 +62,13 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Swara Baby Products Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 111.0,
+   "gmp": 122.0,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
@@ -103,13 +103,13 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Matangi Rubber Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 199.0,
+   "gmp": 194.0,
    "open": "2026-12-01",
    "close": "2026-12-03",
    "listing": "2026-12-08",
@@ -144,7 +144,7 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "A J Packaging Ltd.",
@@ -185,7 +185,7 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -214,13 +214,13 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 198.0,
+   "gmp": 196.0,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
@@ -255,7 +255,7 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -296,7 +296,7 @@
      }
     }
    },
-   "det_t": 1795755015
+   "det_t": 1795759303
   },
   {
    "name": "Watrana Rentals Ltd",

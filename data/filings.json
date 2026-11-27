@@ -1,12 +1,21 @@
 {
- "updated": "27 Nov 2026, 10:20 IST",
+ "updated": "27 Nov 2026, 11:31 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 321,
+  "NSE announcements": 398,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-27 11:12",
+   "company": "Coal India Limited",
+   "text": "Initial Public Offering (IPO) of equity shares of face value Rs. 2 each of Mahanadi Coalfields Limited, a subsidiary of Coal India Limited.",
+   "url": "https://nsearchives.nseindia.com/corporate/COALINDIA_27112026111158_mcl-letter_to_stock_exchage.pdf",
+   "kind": "IPO",
+   "src": "NSE announcements",
+   "watch": true
+  },
   {
    "at": "2026-11-26 21:22",
    "company": "Brainbees Solutions Limited",
