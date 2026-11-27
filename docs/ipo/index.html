@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>WishCo IPO Desk</title>
+<meta name="apple-mobile-web-app-title" content="IPO Desk">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#13203f">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<style>body{margin:0;height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font:600 16px system-ui;background:#fff;color:#13203f}img{width:96px;height:96px;margin-bottom:14px}a{margin-top:18px;color:#13203f}</style>
+</head><body>
+<img src="icon-192.png" alt="WishCo IPO Desk">
+<div id="msg">WishCo IPO Desk</div>
+<p id="how" style="max-width:300px;text-align:center;font-weight:500;line-height:1.5;color:#44506a"></p>
+<a id="go" href="https://script.google.com/macros/s/AKfycbw6fGBtj_StnGtI9gV-fLZrSDVA3BuIs0uonzr3SgrZEG0UObt5BABfSDV-m8F1kSdlag/exec">Open the app</a>
+<script>
+/* Home-screen launcher with the WishCo IPO logo (27 Nov 2026). From the home-screen icon it opens the LIVE app at once;
+   opened in the browser it shows how to add the icon. ?ch=test opens TEST. */
+var go=document.getElementById('go'),u=go.href,q=new URLSearchParams(location.search);
+if(q.get('ch')==='test'){u+='?ch=test';go.href=u}
+var homeIcon=window.navigator.standalone||matchMedia('(display-mode: standalone)').matches||matchMedia('(display-mode: fullscreen)').matches;
+if(homeIcon){document.getElementById('msg').textContent='Opening WishCo IPO Desk…';location.replace(u)}
+else document.getElementById('how').innerHTML=/iPhone|iPad/.test(navigator.userAgent)
+ ?'To put the app on your home screen with this logo: tap <b>Share</b> (square with arrow) → <b>Add to Home Screen</b> → <b>Add</b>.'
+ :'To put the app on your home screen with this logo: tap <b>⋮</b> (top right) → <b>Add to Home screen</b> → <b>Install / Add</b>.';
+</script>
+</body></html>
