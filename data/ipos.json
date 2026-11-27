@@ -1,27 +1,48 @@
 {
- "updated": "27 Nov 2026, 17:27 IST",
- "checked": "27 Nov 2026, 17:27 IST",
+ "updated": "27 Nov 2026, 18:42 IST",
+ "checked": "27 Nov 2026, 18:42 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
   {
-   "name": "Encube Ethicals Ltd. (Mainboard)",
+   "name": "Travelstack Tech Ltd (Mainboard)",
    "board": "Mainboard",
    "exch": "TENTATIVE DATE",
    "gmp": null,
-   "open": "2026-12-03",
-   "close": "2026-12-07",
-   "listing": "2026-12-10",
+   "open": "2026-12-04",
+   "close": "2026-12-08",
+   "listing": "2026-12-11",
    "low": 0.0,
    "high": 0.0,
    "status": "upcoming",
-   "id": "1437",
-   "url": "https://www.ipopremium.in/view/ipo/1437/encube-ethicals-ltd",
+   "id": "1457",
+   "url": "https://www.ipopremium.in/view/ipo/1457/travelstack-tech-ltd",
    "det": {
-    "allot": "2026-12-08",
-    "listing": "2026-12-10"
+    "issue_cr": 0.0,
+    "allot": "2026-12-09",
+    "listing": "2026-12-11"
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
+  },
+  {
+   "name": "Milestone Gears Ltd (MAINBOARD)",
+   "board": "Mainboard",
+   "exch": "TENTATIVE DATE",
+   "gmp": null,
+   "open": "2026-12-04",
+   "close": "2026-12-08",
+   "listing": "2026-12-11",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1418",
+   "url": "https://www.ipopremium.in/view/ipo/1418/milestone-gears-ltd",
+   "det": {
+    "issue_cr": 0.0,
+    "allot": "2026-12-09",
+    "listing": "2026-12-11"
+   },
+   "det_t": 1795785138
   },
   {
    "name": "Vishwas Refoils & Consumer Ltd.",
@@ -62,7 +83,26 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
+  },
+  {
+   "name": "Encube Ethicals Ltd. (Mainboard)",
+   "board": "Mainboard",
+   "exch": "TENTATIVE DATE",
+   "gmp": null,
+   "open": "2026-12-03",
+   "close": "2026-12-07",
+   "listing": "2026-12-10",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1437",
+   "url": "https://www.ipopremium.in/view/ipo/1437/encube-ethicals-ltd",
+   "det": {
+    "allot": "2026-12-08",
+    "listing": "2026-12-10"
+   },
+   "det_t": 1795785138
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -103,7 +143,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Swara Baby Products Ltd",
@@ -144,7 +184,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -185,7 +225,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "A J Packaging Ltd.",
@@ -226,7 +266,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -255,7 +295,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -296,7 +336,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -337,7 +377,7 @@
      }
     }
    },
-   "det_t": 1795780619
+   "det_t": 1795785138
   },
   {
    "name": "Watrana Rentals Ltd",
@@ -396,20 +436,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd"
   },
   {
-   "name": "Maxwell Engineering Ltd.",
-   "board": "SME",
-   "exch": "NSE SME",
-   "gmp": null,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 150.0,
-   "high": 158.0,
-   "status": "listed",
-   "id": "1430",
-   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
-  },
-  {
    "name": "HGS (India) Ltd.",
    "board": "SME",
    "exch": "NSE SME",
@@ -422,6 +448,20 @@
    "status": "listed",
    "id": "1429",
    "url": "https://www.ipopremium.in/view/ipo/1429/hgs"
+  },
+  {
+   "name": "Maxwell Engineering Ltd.",
+   "board": "SME",
+   "exch": "NSE SME",
+   "gmp": null,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 150.0,
+   "high": 158.0,
+   "status": "listed",
+   "id": "1430",
+   "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
   },
   {
    "name": "Johnsoncab Electricals Ltd.",
@@ -480,20 +520,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd"
   },
   {
-   "name": "Ajwa Projects Ltd",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-28",
-   "close": "2026-10-30",
-   "listing": "2026-11-04",
-   "low": 203.0,
-   "high": 203.0,
-   "status": "listed",
-   "id": "1426",
-   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
-  },
-  {
    "name": "Carver Roboweld Ltd",
    "board": "SME",
    "exch": "BSE SME",
@@ -520,6 +546,20 @@
    "status": "listed",
    "id": "1422",
    "url": "https://www.ipopremium.in/view/ipo/1422/mksons-fine-jewels-ltd"
+  },
+  {
+   "name": "Ajwa Projects Ltd",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "listing": "2026-11-04",
+   "low": 203.0,
+   "high": 203.0,
+   "status": "listed",
+   "id": "1426",
+   "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
   },
   {
    "name": "BLS Polymers Ltd",
@@ -592,20 +632,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1215/core4-engineers-ltd"
   },
   {
-   "name": "Jio Platforms Ltd.",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-21",
-   "close": "2026-10-23",
-   "listing": "2026-10-28",
-   "low": 1065.0,
-   "high": 1119.0,
-   "status": "listed",
-   "id": "1247",
-   "url": "https://www.ipopremium.in/view/ipo/1247/jio-platforms-ltd"
-  },
-  {
    "name": "Paras Healthcare Limited",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -618,20 +644,6 @@
    "status": "listed",
    "id": "829",
    "url": "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited"
-  },
-  {
-   "name": "Tonbo Imaging India Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-15",
-   "close": "2026-10-19",
-   "listing": "2026-10-23",
-   "low": 665.0,
-   "high": 700.0,
-   "status": "listed",
-   "id": "1411",
-   "url": "https://www.ipopremium.in/view/ipo/1411/tonbo-imaging-india-ltd"
   }
  ]
 }
