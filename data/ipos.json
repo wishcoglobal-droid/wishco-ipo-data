@@ -1,6 +1,6 @@
 {
- "updated": "27 Nov 2026, 23:10 IST",
- "checked": "27 Nov 2026, 23:10 IST",
+ "updated": "28 Nov 2026, 00:07 IST",
+ "checked": "28 Nov 2026, 00:07 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Milestone Gears Ltd (MAINBOARD)",
@@ -42,7 +42,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Vishwas Refoils & Consumer Ltd.",
@@ -83,7 +83,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
@@ -102,7 +102,7 @@
     "allot": "2026-12-08",
     "listing": "2026-12-10"
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -143,7 +143,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Swara Baby Products Ltd",
@@ -184,7 +184,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -225,7 +225,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "A J Packaging Ltd.",
@@ -266,7 +266,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -295,7 +295,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -336,7 +336,7 @@
      }
     }
    },
-   "det_t": 1795801198
+   "det_t": 1795804629
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -348,36 +348,9 @@
    "listing": "2026-12-02",
    "low": 130.0,
    "high": 142.0,
-   "status": "open",
+   "status": "closed",
    "id": "1444",
-   "url": "https://www.ipopremium.in/view/ipo/1444/shree-siddhivinayak-greentech-industries-ltd",
-   "det": {
-    "lot": 1000,
-    "issue_cr": 93.66,
-    "allot": "2026-11-30",
-    "listing": "2026-12-02",
-    "mins": {
-     "b": {
-      "lots": 8,
-      "shares": 8000,
-      "amount": 1136000.0,
-      "label": "bHNI"
-     },
-     "s": {
-      "lots": 3,
-      "shares": 3000,
-      "amount": 426000.0,
-      "label": "sHNI"
-     },
-     "r": {
-      "lots": 2,
-      "shares": 2000,
-      "amount": 284000.0,
-      "label": "Individual"
-     }
-    }
-   },
-   "det_t": 1795801198
+   "url": "https://www.ipopremium.in/view/ipo/1444/shree-siddhivinayak-greentech-industries-ltd"
   },
   {
    "name": "Watrana Rentals Ltd",
