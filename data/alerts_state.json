@@ -148,6 +148,10 @@
   "swarababyproducts": {
    "high": 111.0,
    "status": "upcoming"
+  },
+  "vishwasrefoilsconsumer": {
+   "high": 90.0,
+   "status": "upcoming"
   }
  },
  "sent": {
@@ -241,7 +245,9 @@
   "list|mahanadicoalfields": "2026-11-27",
   "sub|shreesiddhivinayakgreentechindustries|2026-11-27|10": "2026-11-27",
   "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_27112026111158_mcl-letter_to_stock_exchage.pdf": "2026-11-27",
-  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|11": "2026-11-27"
+  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|11": "2026-11-27",
+  "new|vishwasrefoilsconsumer": "2026-11-27",
+  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|12": "2026-11-27"
  },
  "gmp": {
   "monomarkengineering": 88.0,
@@ -255,7 +261,8 @@
   "airprotechnology": 99.0,
   "milestonegears": 0.0,
   "encubeethicals": 0.0,
-  "swarababyproducts": 111.0
+  "swarababyproducts": 111.0,
+  "vishwasrefoilsconsumer": 90.0
  },
  "seeded": true,
  "offset": 684628599,
