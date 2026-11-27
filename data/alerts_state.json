@@ -8,7 +8,8 @@
   "allot": true,
   "list": true,
   "gmp": true,
-  "stale": true
+  "stale": true,
+  "buyback": true
  },
  "chats": [
   9149037975
@@ -247,7 +248,8 @@
   "filing|https://nsearchives.nseindia.com/corporate/COALINDIA_27112026111158_mcl-letter_to_stock_exchage.pdf": "2026-11-27",
   "sub|shreesiddhivinayakgreentechindustries|2026-11-27|11": "2026-11-27",
   "new|vishwasrefoilsconsumer": "2026-11-27",
-  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|12": "2026-11-27"
+  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|12": "2026-11-27",
+  "sub|shreesiddhivinayakgreentechindustries|2026-11-27|14": "2026-11-27"
  },
  "gmp": {
   "monomarkengineering": 88.0,
