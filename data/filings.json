@@ -1,8 +1,8 @@
 {
- "updated": "27 Nov 2026, 19:58 IST",
+ "updated": "27 Nov 2026, 21:01 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 1103,
+  "NSE announcements": 1169,
   "NSE offer documents": 17
  },
  "log": [],
@@ -31,6 +31,15 @@
    "text": "Mahanadi Coalfields Limited has filled ADV for its IPO",
    "url": "https://nsearchives.nseindia.com/corporate/ADV_INE03K401026_26NOV2026.pdf",
    "kind": "Advertisement",
+   "src": "NSE offer documents",
+   "watch": false
+  },
+  {
+   "at": "2026-11-26 00:00",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "text": "Swaraj Green Power and Fuel Limited has filled DP_DRHP for its IPO",
+   "url": "https://nsearchives.nseindia.com/corporate/Swaraj_UDRHP-I.zip",
+   "kind": "DRHP",
    "src": "NSE offer documents",
    "watch": false
   },
