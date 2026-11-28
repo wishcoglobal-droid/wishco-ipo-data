@@ -1,12 +1,21 @@
 {
- "updated": "28 Nov 2026, 11:11 IST",
+ "updated": "28 Nov 2026, 12:14 IST",
  "src": "nseindia.com RSS",
  "feed_items": {
-  "NSE announcements": 119,
+  "NSE announcements": 142,
   "NSE offer documents": 17
  },
  "log": [],
  "items": [
+  {
+   "at": "2026-11-28 12:04",
+   "company": "Gretex Corporate Services Limited",
+   "text": "Gretex Corporate Services Limited has informed the Exchange regarding 'The Company has filed Red Herring Prospectus (RHP) of the Shreyas Fabtech Limited with the Registrar of Companies, Mumbai in connection with its proposed listing on the Emerge Platform of National Stock Exchange of India Limited ",
+   "url": "https://nsearchives.nseindia.com/corporate/bdesai_28112026120424_Intimation_for_Filing_RHP_-_Shreyas_Fabtech_Limited.pdf",
+   "kind": "RHP",
+   "src": "NSE announcements",
+   "watch": false
+  },
   {
    "at": "2026-11-27 11:12",
    "company": "Coal India Limited",
