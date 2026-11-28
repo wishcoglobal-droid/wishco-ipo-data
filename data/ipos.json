@@ -1,6 +1,6 @@
 {
- "updated": "28 Nov 2026, 14:23 IST",
- "checked": "28 Nov 2026, 14:23 IST",
+ "updated": "28 Nov 2026, 15:22 IST",
+ "checked": "28 Nov 2026, 15:22 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
@@ -22,7 +22,7 @@
     "allot": "2026-12-10",
     "listing": "2026-12-14"
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Milestone Gears Ltd (MAINBOARD)",
@@ -42,7 +42,7 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Travelstack Tech Ltd (Mainboard)",
@@ -62,13 +62,13 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Encube Ethicals Ltd. (Mainboard)",
    "board": "Mainboard",
    "exch": "TENTATIVE DATE, PRICE & LOT",
-   "gmp": 876.0,
+   "gmp": 868.0,
    "open": "2026-12-03",
    "close": "2026-12-07",
    "listing": "2026-12-10",
@@ -102,7 +102,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Vishwas Refoils & Consumer Ltd.",
@@ -143,13 +143,13 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Swara Baby Products Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 114.0,
+   "gmp": 112.5,
    "open": "2026-12-02",
    "close": "2026-12-04",
    "listing": "2026-12-09",
@@ -184,7 +184,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Monomark Engineering (India) Ltd",
@@ -225,7 +225,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -266,7 +266,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "A J Packaging Ltd.",
@@ -307,7 +307,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -336,7 +336,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
@@ -377,7 +377,7 @@
      }
     }
    },
-   "det_t": 1795852760
+   "det_t": 1795859569
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
