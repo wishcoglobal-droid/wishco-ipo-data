@@ -14,7 +14,16 @@
  "chats": [
   9149037975
  ],
- "queue": [],
+ "queue": [
+  {
+   "t": "📈 Encube Ethicals: GMP ₹0 → ₹858 · 130.4% of ₹658",
+   "e": "GMP ₹0 → ₹858",
+   "c": "encubeethicals",
+   "now": false,
+   "h": "2026-11-28 13",
+   "sub": null
+  }
+ ],
  "quiet": "22-8",
  "on": true,
  "snap": {
@@ -143,7 +152,7 @@
    "status": "upcoming"
   },
   "encubeethicals": {
-   "high": 0.0,
+   "high": 658.0,
    "status": "upcoming"
   },
   "swarababyproducts": {
@@ -155,6 +164,10 @@
    "status": "upcoming"
   },
   "travelstacktech": {
+   "high": 0.0,
+   "status": "upcoming"
+  },
+  "integrismedtech": {
    "high": 0.0,
    "status": "upcoming"
   }
@@ -258,7 +271,10 @@
   "sub|shreesiddhivinayakgreentechindustries|2026-11-27|16": "2026-11-27",
   "new|travelstacktech": "2026-11-27",
   "filing|https://nsearchives.nseindia.com/corporate/Swaraj_UDRHP-I.zip": "2026-11-27",
-  "filing|https://nsearchives.nseindia.com/corporate/bdesai_28112026120424_Intimation_for_Filing_RHP_-_Shreyas_Fabtech_Limited.pdf": "2026-11-28"
+  "filing|https://nsearchives.nseindia.com/corporate/bdesai_28112026120424_Intimation_for_Filing_RHP_-_Shreyas_Fabtech_Limited.pdf": "2026-11-28",
+  "new|integrismedtech": "2026-11-28",
+  "price|encubeethicals": "2026-11-28",
+  "gmp|encubeethicals|2026-11-28|858": "2026-11-28"
  },
  "gmp": {
   "monomarkengineering": 88.0,
@@ -271,7 +287,7 @@
   "crystalcropprotection": 290.0,
   "airprotechnology": 99.0,
   "milestonegears": 0.0,
-  "encubeethicals": 0.0,
+  "encubeethicals": 858.0,
   "swarababyproducts": 111.0,
   "vishwasrefoilsconsumer": 90.0
  },

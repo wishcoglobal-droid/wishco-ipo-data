@@ -1,28 +1,28 @@
 {
- "updated": "28 Nov 2026, 12:14 IST",
- "checked": "28 Nov 2026, 12:14 IST",
+ "updated": "28 Nov 2026, 13:29 IST",
+ "checked": "28 Nov 2026, 13:29 IST",
  "src": "ipopremium.in",
  "log": [],
  "ipos": [
   {
-   "name": "Travelstack Tech Ltd (Mainboard)",
+   "name": "Integris Medtech Ltd (MAINBOARD)",
    "board": "Mainboard",
-   "exch": "TENTATIVE DATE",
+   "exch": "TENTATIVE DATES",
    "gmp": null,
-   "open": "2026-12-04",
-   "close": "2026-12-08",
-   "listing": "2026-12-11",
+   "open": "2026-12-07",
+   "close": "2026-12-09",
+   "listing": "2026-12-14",
    "low": 0.0,
    "high": 0.0,
    "status": "upcoming",
-   "id": "1457",
-   "url": "https://www.ipopremium.in/view/ipo/1457/travelstack-tech-ltd",
+   "id": "1443",
+   "url": "https://www.ipopremium.in/view/ipo/1443/integris-medtech-ltd",
    "det": {
     "issue_cr": 0.0,
-    "allot": "2026-12-09",
-    "listing": "2026-12-11"
+    "allot": "2026-12-10",
+    "listing": "2026-12-14"
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "Milestone Gears Ltd (MAINBOARD)",
@@ -42,7 +42,67 @@
     "allot": "2026-12-09",
     "listing": "2026-12-11"
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
+  },
+  {
+   "name": "Travelstack Tech Ltd (Mainboard)",
+   "board": "Mainboard",
+   "exch": "TENTATIVE DATE",
+   "gmp": null,
+   "open": "2026-12-04",
+   "close": "2026-12-08",
+   "listing": "2026-12-11",
+   "low": 0.0,
+   "high": 0.0,
+   "status": "upcoming",
+   "id": "1457",
+   "url": "https://www.ipopremium.in/view/ipo/1457/travelstack-tech-ltd",
+   "det": {
+    "issue_cr": 0.0,
+    "allot": "2026-12-09",
+    "listing": "2026-12-11"
+   },
+   "det_t": 1795852760
+  },
+  {
+   "name": "Encube Ethicals Ltd. (Mainboard)",
+   "board": "Mainboard",
+   "exch": "TENTATIVE DATE, PRICE & LOT",
+   "gmp": 858.0,
+   "open": "2026-12-03",
+   "close": "2026-12-07",
+   "listing": "2026-12-10",
+   "low": 629.0,
+   "high": 658.0,
+   "status": "upcoming",
+   "id": "1437",
+   "url": "https://www.ipopremium.in/view/ipo/1437/encube-ethicals-ltd",
+   "det": {
+    "lot": 22,
+    "allot": "2026-12-08",
+    "listing": "2026-12-10",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 22,
+      "amount": 14476.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 308,
+      "amount": 202664.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 70,
+      "shares": 1540,
+      "amount": 1013320.0,
+      "label": "bHNI"
+     }
+    }
+   },
+   "det_t": 1795852760
   },
   {
    "name": "Vishwas Refoils & Consumer Ltd.",
@@ -83,67 +143,7 @@
      }
     }
    },
-   "det_t": 1795848258
-  },
-  {
-   "name": "Encube Ethicals Ltd. (Mainboard)",
-   "board": "Mainboard",
-   "exch": "TENTATIVE DATE",
-   "gmp": null,
-   "open": "2026-12-03",
-   "close": "2026-12-07",
-   "listing": "2026-12-10",
-   "low": 0.0,
-   "high": 0.0,
-   "status": "upcoming",
-   "id": "1437",
-   "url": "https://www.ipopremium.in/view/ipo/1437/encube-ethicals-ltd",
-   "det": {
-    "allot": "2026-12-08",
-    "listing": "2026-12-10"
-   },
-   "det_t": 1795848258
-  },
-  {
-   "name": "Monomark Engineering (India) Ltd",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": 85.0,
-   "open": "2026-12-02",
-   "close": "2026-12-04",
-   "listing": "2026-12-09",
-   "low": 60.0,
-   "high": 65.0,
-   "status": "upcoming",
-   "id": "1451",
-   "url": "https://www.ipopremium.in/view/ipo/1451/monomark-engineering",
-   "det": {
-    "lot": 225,
-    "issue_cr": 175.5,
-    "allot": "2026-12-07",
-    "listing": "2026-12-09",
-    "mins": {
-     "r": {
-      "lots": 1,
-      "shares": 225,
-      "amount": 14625.0,
-      "label": "Retail"
-     },
-     "s": {
-      "lots": 14,
-      "shares": 3150,
-      "amount": 204750.0,
-      "label": "sHNI"
-     },
-     "b": {
-      "lots": 69,
-      "shares": 15525,
-      "amount": 1009125.0,
-      "label": "bHNI"
-     }
-    }
-   },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "Swara Baby Products Ltd",
@@ -184,7 +184,48 @@
      }
     }
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
+  },
+  {
+   "name": "Monomark Engineering (India) Ltd",
+   "board": "Mainboard",
+   "exch": "MAINBOARD",
+   "gmp": 85.0,
+   "open": "2026-12-02",
+   "close": "2026-12-04",
+   "listing": "2026-12-09",
+   "low": 60.0,
+   "high": 65.0,
+   "status": "upcoming",
+   "id": "1451",
+   "url": "https://www.ipopremium.in/view/ipo/1451/monomark-engineering",
+   "det": {
+    "lot": 225,
+    "issue_cr": 175.5,
+    "allot": "2026-12-07",
+    "listing": "2026-12-09",
+    "mins": {
+     "r": {
+      "lots": 1,
+      "shares": 225,
+      "amount": 14625.0,
+      "label": "Retail"
+     },
+     "s": {
+      "lots": 14,
+      "shares": 3150,
+      "amount": 204750.0,
+      "label": "sHNI"
+     },
+     "b": {
+      "lots": 69,
+      "shares": 15525,
+      "amount": 1009125.0,
+      "label": "bHNI"
+     }
+    }
+   },
+   "det_t": 1795852760
   },
   {
    "name": "Matangi Rubber Ltd",
@@ -225,7 +266,7 @@
      }
     }
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "A J Packaging Ltd.",
@@ -266,7 +307,7 @@
      }
     }
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "Airpro Technology India Ltd",
@@ -295,13 +336,13 @@
      }
     }
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "Foodlink F&B Holdings (India) Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
-   "gmp": 195.0,
+   "gmp": 194.5,
    "open": "2026-11-26",
    "close": "2026-11-30",
    "listing": "2026-12-03",
@@ -336,7 +377,7 @@
      }
     }
    },
-   "det_t": 1795848258
+   "det_t": 1795852760
   },
   {
    "name": "Shree Siddhivinayak Greentech Industries Ltd",
@@ -353,20 +394,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1444/shree-siddhivinayak-greentech-industries-ltd"
   },
   {
-   "name": "Watrana Rentals Ltd",
-   "board": "SME",
-   "exch": "NSE SME",
-   "gmp": null,
-   "open": "2026-11-19",
-   "close": "2026-11-23",
-   "listing": "2026-11-27",
-   "low": 232.0,
-   "high": 245.0,
-   "status": "listed",
-   "id": "1439",
-   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd"
-  },
-  {
    "name": "Mahanadi Coalfields",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -379,6 +406,20 @@
    "status": "listed",
    "id": "1434",
    "url": "https://www.ipopremium.in/view/ipo/1434/mahanadi-coalfields"
+  },
+  {
+   "name": "Watrana Rentals Ltd",
+   "board": "SME",
+   "exch": "NSE SME",
+   "gmp": null,
+   "open": "2026-11-19",
+   "close": "2026-11-23",
+   "listing": "2026-11-27",
+   "low": 232.0,
+   "high": 245.0,
+   "status": "listed",
+   "id": "1439",
+   "url": "https://www.ipopremium.in/view/ipo/1439/watrana-rentals-ltd"
   },
   {
    "name": "Crystal Crop Protection Ltd",
@@ -409,6 +450,20 @@
    "url": "https://www.ipopremium.in/view/ipo/1432/vedant-poly-fabs-ltd"
   },
   {
+   "name": "Johnsoncab Electricals Ltd.",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-30",
+   "close": "2026-11-03",
+   "listing": "2026-11-06",
+   "low": 190.0,
+   "high": 200.0,
+   "status": "listed",
+   "id": "1428",
+   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
+  },
+  {
    "name": "HGS (India) Ltd.",
    "board": "SME",
    "exch": "NSE SME",
@@ -435,20 +490,6 @@
    "status": "listed",
    "id": "1430",
    "url": "https://www.ipopremium.in/view/ipo/1430/maxwell-engineering-ltd"
-  },
-  {
-   "name": "Johnsoncab Electricals Ltd.",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-30",
-   "close": "2026-11-03",
-   "listing": "2026-11-06",
-   "low": 190.0,
-   "high": 200.0,
-   "status": "listed",
-   "id": "1428",
-   "url": "https://www.ipopremium.in/view/ipo/1428/johnsoncab-electricals-ltd"
   },
   {
    "name": "Vectras Enprocon",
@@ -493,20 +534,6 @@
    "url": "https://www.ipopremium.in/view/ipo/1424/bombay-coated-special-steels-ltd"
   },
   {
-   "name": "Carver Roboweld Ltd",
-   "board": "SME",
-   "exch": "BSE SME",
-   "gmp": null,
-   "open": "2026-10-28",
-   "close": "2026-10-30",
-   "listing": "2026-11-04",
-   "low": 76.0,
-   "high": 80.0,
-   "status": "listed",
-   "id": "1425",
-   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd"
-  },
-  {
    "name": "M.K.Sons Fine Jewels Ltd",
    "board": "Mainboard",
    "exch": "MAINBOARD",
@@ -533,6 +560,20 @@
    "status": "listed",
    "id": "1426",
    "url": "https://www.ipopremium.in/view/ipo/1426/ajwa-projects-ltd"
+  },
+  {
+   "name": "Carver Roboweld Ltd",
+   "board": "SME",
+   "exch": "BSE SME",
+   "gmp": null,
+   "open": "2026-10-28",
+   "close": "2026-10-30",
+   "listing": "2026-11-04",
+   "low": 76.0,
+   "high": 80.0,
+   "status": "listed",
+   "id": "1425",
+   "url": "https://www.ipopremium.in/view/ipo/1425/carver-roboweld-ltd"
   },
   {
    "name": "BLS Polymers Ltd",
@@ -603,20 +644,6 @@
    "status": "listed",
    "id": "1215",
    "url": "https://www.ipopremium.in/view/ipo/1215/core4-engineers-ltd"
-  },
-  {
-   "name": "Paras Healthcare Limited",
-   "board": "Mainboard",
-   "exch": "MAINBOARD",
-   "gmp": null,
-   "open": "2026-10-21",
-   "close": "2026-10-23",
-   "listing": "2026-10-28",
-   "low": 660.0,
-   "high": 693.0,
-   "status": "listed",
-   "id": "829",
-   "url": "https://www.ipopremium.in/view/ipo/829/paras-healthcare-limited"
   }
  ]
 }
