@@ -14,16 +14,7 @@
  "chats": [
   9149037975
  ],
- "queue": [
-  {
-   "t": "📈 Encube Ethicals: GMP ₹0 → ₹858 · 130.4% of ₹658",
-   "e": "GMP ₹0 → ₹858",
-   "c": "encubeethicals",
-   "now": false,
-   "h": "2026-11-28 13",
-   "sub": null
-  }
- ],
+ "queue": [],
  "quiet": "22-8",
  "on": true,
  "snap": {
